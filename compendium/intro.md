@@ -2,7 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Compendium
+
+[Shadow Word: Pain](https://www.wowhead.com/spell=589/shadow-word-pain)
 
 Let's discover **Docusaurus in less than 5 minutes**.
 

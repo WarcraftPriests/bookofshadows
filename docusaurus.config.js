@@ -12,14 +12,14 @@ const config = {
   tagline: 'Shadow Priest Resources',
   favicon: 'img/book.jpg',
 
-  // Set the production url of your site here
+  clientModules: [
+    'wowheadModule.js'
+  ],
+
   url: 'https://warcraftpriests.github.io',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/bookofshadows/',
 
   // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
   organizationName: 'warcraftpriests', // Usually your GitHub org/user name.
   projectName: 'bookofshadows', // Usually your repo name.
   deploymentBranch: 'gh-pages',
@@ -27,9 +27,6 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -44,17 +41,14 @@ const config = {
           path: 'compendium',
           routeBasePath: 'compendium',
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          // "edit this page" links use this as the base url.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/WarcraftPriests/bookofshadows/tree/main/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/WarcraftPriests/bookofshadows/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -63,11 +57,36 @@ const config = {
     ],
   ],
 
+  headTags: [
+    {
+      tagName: 'script',
+      attributes: {},
+      innerHTML: `
+      const whTooltips={colorLinks: true, iconizeLinks: true, renameLinks: true};
+      document.addEventListener('readystatechange', event => {
+        if (event.target.readyState === "complete") {
+          window.$WowheadPower.refreshLinks();
+        }
+       });
+      `
+    },
+    {
+      tagName: 'script',
+      attributes: {
+        defer: "true",
+        src: 'https://wow.zamimg.com/widgets/power.js'
+      }
+    }
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      colorMode: {
+        defaultMode: 'dark'
+      },
       navbar: {
         title: 'Book of Shadows',
         logo: {
@@ -105,16 +124,20 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'WarcraftPriests',
+                href: 'https://warcraftpriests.com/',
+              },
+              {
+                label: 'Sim Charts',
+                href: 'https://warcraftpriests.github.io/',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/WarcraftPriests',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/WarcraftPriests',
               },
             ],
           },
@@ -127,12 +150,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/warcraftpriests/bookofshadows',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} WarcraftPriests. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
