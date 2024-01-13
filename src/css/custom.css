@@ -28,3 +28,23 @@
   --ifm-color-primary-lightest: #d8cae5;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/*
+Wowhead Icons have weird sizing with headers
+*/
+h1 .icontinyl
+{
+  padding-left: 28px !important;
+  background-size: 25px;
+}
+
+h2 .icontinyl
+{
+  padding-left: 28px !important;
+  background-size: 25px;
+}
+
+h3 .icontinyl
+{
+  padding-left: 18px !important;
+}
