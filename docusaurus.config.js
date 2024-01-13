@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/book.jpg',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://warcraftpriests.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/bookofshadows/',
@@ -41,6 +41,8 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          path: 'compendium',
+          routeBasePath: 'compendium',
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -67,21 +69,21 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Book of Shadows',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Book of Shadows Logo',
+          src: 'img/book.jpg',
         },
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'compendiumSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Compendium',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/warcraftpriests/bookofshadows',
             label: 'GitHub',
             position: 'right',
           },
@@ -91,11 +93,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Book of Shadows',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Compendium',
+                to: '/compendium/intro',
               },
             ],
           },
