@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbookofshadows=self.webpackChunkbookofshadows||[]).push([[9426],{75:o=>{o.exports=JSON.parse('{"label":"hola","permalink":"/bookofshadows/blog/tags/hola","allTagsPath":"/bookofshadows/blog/tags","count":1,"unlisted":false}')}}]);
