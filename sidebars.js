@@ -13,19 +13,30 @@
 
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
-  // By default, Docusaurus generates a sidebar from the docs folder structure
   compendiumSidebar: [
+    'intro',
     {
       type: 'category',
-      label: 'Compendium',
-      items: ['intro'],
+      label: 'Spells',
+      collapsible: true,
+      collapsed: false,
+      items: [
+        'spells/spells',
+        {
+          type: 'category',
+          label: 'Talents',
+          collapsible: true,
+          collapsed: false,
+          items: [
+            'spells/talents/priest',
+            'spells/talents/shadow'
+          ]
+        },
+        'spells/gear',
+        'spells/consumables',
+      ]
     }
   ],
-
-  // But you can create a sidebar manually
-  // compendiumSidebar: [
-  //   'intro'
-  // ],
 };
 
 export default sidebars;

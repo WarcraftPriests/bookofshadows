@@ -32,14 +32,18 @@ const config = {
     locales: ['en'],
   },
 
+  plugins: [
+    require.resolve('docusaurus-lunr-search')
+  ],
+
   presets: [
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          path: 'compendium',
-          routeBasePath: 'compendium',
+          // path: 'compendium',
+          routeBasePath: '/',
           sidebarPath: './sidebars.js',
           // "edit this page" links use this as the base url.
           editUrl:
@@ -101,6 +105,7 @@ const config = {
             label: 'Compendium',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/guides', label: 'Guides', position: 'left'},
           {
             href: 'https://github.com/warcraftpriests/bookofshadows',
             label: 'GitHub',
@@ -116,7 +121,7 @@ const config = {
             items: [
               {
                 label: 'Compendium',
-                to: '/compendium/intro',
+                to: '/compendium',
               },
             ],
           },

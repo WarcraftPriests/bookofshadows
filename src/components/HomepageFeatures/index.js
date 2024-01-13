@@ -11,32 +11,35 @@ const FeatureList = [
         Shadow Priest Spell Compendium details how our spells work.
       </>
     ),
+    link: 'compendium',
   },
   {
     title: 'Blog',
-    image: 'img/book.jpg',
+    image: 'img/scroll.jpg',
     description: (
       <>
         Blog pages to post various musings about Shadow Priests.
       </>
     ),
+    link: 'blog',
   },
   {
     title: 'Guides',
-    image: 'img/book.jpg',
+    image: 'img/guides.jpg',
     description: (
       <>
         Hub page linking to external guides.
       </>
     ),
+    link: 'guides',
   },
 ];
 
-function Feature({image, title, description}) {
+function Feature({image, title, description, link}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <img src={image} className={styles.featureSvg} />
+        <a href={link}><img src={image} className={styles.featureSvg} /></a>
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
