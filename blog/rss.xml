@@ -15,6 +15,7 @@
             <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[The following feedback is from the perspective of a Shadow Priest.]]></description>
             <content:encoded><![CDATA[<p>The following feedback is from the perspective of a Shadow Priest.</p>
+<p>You can find all current bugs for Priests in The War Within <a href="https://github.com/SimCMinMax/WoW-BugTracker/issues?q=is%3Aopen+is%3Aissue+label%3A%222-The+War+Within%22+label%3APriest" target="_blank" rel="noopener noreferrer">here</a>.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="any-bugs-blocking-testing">Any bugs blocking testing?<a href="https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-voidweaver#any-bugs-blocking-testing" class="hash-link" aria-label="Direct link to Any bugs blocking testing?" title="Direct link to Any bugs blocking testing?">​</a></h2>
 <ul>
 <li>Voidwraith<!-- -->
@@ -84,6 +85,7 @@
 <li>Voidwraith's talent tooltip indicates that it deals "up to 50% additional damage, dealing more damage to higher health enemies" but the actual spell deals a flat 135% of spellpower and then if the mob is above 50% health it deals 100% increased damage. This is inconsistent with the talent tooltip and not sure what is intended.</li>
 <li>There is nothing baseline in-game to track how many times you have extended Entropic Rift (and if you have any left) with Darkening Horizon without using some kind of WeakAura. (x/5)</li>
 <li>There is nothing baseline in-game to track how many times you have expanded Entropic Rift with Collapsing Void without using some kind of WeakAura. (x/8)</li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1185" target="_blank" rel="noopener noreferrer">Void Blast's tooltip shows a low number for Shadow</a></li>
 </ul>]]></content:encoded>
             <category>alpha</category>
             <category>voidweaver</category>
