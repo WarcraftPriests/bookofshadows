@@ -43,3 +43,5 @@ The following feedback is from the perspective of a Shadow Priest.
 - Proc rate of Depth of Shadows and the health threshold is currently unknown and not shown on the spell.
 - Inner Quietus [does not increase the direct damage of Shadow Word: Pain](https://github.com/SimCMinMax/WoW-BugTracker/issues/1177). This is particular is confusing with Catharsis.
 - Voidwraith's talent tooltip indicates that it deals "up to 50% additional damage, dealing more damage to higher health enemies" but the actual spell deals a flat 135% of spellpower and then if the mob is above 50% health it deals 100% increased damage. This is inconsistent with the talent tooltip and not sure what is intended.
+- There is nothing baseline in-game to track how many times you have extended Entropic Rift (and if you have any left) with Darkening Horizon without using some kind of WeakAura. (x/5)
+- There is nothing baseline in-game to track how many times you have expanded Entropic Rift with Collapsing Void without using some kind of WeakAura. (x/8)
