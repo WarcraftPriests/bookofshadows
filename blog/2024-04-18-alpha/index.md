@@ -8,6 +8,8 @@ tags: [alpha,voidweaver]
 # Alpha Feedback - Voidweaver
 The following feedback is from the perspective of a Shadow Priest.
 
+You can find all current bugs for Priests in The War Within [here](https://github.com/SimCMinMax/WoW-BugTracker/issues?q=is%3Aopen+is%3Aissue+label%3A%222-The+War+Within%22+label%3APriest).
+
 ## Any bugs blocking testing?
 - Voidwraith
   - [Does not work with Mindbender](https://github.com/SimCMinMax/WoW-BugTracker/issues/1174) (see below section)
@@ -45,3 +47,4 @@ The following feedback is from the perspective of a Shadow Priest.
 - Voidwraith's talent tooltip indicates that it deals "up to 50% additional damage, dealing more damage to higher health enemies" but the actual spell deals a flat 135% of spellpower and then if the mob is above 50% health it deals 100% increased damage. This is inconsistent with the talent tooltip and not sure what is intended.
 - There is nothing baseline in-game to track how many times you have extended Entropic Rift (and if you have any left) with Darkening Horizon without using some kind of WeakAura. (x/5)
 - There is nothing baseline in-game to track how many times you have expanded Entropic Rift with Collapsing Void without using some kind of WeakAura. (x/8)
+- [Void Blast's tooltip shows a low number for Shadow](https://github.com/SimCMinMax/WoW-BugTracker/issues/1185)
