@@ -24,7 +24,8 @@ You can find all current bugs for Priests in The War Within [here](https://githu
 - [After talenting into and out of No Escape, it is still active.](https://github.com/SimCMinMax/WoW-BugTracker/issues/1178)
 
 ## Hero Talents that Create Frustrating or Unsatisfying gameplay
-- Current Entropic Rift window feels very busy and borderline overwhelming and you are rushing to try and get Void Blasts and Devouring Plagues out and do not have room to do much else.
+- Current Entropic Rift window feels very busy and borderline overwhelming and you are rushing to try and get Void Blasts and Devouring Plagues out and do not have room to do much else. This is directly linked to feeling like we cannot quite "cap" the rift size or extension consistently. If that was fixed this might also be better to play with. There is some charm in having to chase the rotation here.
+  - Currently Shadow also feels like it has to ramp to get meaningful damage out of the talent, the Void Torrent channel into then spawning the rift and then reaching peak 15 seconds later is a very long time in environments when things do not live that long. 
 - Darkening Horizon feels very unachievable to get the full extension without Bloodlust, Power Infusion, and a lot of baseline haste while also getting lucky with procs. Not being able to max this except in rare cases is unsatisfying.
   - Reducing the cooldown of Void Blast, making it Instant Cast, and/or adding other spells to this would help
 - Collapsing Void Devouring Plague expansion feels extremely underwhelming or even non-existent, even after casting 5 Devouring Plagues the size of the rift is still smaller than 8 yards, which is less than Shadow Crash and by then it fizzles away.
@@ -33,11 +34,12 @@ You can find all current bugs for Priests in The War Within [here](https://githu
 - When a mob dies that was the original target of Entropic Rift, this can feel super unsatisfying, especially if it remains as a small size since it currently does not move or re-target.
   - Would be awesome if an enemy dies in the rift it also expands and "consumes" them 
 - Entropic Rift not pulling enemies in feels unsatisfying. For a spell that closely resembles a black hole, I wish it acted more like it. The slow from No Escape is in a similar space but not nearly what I expected. In PvE the applications for the slow are quite underwhelming.
-- The choice node between No Escape and Dark Energy is unsatisfying. The effect of No Escape will not have many use cases in PvE and Dark Energy is an extremely fun to play with talent. Feels like people will always run Dark Energy.
+- The choice node between No Escape and Dark Energy is unsatisfying. At the current size of the rift No Escape feels extremely underwhelming and likely will not have many use cases in PvE at the current size Shadow can get it to. In the current state it feels like Dark Energy will be preferred always.
   -  Would love to see additions or changes to No Escape such as the black hole design mentioned above.
-
+  -  Adjusting the pacing/sizing that Shadow can get the rift to would certainly help No Escape.
 - The choice node between Devour Matter and Void Empowerment does not feel satisfying. Devour Matter is an extremely niche ability in almost all types of content, where it will only provide a small amount of value even if the condition is met. On the other hand Void Empowerment is always useful and consistent and provides value every 30 seconds with Malediction.
   - If we had this choice node on live, in current examples where we do face enemies with shields (Tindral, Fyrakk, Iridikron) that is such a small portion of the fight, Void Empowerment would still be the better choice.
+- Currently locks you into the bottom right side of our spec talent tree for this spec as Void Torrent, Malediction, and Idol of C'Thun all have such strong synergies. Could be frustrating when taking any Shadow Word: Death points in Voidweaver that also encourage spending points in the bottom left side of our spec tree.
 
 ## Hero Talents where Functionality is Confusing, Unclear, or Difficult to Track
 - Cooldown of Voidwraith is confusing since when taking Mindbender the cooldown is not lowered at all and remains fixed at 2 minutes, making Mindbender a completely dead talent.
