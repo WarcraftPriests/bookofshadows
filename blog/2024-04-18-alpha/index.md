@@ -27,7 +27,8 @@ You can find all current bugs for Priests in The War Within [here](https://githu
 - Current Entropic Rift window feels very busy and borderline overwhelming and you are rushing to try and get Void Blasts and Devouring Plagues out and do not have room to do much else. This is directly linked to feeling like we cannot quite "cap" the rift size or extension consistently. If that was fixed this might also be better to play with. There is some charm in having to chase the rotation here.
   - Currently Shadow also feels like it has to ramp to get meaningful damage out of the talent, the Void Torrent channel into then spawning the rift and then reaching peak 15 seconds later is a very long time in environments when things do not live that long. 
 - Darkening Horizon feels very unachievable to get the full extension without Bloodlust, Power Infusion, and a lot of baseline haste while also getting lucky with procs. Not being able to max this except in rare cases is unsatisfying.
-  - Reducing the cooldown of Void Blast, making it Instant Cast, and/or adding other spells to this would help
+  - Reducing the cooldown of Void Blast, making it Instant Cast, working with other spells as well, and/or increasing how much extension you get per Void Blast would help
+  - Changing it to a spammable spell like Discipline probably would not feel fun, as it would really hurt the value of non-filler spells during this window
 - Collapsing Void Devouring Plague expansion feels extremely underwhelming or even non-existent, even after casting 5 Devouring Plagues the size of the rift is still smaller than 8 yards, which is less than Shadow Crash and by then it fizzles away.
   - Make it work with Devouring Plague ticks and/or significantly increase how much it is increased by per cast
   - Fantasy element and visually this is extremely underwhelming
