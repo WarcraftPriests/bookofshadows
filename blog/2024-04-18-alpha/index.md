@@ -51,3 +51,4 @@ You can find all current bugs for Priests in The War Within [here](https://githu
 - There is nothing baseline in-game to track how many times you have extended Entropic Rift (and if you have any left) with Darkening Horizon without using some kind of WeakAura. (x/5)
 - There is nothing baseline in-game to track how many times you have expanded Entropic Rift with Collapsing Void without using some kind of WeakAura. (x/8)
 - [Void Blast's tooltip shows a low number for Shadow](https://github.com/SimCMinMax/WoW-BugTracker/issues/1185)
+- Visual of Entropic Rift can be hard to see in certain environments on the ground, and because it does not re-target after the original dies this is important to know where to drag mobs into, especially for your Tank in PvE environments. The rift not re-targeting after the original dies is also unintuitive.
