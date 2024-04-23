@@ -54,19 +54,29 @@ You can find all current bugs for Priests in The War Within [here](https://githu
 - [Void Blast's tooltip shows a low number for Shadow](https://github.com/SimCMinMax/WoW-BugTracker/issues/1185)
 - Visual of Entropic Rift can be hard to see in certain environments on the ground, and because it does not re-target after the original dies this is important to know where to drag mobs into, especially for your Tank in PvE environments. The rift not re-targeting after the original dies is also unintuitive.
 
-## Entropic Rift Windows
+# Entropic Rift Windows
+[quote="Publik-thrall, post:2, topic:1833178"]
+Current Entropic Rift window feels very busy and borderline overwhelming and you are rushing to try and get Void Blasts and Devouring Plagues out and do not have room to do much else. This is directly linked to feeling like we cannot quite “cap” the rift size or extension consistently. If that was fixed this might also be better to play with. There is some charm in having to chase the rotation here.
+[/quote]
+
 After spending a bit more time with Voidweaver I wanted to clarify this comment a bit since I was pretty vague in this statement.
 
-The Entropic Rift window specifically for Shadow Priests has a varying degree of pure gameplay feel based on other talents that we are picking. Particularly if you are playing a build with Void Eruption, and/or playing one with Inescapable Torment you inevitably have to sacrifice some of these button presses to prioritize Entropic Rift casts in a way that makes it feel busy. Juggling Void Bolt, Void Blast, Devouring Plague, and Shadow Word: Death makes for a busy window.
+The Entropic Rift window specifically for Shadow Priests has a varying degree of pure gameplay feel based on other talents that we are picking. Particularly if you are playing a build with Void Eruption and especially worse if you also have Inescapable Torment. With Void Eruption you inevitably have to sacrifice some casts of spells like Void Bolt to prioritize Entropic Rift casts in a way that makes it feel busy. 
 
-For other builds that use Dark Ascension or do not talent into Inescapable Torment the Rift itself brings a much welcomed pacing into the build that feels like you are working towards something. That something is still a bit uninspiring at the current size of the rift, but that was covered in a different section. Expanding the rift size in general feels lackluster as a Shadow Priest (much better as Discipline).
+There's enough rotational pressure from Void Blasts, Devouring Plague (and Shadow Word: Death if you have Inescapable Torment) to make the windows feel rewarding that adding the additional rotational pressure of Void Bolt detracts from the experience and makes it feel significantly less rewarding. 
 
-I think there should be some kind of sweet spot the build lives where expanding the rifts size should feel exciting and rewarding, and the extension of the rift duration should be easy to get a few casts, and reward players that are more skillful with the full extension. Rift now for Shadow Priests the rift expansion is extremely underwhelming and it feels like we can almost never get the full duration extension off, even while playing perfectly.
+For a Hero Talent tree that has Void in the name Void Eruption does not have great synergies with these spells. Void Eruption as a cooldown is primarily focused around Void Bolt, which doesn't have any direct synergies with Voidweaver. We only rarely will reach maximum extension of the rift duration from very lucky procs, and by doing so we are de-prioritizing Void Bolts.
 
-## Ramp Concerns
-Another point I didn't get to focus on earlier was the ramp itself into the Entropic Rift. As a goal we are encouraged to have our DoTs active before pressing Void Torrent, but with how our Insanity generation is currently we are heavily incentivized to just cast Void Torrent for one tick to spawn the rift just to get into the start of our opener. Casting Void Torrent just into Vampiric Touch and Shadow Word: Pain on the opener just isn't worth full channeling, and sitting there building up to 45/50/55 Insanity for Devouring Plague (depending on talents) is quite a long wait for our cooldown cycle.
+For other builds that do not use Void Eruption the Rift itself brings a much welcomed pacing into the build that feels like you are working towards something. That something is still a bit uninspiring at the current size of the rift, but that was covered in a different section. Expanding the rift size in general feels lackluster as a Shadow Priest (much better as Discipline).
 
-This is certainly part of tuning overall, but is something we are noticing with the opener of a Voidweaver Shadow Priest that is a bit awkward to play with currently.
+I think there should be some kind of sweet spot the build lives where expanding the rifts size should feel exciting and rewarding, and the extension of the rift duration should be easy to get a few casts, and reward players that are more skillful with the full extension. For Shadow Priests the rift expansion is extremely underwhelming and it feels like we can almost never get the full duration extension off, even while playing perfectly.
 
-## Pathing and Build Diversity
-The other big thing related to this is how the tree is currently pressuring you to not only pickup Void Torrent, Malediction, and Idol of C'Thun in the bottom section, but talents like Devour Matter and in particular Depth of Shadows/Voidwraith choice node also pull you towards Mindbender, Inescapable Torment, and Idol of Y'Shaarj (assuming bugs are worked out/intended to work with these). Encouraging and locking into the bottom right section is totally expected, but it just gets a bit much when we are also heavily encouraged to path on the complete opposite side of the tree, not to mention thematically the Shadow Word: Death and Pet-focused spells don't exactly fit the Void theme as well as other nodes.
+# Opener Concerns and Setup Time
+Another point I didn't get to focus on earlier was the opener itself into the Entropic Rift. As a goal we are encouraged to have our DoTs active before pressing Void Torrent, but with how we start off pulls currently we are heavily incentivized to just cast Void Torrent for one tick and then cancel to spawn the rift just to get into the start of our opener. Casting Void Torrent just into Vampiric Touch and Shadow Word: Pain on the opener just isn't worth full channeling, and sitting there building up to 45/50/55 Insanity for Devouring Plague (depending on talents) is quite a long wait for our cooldown cycle.
+
+This is certainly part of tuning overall, but is something we are noticing with the opener and setup of a Voidweaver Shadow Priest that is a bit awkward to play with currently.
+
+# Pathing and Build Diversity
+The other big thing related to this is how the tree is currently pressuring you to not only pickup Void Torrent, Malediction, and Idol of C'Thun in the bottom section, but talents like Depth of Shadows or Voidwraith also pull you towards Mindbender, Inescapable Torment, and Idol of Y'Shaarj (assuming bugs are worked out/intended to work with these). Mastermind is also an extremely valuable point with any build due to the strength of Void Blast. 
+
+Encouraging and locking into the bottom right section is totally expected with the core of Entropic Rift, but it just gets a bit much when we are also heavily encouraged to path on the complete opposite side of the tree, not to mention thematically the Shadow Word: Death and Pet-focused spells don't exactly fit the Void theme as well as other nodes.
