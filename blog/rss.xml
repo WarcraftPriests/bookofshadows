@@ -22,7 +22,7 @@
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="any-bugs-blocking-testing">Any bugs blocking testing?<a href="https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-archon#any-bugs-blocking-testing" class="hash-link" aria-label="Direct link to Any bugs blocking testing?" title="Direct link to Any bugs blocking testing?">​</a></h2>
 <ul>
-<li>Animation of Halo does not seem to match when the damage happens, but the Holy version seems to match</li>
+<li>Animation of Halo does not seem to match when the damage happens, but the Holy version seems to match.</li>
 <li>As an Archon Priest if someone else casts Power Infusion on you while yours is active, it will remove your existing Power Infusion buff completely.</li>
 <li>If you are mid-cast of Mind Spike and get a proc of Mind Spike: Insanity from a Halo creation it will consume the Surge of Insanity and not give you the increased damage. It should either buff the damage or not consume the proc (which is what Mind Flay: Insanity does). This also does not generate a Shadowy Apparition from this bug.</li>
 </ul>
@@ -60,6 +60,7 @@
 <li>Not a whole lot of synergy with our spec talents</li>
 <li>Lack of coherency between nodes</li>
 <li>For an "ultimate" version of ourselves our cooldowns dont <em>feel</em> that empowered, especially not visually</li>
+<li>Animation of Halo seems kind of lackluster as Shadow</li>
 </ul>]]></content:encoded>
             <category>alpha</category>
             <category>archon</category>
