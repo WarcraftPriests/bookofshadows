@@ -14,7 +14,7 @@ You can find all current bugs for Priests in The War Within [here](https://githu
 - Word of Supremacy for Archon would make you feel pushed toward the tree when trying to live high-key Mythic+ dungeons compared to Voidweaver
 
 ## Any bugs blocking testing?
-- Animation of Halo does not seem to match when the damage happens, but the Holy version seems to match
+- Animation of Halo does not seem to match when the damage happens, but the Holy version seems to match.
 - As an Archon Priest if someone else casts Power Infusion on you while yours is active, it will remove your existing Power Infusion buff completely.
 - If you are mid-cast of Mind Spike and get a proc of Mind Spike: Insanity from a Halo creation it will consume the Surge of Insanity and not give you the increased damage. It should either buff the damage or not consume the proc (which is what Mind Flay: Insanity does). This also does not generate a Shadowy Apparition from this bug.
 
@@ -46,3 +46,4 @@ You can find all current bugs for Priests in The War Within [here](https://githu
 - Not a whole lot of synergy with our spec talents
 - Lack of coherency between nodes
 - For an "ultimate" version of ourselves our cooldowns dont _feel_ that empowered, especially not visually
+- Animation of Halo seems kind of lackluster as Shadow
