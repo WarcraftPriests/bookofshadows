@@ -47,7 +47,18 @@ With Shadow Crash being a 20 second cooldown and the Rift only lasting 8 seconds
 <p>Shadow Crash now centers on your target, rather than using a reticle to target a position on the ground.</p>
 </blockquote>
 <p>This change overall is extremely polarizing. While this does make the spell easier to target in some cases, it also makes it significantly less useful in other cases. Often times we are able to pre-cast Shadow Crash to time it with mobs spawning (i.e. Sarkareth or 2nd boss Brackenhide), but this is no longer possible with this change. The travel time on the spell also now requiring a target is just solving the problem of it being difficult to target while creating a new problem of being less useful in certain situations.</p>
-<p>Instead of making this change I would personally rather have the old version. If this new functionality is the direction the spec is going in I would strongly like to have a similar choice node in our spec tree to what Windwalker Monks have with Skytouch and Skyreach. Give us the ability to choose a cast-on-target Shadow Crash or a ground-target Shadow Crash so that we don't lose our existing functionality but gain the accessability advantages.</p>]]></content>
+<p>Instead of making this change I would personally rather have the old version. If this new functionality is the direction the spec is going in I would strongly like to have a similar choice node in our spec tree to what Windwalker Monks have with Skytouch and Skyreach. Give us the ability to choose a cast-on-target Shadow Crash or a ground-target Shadow Crash so that we don't lose our existing functionality but gain the accessability advantages.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tree-cohesion">Tree Cohesion<a href="https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-voidweaver#tree-cohesion" class="hash-link" aria-label="Direct link to Tree Cohesion" title="Direct link to Tree Cohesion">​</a></h2>
+<p>After these changes the tree feels more directionless and we have a lot of nodes working with unrelated abilities. While the Entropic Rift was changed to Shadow Crash, we still have a node that makes Void Torrent cast while moving, which is still a cool node but now feels way more random unless we revert that change. Personally would love for this to be more focused to make building around Voidweaver feel more distinct. Shadow Word: Death and Mindbender nodes in particular still feel out of place, equally so with Void Torrent/Shadow Crash conflicting.</p>
+<p>Point Categorization:</p>
+<ul>
+<li>Void Torrent - 1</li>
+<li>Shadow Crash - 2</li>
+<li>Mind Blast - 4</li>
+<li>Devouring Plague- 2</li>
+<li>Shadow Word: Death - 2</li>
+<li>Shadowfiend/Mindbender - 2</li>
+</ul>]]></content>
         <author>
             <name>Publik</name>
             <uri>https://github.com/seanpeters86</uri>
@@ -149,7 +160,18 @@ With Shadow Crash being a 20 second cooldown and the Rift only lasting 8 seconds
 <p>Shadow Crash now centers on your target, rather than using a reticle to target a position on the ground.</p>
 </blockquote>
 <p>This change overall is extremely polarizing. While this does make the spell easier to target in some cases, it also makes it significantly less useful in other cases. Often times we are able to pre-cast Shadow Crash to time it with mobs spawning (i.e. Sarkareth or 2nd boss Brackenhide), but this is no longer possible with this change. The travel time on the spell also now requiring a target is just solving the problem of it being difficult to target while creating a new problem of being less useful in certain situations.</p>
-<p>Instead of making this change I would personally rather have the old version. If this new functionality is the direction the spec is going in I would strongly like to have a similar choice node in our spec tree to what Windwalker Monks have with Skytouch and Skyreach. Give us the ability to choose a cast-on-target Shadow Crash or a ground-target Shadow Crash so that we don't lose our existing functionality but gain the accessability advantages.</p>]]></content>
+<p>Instead of making this change I would personally rather have the old version. If this new functionality is the direction the spec is going in I would strongly like to have a similar choice node in our spec tree to what Windwalker Monks have with Skytouch and Skyreach. Give us the ability to choose a cast-on-target Shadow Crash or a ground-target Shadow Crash so that we don't lose our existing functionality but gain the accessability advantages.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tree-cohesion">Tree Cohesion<a href="https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-voidweaver#tree-cohesion" class="hash-link" aria-label="Direct link to Tree Cohesion" title="Direct link to Tree Cohesion">​</a></h2>
+<p>After these changes the tree feels more directionless and we have a lot of nodes working with unrelated abilities. While the Entropic Rift was changed to Shadow Crash, we still have a node that makes Void Torrent cast while moving, which is still a cool node but now feels way more random unless we revert that change. Personally would love for this to be more focused to make building around Voidweaver feel more distinct. Shadow Word: Death and Mindbender nodes in particular still feel out of place, equally so with Void Torrent/Shadow Crash conflicting.</p>
+<p>Point Categorization:</p>
+<ul>
+<li>Void Torrent - 1</li>
+<li>Shadow Crash - 2</li>
+<li>Mind Blast - 4</li>
+<li>Devouring Plague- 2</li>
+<li>Shadow Word: Death - 2</li>
+<li>Shadowfiend/Mindbender - 2</li>
+</ul>]]></content>
         <author>
             <name>Publik</name>
             <uri>https://github.com/seanpeters86</uri>
