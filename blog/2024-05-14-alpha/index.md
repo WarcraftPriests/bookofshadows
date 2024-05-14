@@ -46,3 +46,14 @@ This is similar to the points above, adding damage to Shadow Crash just doesn't 
 This change overall is extremely polarizing. While this does make the spell easier to target in some cases, it also makes it significantly less useful in other cases. Often times we are able to pre-cast Shadow Crash to time it with mobs spawning (i.e. Sarkareth or 2nd boss Brackenhide), but this is no longer possible with this change. The travel time on the spell also now requiring a target is just solving the problem of it being difficult to target while creating a new problem of being less useful in certain situations. 
 
 Instead of making this change I would personally rather have the old version. If this new functionality is the direction the spec is going in I would strongly like to have a similar choice node in our spec tree to what Windwalker Monks have with Skytouch and Skyreach. Give us the ability to choose a cast-on-target Shadow Crash or a ground-target Shadow Crash so that we don't lose our existing functionality but gain the accessability advantages.
+
+## Tree Cohesion
+After these changes the tree feels more directionless and we have a lot of nodes working with unrelated abilities. While the Entropic Rift was changed to Shadow Crash, we still have a node that makes Void Torrent cast while moving, which is still a cool node but now feels way more random unless we revert that change. Personally would love for this to be more focused to make building around Voidweaver feel more distinct. Shadow Word: Death and Mindbender nodes in particular still feel out of place, equally so with Void Torrent/Shadow Crash conflicting.
+
+Point Categorization:
+- Void Torrent - 1
+- Shadow Crash - 2
+- Mind Blast - 4
+- Devouring Plague- 2
+- Shadow Word: Death - 2
+- Shadowfiend/Mindbender - 2
