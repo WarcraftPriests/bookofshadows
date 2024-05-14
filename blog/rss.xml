@@ -4,10 +4,54 @@
         <title>Book of Shadows Blog</title>
         <link>https://warcraftpriests.github.io/bookofshadows/blog</link>
         <description>Book of Shadows Blog</description>
-        <lastBuildDate>Thu, 02 May 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Shadow Crash Incident - Voidweaver]]></title>
+            <link>https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-voidweaver</link>
+            <guid>https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-voidweaver</guid>
+            <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[The recent changes on the Alpha are quite unexpected and overall have me feeling quite disappointed and sad that we lost certain interactions. Overall these changes create more problems than they end up solving in the first place and my inclination is to revert back to previous iterations. More details below, starting from the top of the changes.]]></description>
+            <content:encoded><![CDATA[<p>The recent changes on the Alpha are quite unexpected and overall have me feeling quite disappointed and sad that we lost certain interactions. Overall these changes create more problems than they end up solving in the first place and my inclination is to revert back to previous iterations. More details below, starting from the top of the changes.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="collapsing-void">Collapsing Void<a href="https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-voidweaver#collapsing-void" class="hash-link" aria-label="Direct link to Collapsing Void" title="Direct link to Collapsing Void">​</a></h2>
+<blockquote>
+<p>as well as to make Collapsing Void more relevant for encounters with lower health enemies</p>
+</blockquote>
+<p>Overall this is actually a positive change, the length of the Rift was certainly opening the spec up to challenges in shorter lived content so it being balanced around smaller windows makes a lot of sense depending on tuning.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="devour-matter-and-void-empowerment">Devour Matter and Void Empowerment<a href="https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-voidweaver#devour-matter-and-void-empowerment" class="hash-link" aria-label="Direct link to Devour Matter and Void Empowerment" title="Direct link to Devour Matter and Void Empowerment">​</a></h2>
+<blockquote>
+<p>In addition, Devour Matter felt like an odd choice against Void Empowerment, so now it is a node that you are guaranteed to have.</p>
+</blockquote>
+<p>In regards to Devour Matter I'm still unsure how exactly the Shadow Word: Death nodes fit with the Voidweaver theme, but point wise the choice node does make more sense to move it. Devour Matter itself still feels out of place on the tree.</p>
+<p>For the new choice node the duration extension now is effectively a choice against Collapsing Void size expansion and damage, which feels like a weird choice depending on where tuning comes into the picture. If the goal is to have shorter lived windows I don't think extending by only 3 seconds is really enough to notice much of an impact considering Void Blast has such a long cooldown.</p>
+<p>Overall I think Darkening Horizon makes less sense in this version of Voidweaver, a small amount of extension just isn't enough to feel powerful and feels weak in comparison to Void Empowerment, especially if we are going to have smaller rifts more of them with this design.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="entropic-rift">Entropic Rift<a href="https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-voidweaver#entropic-rift" class="hash-link" aria-label="Direct link to Entropic Rift" title="Direct link to Entropic Rift">​</a></h2>
+<blockquote>
+<p>Entropic Rift duration reduced to 8 seconds (was 10 seconds).
+This change by itself seems okay along with the goal posted above, however it does have some knock on effects with other changes (see below). In addition this also means Shadow has an even harder time empowering the rift and expanding its size since we can only do this with Devouring Plague casts. More than ever it desperately needs to also work with Devouring Plague ticks in order to feel rewarding.</p>
+</blockquote>
+<blockquote>
+<p>Entropic Rift is now summoned by Shadow Crash instead of Void Torrent.
+With Shadow Crash being a 20 second cooldown and the Rift only lasting 8 seconds baseline you will now be strongly incentivize to only cast Mind Blast during Rift windows, this can create gameplay that makes Voidweaver much less intuitive. Overall this feels more awkward than it did with being attached to Void Torrent. Having the Rift reset the cooldown of Mind Blast could solve this, but would likely be way too strong and I'm not sure of another way around this that feels healthy.</p>
+</blockquote>
+<p>The spec in general doesn't feel right locking into Shadow Crash everywhere, especially single target. Void Torrent feels good to press almost everywhere so it did not have this problem. Reducing the ramp time of the Entropic Rift (don't have to wait for Void Torrent channel) is slightly improved, but the change from last week felt like a great solve to this in my opinion and I'm sad to see this change from Void Torrent and I personally preferred the older version instead of the Shadow Crash one.</p>
+<p>This also creates a lot of problems with damage pattern inside of Mythic+ environments, similar to what was observed during Season 3 of Dragonflight where we pressed Shadow Crash for damage. Adding damage to Shadow Crash makes it really frustrating to play with as its our DoT application spell. If we are trying to get prepped for a pull and DoTing enemies Shadow Crash is now a full-blown damage spell (way more than it was in Season 3). This is also even more frustrating mid-way through a pull when you are faced with a choice of pressing Shadow Crash for damage on this pack vs. holding it for the next one to get your damage going. The spell doesn't create rewarding gameplay when its used for both DoT application and damage.</p>
+<p>This change is basically opening up the can of worms of problems with <a href="https://us.forums.blizzard.com/en/wow/t/shadow-priest-dragonflight-feedback/1819255#unsatisfying-dot-management-options-6" target="_blank" rel="noopener noreferrer">Shadow Crash</a> and personally I think its less fun than when the rift was attached to Void Torrent because of all of this.</p>
+<blockquote>
+<p>Inner Quietus has been redesigned – Shadow Crash deals 400% additional damage to its primary target (was Vampiric Touch and Shadow Word: Pain damage increased by 20%).</p>
+</blockquote>
+<p>This is similar to the points above, adding damage to Shadow Crash just doesn't feel good since we use it for DoT application today and not for damage reasons.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="shadow-crash">Shadow Crash<a href="https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-voidweaver#shadow-crash" class="hash-link" aria-label="Direct link to Shadow Crash" title="Direct link to Shadow Crash">​</a></h2>
+<blockquote>
+<p>Shadow Crash now centers on your target, rather than using a reticle to target a position on the ground.</p>
+</blockquote>
+<p>This change overall is extremely polarizing. While this does make the spell easier to target in some cases, it also makes it significantly less useful in other cases. Often times we are able to pre-cast Shadow Crash to time it with mobs spawning (i.e. Sarkareth or 2nd boss Brackenhide), but this is no longer possible with this change. The travel time on the spell also now requiring a target is just solving the problem of it being difficult to target while creating a new problem of being less useful in certain situations.</p>
+<p>Instead of making this change I would personally rather have the old version. If this new functionality is the direction the spec is going in I would strongly like to have a similar choice node in our spec tree to what Windwalker Monks have with Skytouch and Skyreach. Give us the ability to choose a cast-on-target Shadow Crash or a ground-target Shadow Crash so that we don't lose our existing functionality but gain the accessability advantages.</p>]]></content:encoded>
+            <category>alpha</category>
+            <category>voidweaver</category>
+        </item>
         <item>
             <title><![CDATA[Alpha Feedback - Archon]]></title>
             <link>https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-archon</link>
@@ -64,95 +108,41 @@
             <guid>https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-voidweaver</guid>
             <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[The following feedback is from the perspective of a Shadow Priest.]]></description>
-            <content:encoded><![CDATA[<p>The following feedback is from the perspective of a Shadow Priest.</p>
-<p>You can find all current bugs for Priests in The War Within <a href="https://github.com/SimCMinMax/WoW-BugTracker/issues?q=is%3Aopen+is%3Aissue+label%3A%222-The+War+Within%22+label%3APriest" target="_blank" rel="noopener noreferrer">here</a>.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="any-bugs-blocking-testing">Any bugs blocking testing?<a href="https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-voidweaver#any-bugs-blocking-testing" class="hash-link" aria-label="Direct link to Any bugs blocking testing?" title="Direct link to Any bugs blocking testing?">​</a></h2>
-<ul>
-<li>Voidwraith<!-- -->
-<ul>
-<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1174" target="_blank" rel="noopener noreferrer">Does not work with Mindbender</a> (see below section)</li>
-<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1175" target="_blank" rel="noopener noreferrer">Does not trigger Idol of Y'Shaarj</a></li>
-<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1179" target="_blank" rel="noopener noreferrer">Sometimes melee's instead of casting</a></li>
-<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1180" target="_blank" rel="noopener noreferrer">Is not scaling with any of our Priest modifiers</a>. This includes Twist of Fate, Mastery, Shadowform, Idol of Y'Shaarj, Voidheart, etc</li>
-<li>Currently <em>does</em> work with Inescapable Torment, unsure which half of this is intended, but guessing it is supposed to work with our talents.</li>
-</ul>
-</li>
-<li>Depth of Shadows<!-- -->
-<ul>
-<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1172" target="_blank" rel="noopener noreferrer">Proccing this puts Mindbender or Shadowfiend on cooldown</a></li>
-<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1173" target="_blank" rel="noopener noreferrer">Does not trigger Idol of Y'Shaarj</a></li>
-</ul>
-</li>
-<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1176" target="_blank" rel="noopener noreferrer">Devour Matter 300% increase is not applying</a></li>
-<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1178" target="_blank" rel="noopener noreferrer">After talenting into and out of No Escape, it is still active.</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hero-talents-that-create-frustrating-or-unsatisfying-gameplay">Hero Talents that Create Frustrating or Unsatisfying gameplay<a href="https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-voidweaver#hero-talents-that-create-frustrating-or-unsatisfying-gameplay" class="hash-link" aria-label="Direct link to Hero Talents that Create Frustrating or Unsatisfying gameplay" title="Direct link to Hero Talents that Create Frustrating or Unsatisfying gameplay">​</a></h2>
-<ul>
-<li>Current Entropic Rift window feels very busy and borderline overwhelming and you are rushing to try and get Void Blasts and Devouring Plagues out and do not have room to do much else. This is directly linked to feeling like we cannot quite "cap" the rift size or extension consistently. If that was fixed this might also be better to play with. There is some charm in having to chase the rotation here.<!-- -->
-<ul>
-<li>Currently Shadow also feels like it has to ramp to get meaningful damage out of the talent, the Void Torrent channel into then spawning the rift and then reaching peak 15 seconds later is a very long time in environments when things do not live that long.</li>
-</ul>
-</li>
-<li>Darkening Horizon feels very unachievable to get the full extension without Bloodlust, Power Infusion, and a lot of baseline haste while also getting lucky with procs. Not being able to max this except in rare cases is unsatisfying.<!-- -->
-<ul>
-<li>Reducing the cooldown of Void Blast, making it Instant Cast, working with other spells as well, and/or increasing how much extension you get per Void Blast would help</li>
-<li>Changing it to a spammable spell like Discipline probably would not feel fun, as it would really hurt the value of non-filler spells during this window</li>
-</ul>
-</li>
-<li>Collapsing Void Devouring Plague expansion feels extremely underwhelming or even non-existent, even after casting 5 Devouring Plagues the size of the rift is still smaller than 8 yards, which is less than Shadow Crash and by then it fizzles away.<!-- -->
-<ul>
-<li>Make it work with Devouring Plague ticks and/or significantly increase how much it is increased by per cast</li>
-<li>Fantasy element and visually this is extremely underwhelming</li>
-</ul>
-</li>
-<li>When a mob dies that was the original target of Entropic Rift, this can feel super unsatisfying, especially if it remains as a small size since it currently does not move or re-target.<!-- -->
-<ul>
-<li>Would be awesome if an enemy dies in the rift it also expands and "consumes" them</li>
-</ul>
-</li>
-<li>Entropic Rift not pulling enemies in feels unsatisfying. For a spell that closely resembles a black hole, I wish it acted more like it. The slow from No Escape is in a similar space but not nearly what I expected. In PvE the applications for the slow are quite underwhelming.</li>
-<li>The choice node between No Escape and Dark Energy is unsatisfying. At the current size of the rift No Escape feels extremely underwhelming and likely will not have many use cases in PvE at the current size Shadow can get it to. In the current state it feels like Dark Energy will be preferred always.<!-- -->
-<ul>
-<li>Would love to see additions or changes to No Escape such as the black hole design mentioned above.</li>
-<li>Adjusting the pacing/sizing that Shadow can get the rift to would certainly help No Escape.</li>
-</ul>
-</li>
-<li>The choice node between Devour Matter and Void Empowerment does not feel satisfying. Devour Matter is an extremely niche ability in almost all types of content, where it will only provide a small amount of value even if the condition is met. On the other hand Void Empowerment is always useful and consistent and provides value every 30 seconds with Malediction.<!-- -->
-<ul>
-<li>If we had this choice node on live, in current examples where we do face enemies with shields (Tindral, Fyrakk, Iridikron) that is such a small portion of the fight, Void Empowerment would still be the better choice.</li>
-</ul>
-</li>
-<li>Currently locks you into the bottom right side of our spec talent tree for this spec as Void Torrent, Malediction, and Idol of C'Thun all have such strong synergies. Could be frustrating when taking any Shadow Word: Death points in Voidweaver that also encourage spending points in the bottom left side of our spec tree.</li>
-<li>In certain cases Shadow might be incentivized to cancel Void Torrent early just to get the rift to spawn sooner. This might just come down to tuning of Void Torrent though. Spawning at the start of the cast would have even more problems depending on tuning of Void Torrent, end is better but that incentive is still there. This is also contributing to having a somewhat length burst/ramp time for our damage. Will take 3 seconds of Void Torrent + up to 15 seconds of the Rift before it collapses, which is a long time for damage especially in environments like Normal dungeons.</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hero-talents-where-functionality-is-confusing-unclear-or-difficult-to-track">Hero Talents where Functionality is Confusing, Unclear, or Difficult to Track<a href="https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-voidweaver#hero-talents-where-functionality-is-confusing-unclear-or-difficult-to-track" class="hash-link" aria-label="Direct link to Hero Talents where Functionality is Confusing, Unclear, or Difficult to Track" title="Direct link to Hero Talents where Functionality is Confusing, Unclear, or Difficult to Track">​</a></h2>
-<ul>
-<li>Cooldown of Voidwraith is confusing since when taking Mindbender the cooldown is not lowered at all and remains fixed at 2 minutes, making Mindbender a completely dead talent.</li>
-<li>Depth of Shadows (<code>451308</code>) has an internal cooldown of 1 second. This can be confusing for players because at higher haste levels and a Death and Madness reset you can cast Shadow Word: Death back to back and the second cast would be unable to proc the effect.</li>
-<li>Proc rate of Depth of Shadows and the health threshold is currently unknown and not shown on the spell.</li>
-<li>Inner Quietus <a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1177" target="_blank" rel="noopener noreferrer">does not increase the direct damage of Shadow Word: Pain</a>. This is particular is confusing with Catharsis.</li>
-<li>Voidwraith's talent tooltip indicates that it deals "up to 50% additional damage, dealing more damage to higher health enemies" but the actual spell deals a flat 135% of spellpower and then if the mob is above 50% health it deals 100% increased damage. This is inconsistent with the talent tooltip and not sure what is intended.</li>
-<li>There is nothing baseline in-game to track how many times you have extended Entropic Rift (and if you have any left) with Darkening Horizon without using some kind of WeakAura. (x/5)</li>
-<li>There is nothing baseline in-game to track how many times you have expanded Entropic Rift with Collapsing Void without using some kind of WeakAura. (x/8)</li>
-<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1185" target="_blank" rel="noopener noreferrer">Void Blast's tooltip shows a low number for Shadow</a></li>
-<li>Visual of Entropic Rift can be hard to see in certain environments on the ground, and because it does not re-target after the original dies this is important to know where to drag mobs into, especially for your Tank in PvE environments. The rift not re-targeting after the original dies is also unintuitive.</li>
-</ul>
-<h1>Entropic Rift Windows</h1>
-<p>[quote="Publik-thrall, post:2, topic:1833178"]
-Current Entropic Rift window feels very busy and borderline overwhelming and you are rushing to try and get Void Blasts and Devouring Plagues out and do not have room to do much else. This is directly linked to feeling like we cannot quite “cap” the rift size or extension consistently. If that was fixed this might also be better to play with. There is some charm in having to chase the rotation here.
-[/quote]</p>
-<p>After spending a bit more time with Voidweaver I wanted to clarify this comment a bit since I was pretty vague in this statement.</p>
-<p>The Entropic Rift window specifically for Shadow Priests has a varying degree of pure gameplay feel based on other talents that we are picking. Particularly if you are playing a build with Void Eruption and especially worse if you also have Inescapable Torment. With Void Eruption you inevitably have to sacrifice some casts of spells like Void Bolt to prioritize Entropic Rift casts in a way that makes it feel busy.</p>
-<p>There's enough rotational pressure from Void Blasts, Devouring Plague (and Shadow Word: Death if you have Inescapable Torment) to make the windows feel rewarding that adding the additional rotational pressure of Void Bolt detracts from the experience and makes it feel significantly less rewarding.</p>
-<p>For a Hero Talent tree that has Void in the name Void Eruption does not have great synergies with these spells. Void Eruption as a cooldown is primarily focused around Void Bolt, which doesn't have any direct synergies with Voidweaver. We only rarely will reach maximum extension of the rift duration from very lucky procs, and by doing so we are de-prioritizing Void Bolts.</p>
-<p>For other builds that do not use Void Eruption the Rift itself brings a much welcomed pacing into the build that feels like you are working towards something. That something is still a bit uninspiring at the current size of the rift, but that was covered in a different section. Expanding the rift size in general feels lackluster as a Shadow Priest (much better as Discipline).</p>
-<p>I think there should be some kind of sweet spot the build lives where expanding the rifts size should feel exciting and rewarding, and the extension of the rift duration should be easy to get a few casts, and reward players that are more skillful with the full extension. For Shadow Priests the rift expansion is extremely underwhelming and it feels like we can almost never get the full duration extension off, even while playing perfectly.</p>
-<h1>Opener Concerns and Setup Time</h1>
-<p>Another point I didn't get to focus on earlier was the opener itself into the Entropic Rift. As a goal we are encouraged to have our DoTs active before pressing Void Torrent, but with how we start off pulls currently we are heavily incentivized to just cast Void Torrent for one tick and then cancel to spawn the rift just to get into the start of our opener. Casting Void Torrent just into Vampiric Touch and Shadow Word: Pain on the opener just isn't worth full channeling, and sitting there building up to 45/50/55 Insanity for Devouring Plague (depending on talents) is quite a long wait for our cooldown cycle.</p>
-<p>This is certainly part of tuning overall, but is something we are noticing with the opener and setup of a Voidweaver Shadow Priest that is a bit awkward to play with currently.</p>
-<h1>Pathing and Build Diversity</h1>
-<p>The other big thing related to this is how the tree is currently pressuring you to not only pickup Void Torrent, Malediction, and Idol of C'Thun in the bottom section, but talents like Depth of Shadows or Voidwraith also pull you towards Mindbender, Inescapable Torment, and Idol of Y'Shaarj (assuming bugs are worked out/intended to work with these). Mastermind is also an extremely valuable point with any build due to the strength of Void Blast.</p>
-<p>Encouraging and locking into the bottom right section is totally expected with the core of Entropic Rift, but it just gets a bit much when we are also heavily encouraged to path on the complete opposite side of the tree, not to mention thematically the Shadow Word: Death and Pet-focused spells don't exactly fit the Void theme as well as other nodes.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>The recent changes on the Alpha are quite unexpected and overall have me feeling quite disappointed and sad that we lost certain interactions. Overall these changes create more problems than they end up solving in the first place and my inclination is to revert back to previous iterations. More details below, starting from the top of the changes.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="collapsing-void">Collapsing Void<a href="https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-voidweaver#collapsing-void" class="hash-link" aria-label="Direct link to Collapsing Void" title="Direct link to Collapsing Void">​</a></h2>
+<blockquote>
+<p>as well as to make Collapsing Void more relevant for encounters with lower health enemies</p>
+</blockquote>
+<p>Overall this is actually a positive change, the length of the Rift was certainly opening the spec up to challenges in shorter lived content so it being balanced around smaller windows makes a lot of sense depending on tuning.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="devour-matter-and-void-empowerment">Devour Matter and Void Empowerment<a href="https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-voidweaver#devour-matter-and-void-empowerment" class="hash-link" aria-label="Direct link to Devour Matter and Void Empowerment" title="Direct link to Devour Matter and Void Empowerment">​</a></h2>
+<blockquote>
+<p>In addition, Devour Matter felt like an odd choice against Void Empowerment, so now it is a node that you are guaranteed to have.</p>
+</blockquote>
+<p>In regards to Devour Matter I'm still unsure how exactly the Shadow Word: Death nodes fit with the Voidweaver theme, but point wise the choice node does make more sense to move it. Devour Matter itself still feels out of place on the tree.</p>
+<p>For the new choice node the duration extension now is effectively a choice against Collapsing Void size expansion and damage, which feels like a weird choice depending on where tuning comes into the picture. If the goal is to have shorter lived windows I don't think extending by only 3 seconds is really enough to notice much of an impact considering Void Blast has such a long cooldown.</p>
+<p>Overall I think Darkening Horizon makes less sense in this version of Voidweaver, a small amount of extension just isn't enough to feel powerful and feels weak in comparison to Void Empowerment, especially if we are going to have smaller rifts more of them with this design.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="entropic-rift">Entropic Rift<a href="https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-voidweaver#entropic-rift" class="hash-link" aria-label="Direct link to Entropic Rift" title="Direct link to Entropic Rift">​</a></h2>
+<blockquote>
+<p>Entropic Rift duration reduced to 8 seconds (was 10 seconds).
+This change by itself seems okay along with the goal posted above, however it does have some knock on effects with other changes (see below). In addition this also means Shadow has an even harder time empowering the rift and expanding its size since we can only do this with Devouring Plague casts. More than ever it desperately needs to also work with Devouring Plague ticks in order to feel rewarding.</p>
+</blockquote>
+<blockquote>
+<p>Entropic Rift is now summoned by Shadow Crash instead of Void Torrent.
+With Shadow Crash being a 20 second cooldown and the Rift only lasting 8 seconds baseline you will now be strongly incentivize to only cast Mind Blast during Rift windows, this can create gameplay that makes Voidweaver much less intuitive. Overall this feels more awkward than it did with being attached to Void Torrent. Having the Rift reset the cooldown of Mind Blast could solve this, but would likely be way too strong and I'm not sure of another way around this that feels healthy.</p>
+</blockquote>
+<p>The spec in general doesn't feel right locking into Shadow Crash everywhere, especially single target. Void Torrent feels good to press almost everywhere so it did not have this problem. Reducing the ramp time of the Entropic Rift (don't have to wait for Void Torrent channel) is slightly improved, but the change from last week felt like a great solve to this in my opinion and I'm sad to see this change from Void Torrent and I personally preferred the older version instead of the Shadow Crash one.</p>
+<p>This also creates a lot of problems with damage pattern inside of Mythic+ environments, similar to what was observed during Season 3 of Dragonflight where we pressed Shadow Crash for damage. Adding damage to Shadow Crash makes it really frustrating to play with as its our DoT application spell. If we are trying to get prepped for a pull and DoTing enemies Shadow Crash is now a full-blown damage spell (way more than it was in Season 3). This is also even more frustrating mid-way through a pull when you are faced with a choice of pressing Shadow Crash for damage on this pack vs. holding it for the next one to get your damage going. The spell doesn't create rewarding gameplay when its used for both DoT application and damage.</p>
+<p>This change is basically opening up the can of worms of problems with <a href="https://us.forums.blizzard.com/en/wow/t/shadow-priest-dragonflight-feedback/1819255#unsatisfying-dot-management-options-6" target="_blank" rel="noopener noreferrer">Shadow Crash</a> and personally I think its less fun than when the rift was attached to Void Torrent because of all of this.</p>
+<blockquote>
+<p>Inner Quietus has been redesigned – Shadow Crash deals 400% additional damage to its primary target (was Vampiric Touch and Shadow Word: Pain damage increased by 20%).</p>
+</blockquote>
+<p>This is similar to the points above, adding damage to Shadow Crash just doesn't feel good since we use it for DoT application today and not for damage reasons.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="shadow-crash">Shadow Crash<a href="https://warcraftpriests.github.io/bookofshadows/blog/alpha-feedback-voidweaver#shadow-crash" class="hash-link" aria-label="Direct link to Shadow Crash" title="Direct link to Shadow Crash">​</a></h2>
+<blockquote>
+<p>Shadow Crash now centers on your target, rather than using a reticle to target a position on the ground.</p>
+</blockquote>
+<p>This change overall is extremely polarizing. While this does make the spell easier to target in some cases, it also makes it significantly less useful in other cases. Often times we are able to pre-cast Shadow Crash to time it with mobs spawning (i.e. Sarkareth or 2nd boss Brackenhide), but this is no longer possible with this change. The travel time on the spell also now requiring a target is just solving the problem of it being difficult to target while creating a new problem of being less useful in certain situations.</p>
+<p>Instead of making this change I would personally rather have the old version. If this new functionality is the direction the spec is going in I would strongly like to have a similar choice node in our spec tree to what Windwalker Monks have with Skytouch and Skyreach. Give us the ability to choose a cast-on-target Shadow Crash or a ground-target Shadow Crash so that we don't lose our existing functionality but gain the accessability advantages.</p>]]></content:encoded>
             <category>alpha</category>
             <category>voidweaver</category>
         </item>
