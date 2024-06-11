@@ -1,5 +1,5 @@
 ---
-slug: alpha-feedback-voidweaver
+slug: shadow-crash-incident
 title: Shadow Crash Incident - Voidweaver
 authors: [publik]
 tags: [alpha,voidweaver]
