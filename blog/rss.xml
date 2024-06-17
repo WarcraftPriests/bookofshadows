@@ -4,10 +4,89 @@
         <title>Book of Shadows Blog</title>
         <link>https://warcraftpriests.github.io/bookofshadows/blog</link>
         <description>Book of Shadows Blog</description>
-        <lastBuildDate>Tue, 14 May 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jun 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Shadow Priest Bug Roundup]]></title>
+            <link>https://warcraftpriests.github.io/bookofshadows/blog/bug-roundup</link>
+            <guid>https://warcraftpriests.github.io/bookofshadows/blog/bug-roundup</guid>
+            <pubDate>Sun, 16 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[In this post I wanted to highlight the known bugs for Shadow Priest on Beta. I have categorized these into a few categories to indicate severity. These have all been reported in game as well but I wanted to provide more visibility.]]></description>
+            <content:encoded><![CDATA[<p>In this post I wanted to highlight the known bugs for Shadow Priest on Beta. I have categorized these into a few categories to indicate severity. These have all been reported in game as well but I wanted to provide more visibility.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="impacting-gameplay">Impacting Gameplay<a href="https://warcraftpriests.github.io/bookofshadows/blog/bug-roundup#impacting-gameplay" class="hash-link" aria-label="Direct link to Impacting Gameplay" title="Direct link to Impacting Gameplay">​</a></h2>
+<p>The following all have significant impacts towards gameplay that actively impeded our ability to test things.</p>
+<ul>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1201" target="_blank" rel="noopener noreferrer">Darkening Horizon is not always extending correctly</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1200" target="_blank" rel="noopener noreferrer">Entropic Rift can fall off the map/fail to spawn if the target is not grounded</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1199" target="_blank" rel="noopener noreferrer">Void Blast can remain forever if Entropic Rift fails to spawn/despawn</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1198" target="_blank" rel="noopener noreferrer">Mind Vision is not castable</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1197" target="_blank" rel="noopener noreferrer">Mind Soothe is not castable</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1192" target="_blank" rel="noopener noreferrer">The free Surge of Insanity proc from Halo creations can munch procs with Mind Spike</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1182" target="_blank" rel="noopener noreferrer">Voidwraith unhasted GCDs</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1156" target="_blank" rel="noopener noreferrer">Insidious Ire is behaving erratically</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1107" target="_blank" rel="noopener noreferrer">Mind Spike: Insanity is cancelled mid-cast if the buff expires</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1206" target="_blank" rel="noopener noreferrer">Entropic Rift will sometimes retarget an enemy you are not in combat with</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="unclear-behavior">Unclear Behavior<a href="https://warcraftpriests.github.io/bookofshadows/blog/bug-roundup#unclear-behavior" class="hash-link" aria-label="Direct link to Unclear Behavior" title="Direct link to Unclear Behavior">​</a></h2>
+<p>The following bugs are unclear interactions that may or may not be intended.</p>
+<ul>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1204" target="_blank" rel="noopener noreferrer">Phantom Reach does not work with Psychic Link</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1203" target="_blank" rel="noopener noreferrer">Deathspeaker does not count as "below 20%" for Depth of Shadows</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1194" target="_blank" rel="noopener noreferrer">Collapsing Rift damage increase is not applied to Entropic Rift</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1188" target="_blank" rel="noopener noreferrer">Voidheart is scaling all Shadow damage</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1097" target="_blank" rel="noopener noreferrer">Tormented Spirits get the crit value on Shadowy Apparitions based on previous action</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="minor">Minor<a href="https://warcraftpriests.github.io/bookofshadows/blog/bug-roundup#minor" class="hash-link" aria-label="Direct link to Minor" title="Direct link to Minor">​</a></h2>
+<p>The following bugs are relatively minor but still worth mentioning</p>
+<ul>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1202" target="_blank" rel="noopener noreferrer">Idol of C'Thun will spawn on your current target instead of the one Void Torrent was cast on</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1191" target="_blank" rel="noopener noreferrer">Casting Power Infusion on an Archon priest that already has Power Infusion consumes the buff</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1189" target="_blank" rel="noopener noreferrer">Entropic Rift Incorrect Spawn Location on Mouseover</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1067" target="_blank" rel="noopener noreferrer">You cannot apply Glyphs to Mindbender without first untalenting it</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1045" target="_blank" rel="noopener noreferrer">Mind Flay cannot be Press and Hold casted</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="spelldata-issues">Spelldata Issues<a href="https://warcraftpriests.github.io/bookofshadows/blog/bug-roundup#spelldata-issues" class="hash-link" aria-label="Direct link to Spelldata Issues" title="Direct link to Spelldata Issues">​</a></h2>
+<p>The following are mostly data clarity issues with spell functionality or tooltips.</p>
+<ul>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1205" target="_blank" rel="noopener noreferrer">Darkening Horizon Spell Data is Duplicated</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/956" target="_blank" rel="noopener noreferrer">Shadowy Insight proc data is missing</a></li>
+</ul>]]></content:encoded>
+            <category>beta</category>
+            <category>voidweaver</category>
+            <category>archon</category>
+        </item>
+        <item>
+            <title><![CDATA[Shadow Priest Beta State]]></title>
+            <link>https://warcraftpriests.github.io/bookofshadows/blog/beta-feedback-overview</link>
+            <guid>https://warcraftpriests.github.io/bookofshadows/blog/beta-feedback-overview</guid>
+            <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[After raid testing and some Mythic+ testing today I wanted to give my updated thoughts on Voidweaver and Archon from a Shadow Priest perspective.]]></description>
+            <content:encoded><![CDATA[<p>After raid testing and some Mythic+ testing today I wanted to give my updated thoughts on Voidweaver and Archon from a Shadow Priest perspective.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="voidweaver">Voidweaver<a href="https://warcraftpriests.github.io/bookofshadows/blog/beta-feedback-overview#voidweaver" class="hash-link" aria-label="Direct link to Voidweaver" title="Direct link to Voidweaver">​</a></h2>
+<p>Overall this spec feels pretty great, but there are a couple of things that if changed could make it play even better.</p>
+<p>One of the most frustrating moments right now when playing Voidweaver is getting Shadowy Insight procs while banking up for your next Entropic Rift. Because of a change made to make Shadowy Insight no longer grant a temporary charge of Mind Blast, these procs can often be completely wasted. We are incentivized to bank of Mind Blasts right before Void Torrents but these procs happening right before can end up being very frustrating.</p>
+<p>The other thing that is still a bit weird is the emphasis around Shadow Word: Death and Shadowfiend spells. Neither of these are particularly related to the Void but do end up in several places on the tree: Devour Matter, Depth of Shadows, and Voidwraith. Personally I do not see how these fit together in the build and end up making our points in the spec tree feel even more restrictive. Devour Matter is definitely the odd one out here, it is a pretty boring node that I often forget even exists.</p>
+<p>The last big thing with Voidweaver that does not feel very satisfying is the size of the Rift and the expansion. Because of how little we end up casting Devouring Plague rotationally this expansion is very minor, especially compared to Discipline. Making this work with ticks of Devouring Plague or adjusting how much it grows per cast would go a long way to making this be more usable. With the current size of the rift and positioning of a pack in Mythic+ it could be awkwardly missing a lot of mobs. This is also notably worse off because the Rift does not currently retarget if the original target dies.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="archon">Archon<a href="https://warcraftpriests.github.io/bookofshadows/blog/beta-feedback-overview#archon" class="hash-link" aria-label="Direct link to Archon" title="Direct link to Archon">​</a></h2>
+<p>Compared to Voidweaver, Archon is particularly uninspiring to play with. The playstyle is basically the baseline version of the spec we have in Dragonflight, you just now press Halo at the start of your cooldowns. It is possible this was the goal all along for Archon, but having a relatively small change to the spec for a whole Hero talent feel wise does not make it feel like a Hero Talent to me.</p>
+<p>This is made even worse with the lack of distinct visual changes with Archon. Yes we spawn a few extra Halos and it radiates out and back to us, but for a spec themed around empowering our cooldowns this just misses the mark for me when our cooldowns are lacking any visual change. Even the Hero Talent icon itself looks amazing but feels really out of place considering the visuals and feel of the spec do not match.</p>
+<p>Archon itself is likely suffering from an already existing problem the spec has with cooldowns that are not particularly exciting by themselves (particularly Dark Ascension).</p>
+<p>The one thing that Archon has going for it that might even make us feel pulled to play it is the absolutely disgusting amount of off-healing we get from being centered around Halo. Not sure how this will be balanced but that is a strong positive.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general-shadow-priest">General Shadow Priest<a href="https://warcraftpriests.github.io/bookofshadows/blog/beta-feedback-overview#general-shadow-priest" class="hash-link" aria-label="Direct link to General Shadow Priest" title="Direct link to General Shadow Priest">​</a></h2>
+<p>While I already covered recent changes <a href="https://us.forums.blizzard.com/en/wow/t/feedback-priests/1870412/91" target="_blank" rel="noopener noreferrer">here</a> I wanted to discuss a few other points that I would love to see discussion or changes towards.</p>
+<p>We have not seen any spec tree changes so I do not want to copy things from my <a href="https://us.forums.blizzard.com/en/wow/t/shadow-priest-dragonflight-feedback/1819255" target="_blank" rel="noopener noreferrer">previous post</a> but these issues are generally all still present and would welcome any changes here to help improve our spec tree.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="shadow-crash-and-void-crash">Shadow Crash and Void Crash<a href="https://warcraftpriests.github.io/bookofshadows/blog/beta-feedback-overview#shadow-crash-and-void-crash" class="hash-link" aria-label="Direct link to Shadow Crash and Void Crash" title="Direct link to Shadow Crash and Void Crash">​</a></h3>
+<p>Adding in Void Crash as an alternative to Shadow Crash will be a welcomed change for some players, but also creates some anti-patterns with the current size of the spell. Because of the relatively small radius of Shadow and Void Crash (8 yards), having it be centered around a single enemy can easily make it difficult to target a full clump of adds. This can also be quite confusing for new players using the talent. Increasing this up to 10 or 12 yards (likely alongside Shadow Crash) would make it feel much better from a DoT management perspective.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="notable-bugs">Notable Bugs<a href="https://warcraftpriests.github.io/bookofshadows/blog/beta-feedback-overview#notable-bugs" class="hash-link" aria-label="Direct link to Notable Bugs" title="Direct link to Notable Bugs">​</a></h2>
+<ul>
+<li>Mind Soothe is currently not able to be cast at all. Just says "You can't use that here"</li>
+</ul>]]></content:encoded>
+            <category>beta</category>
+            <category>voidweaver</category>
+            <category>archon</category>
+        </item>
         <item>
             <title><![CDATA[Shadow Crash Incident - Voidweaver]]></title>
             <link>https://warcraftpriests.github.io/bookofshadows/blog/shadow-crash-incident</link>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookofshadows=self.webpackChunkbookofshadows||[]).push([[8013],{3769:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
