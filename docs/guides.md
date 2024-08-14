@@ -1,6 +1,0 @@
----
-slug: /guides
----
-
-# Guides
-TBD
