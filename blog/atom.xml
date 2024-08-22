@@ -2,11 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://warcraftpriests.github.io/bookofshadows/blog</id>
     <title>Book of Shadows Blog</title>
-    <updated>2024-06-16T00:00:00.000Z</updated>
+    <updated>2024-07-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://warcraftpriests.github.io/bookofshadows/blog"/>
     <subtitle>Book of Shadows Blog</subtitle>
     <icon>https://warcraftpriests.github.io/bookofshadows/img/book.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[Shadow Priest Iteration]]></title>
+        <id>https://warcraftpriests.github.io/bookofshadows/blog/shadow-priest-iteration</id>
+        <link href="https://warcraftpriests.github.io/bookofshadows/blog/shadow-priest-iteration"/>
+        <updated>2024-07-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I've posted quite a lot on these topics already but wanted to call out a few things that are still plaguing the spec.]]></summary>
+        <content type="html"><![CDATA[<p>I've posted quite a lot on these topics already but wanted to call out a few things that are still plaguing the spec.</p>
+<p>There are a lot of bugs facing the spec currently, several of which are very impactful to playing the game. The full list is <a href="https://github.com/SimCMinMax/WoW-BugTracker/labels/Priest" target="_blank" rel="noopener noreferrer">here</a> with the big ones below:</p>
+<ul>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1217" target="_blank" rel="noopener noreferrer">Halo is pulling mobs that are not currently in combat</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1216" target="_blank" rel="noopener noreferrer">Voidheart is expiring early</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1210" target="_blank" rel="noopener noreferrer">Voidwraith pet is taking full damage as if it was a player</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1201" target="_blank" rel="noopener noreferrer">Darkening Horizon is not always extending correctly</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1197" target="_blank" rel="noopener noreferrer">Mind Soothe is not castable</a></li>
+<li><a href="https://github.com/SimCMinMax/WoW-BugTracker/issues/1218" target="_blank" rel="noopener noreferrer">Idol of C'Thun is completely broken</a></li>
+</ul>
+<h1>Season 1 Tier Set Bonus</h1>
+<p>Currently the tier set for Shadow Priests is about a 3% DPS gain going from equivalent gear without the set bonus to equipping the full 4 set. This is particularly due to the strength of Distorted Reality (especially early on with less stats) and the inherent synergy with Mind's Eye. Mind's Eye does gain about 5% with the set but this is not enough to offset the loss at current tuning.</p>
+<p>In AoE situations the set bonus is about 4%, primarily due to preferring Mind's Eye for these builds. Overall this makes for a pretty underwhelming set bonus effect power wise, and particularly stings because the set bonus is pretty boring as it stands today.</p>
+<h1>Hero Talent Iteration</h1>
+<p>So far we have not seen much iteration on our Hero Talent trees, particularly for Archon. Archon looks exactly how it did when it was first released and not a single thing was ever changed or iterated on, including the actual numerical tuning of the tree. I don't want to repost feedback but this is extremely disappointing and it feels like this just wasn't a priority to work on.</p>
+<p>While Voidweaver did get some iteration early on there are still quite a few challenges that tree has that would really help to see more iteration and changes with to make it feel better to play, particularly with the way the Entropic Rift spawns and follows targets.</p>
+<h1>Talent Tree Tree Iteration</h1>
+<p>Going into the expansion Shadow Priest has received little to no changes to the base spec. While we have gotten reworks quite often over the years none of these have really ever felt complete and this certainly adds to the frustration when comments made in previous dev cycles of revisiting things like Dark Ascension were never changed in the TWW beta cycle.</p>
+<p>Furthermore Shadow Priests now have the most 2 point nodes in our tree, and our class tree has the most total points. This equates to 1894837640784 possible builds of our class tree which is obviously an insane number to reason about, but is kind of crazy considering some classes only have  a fraction of a percent of that amount. This is not solely indicative of a problem, but does make Priests feel like our tree is not created equally when looking at other classes and specs in the game.</p>
+<p>This is still causing ugly issues in places like the Shadow spec tree where you have to pick between more DPS or taking the loss to get crucial defensive or utility nodes. As far as I'm aware the design goals were to not have this be a choice but we still have a crowded top section of our talent tree which feels horrible.</p>]]></content>
+        <author>
+            <name>Publik</name>
+            <uri>https://github.com/seanpeters86</uri>
+        </author>
+        <category label="beta" term="beta"/>
+        <category label="voidweaver" term="voidweaver"/>
+        <category label="archon" term="archon"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State of Voidweaver and Archon]]></title>
+        <id>https://warcraftpriests.github.io/bookofshadows/blog/beta-state</id>
+        <link href="https://warcraftpriests.github.io/bookofshadows/blog/beta-state"/>
+        <updated>2024-06-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Decided to wrap up some previous posts and feedback into a more concise entry to give current good, bad, and bugs for Voidweaver and Archon from a Shadow Priest perspective.]]></summary>
+        <content type="html"><![CDATA[<p>Decided to wrap up some previous posts and feedback into a more concise entry to give current good, bad, and bugs for Voidweaver and Archon from a Shadow Priest perspective.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="good">Good<a href="https://warcraftpriests.github.io/bookofshadows/blog/beta-state#good" class="hash-link" aria-label="Direct link to Good" title="Direct link to Good">​</a></h2>
+<ul>
+<li>Visually exciting</li>
+<li>Mini-bursts every 30s feel nice</li>
+<li>Cast while moving Void Torrent is fun to play with</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bad">Bad<a href="https://warcraftpriests.github.io/bookofshadows/blog/beta-state#bad" class="hash-link" aria-label="Direct link to Bad" title="Direct link to Bad">​</a></h2>
+<ul>
+<li>Shadowy Insight procs can be frustrating as we pool Mind Blasts before our Void Torrent and waste these procs.</li>
+<li>Travel time to getting to the target can be frustrating, would feel much better if it just spawned under the target.</li>
+<li>Pooling Mind Blasts before Void Torrents can be awkward</li>
+<li>Slowly follows the target if its moving across the room too fast</li>
+<li>Feels like we need to play around Mind Melt a bit too much</li>
+<li>Lack of Void interactions on the tree, particularly Voidform. Instead we have several points that deal with Mindbender, SW<!-- -->:D<!-- -->, or dots</li>
+<li>Retargeting when original target dies feels really random</li>
+<li>Devour Matter can be good in niche cases, but feels bad that most of the time it does nothing</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="gamebreaking-bugs">Gamebreaking Bugs<a href="https://warcraftpriests.github.io/bookofshadows/blog/beta-state#gamebreaking-bugs" class="hash-link" aria-label="Direct link to Gamebreaking Bugs" title="Direct link to Gamebreaking Bugs">​</a></h2>
+<ul>
+<li>Void Blast sometimes breaks</li>
+<li>Voidwraith gets 1-shot by most environmental AoE effects</li>
+<li>Darkening Horizon doesnt always work correctly</li>
+</ul>
+<h1>State of Archon</h1>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="good-1">Good<a href="https://warcraftpriests.github.io/bookofshadows/blog/beta-state#good-1" class="hash-link" aria-label="Direct link to Good" title="Direct link to Good">​</a></h2>
+<ul>
+<li>Off-healing can be quite powerful</li>
+<li>If you like Halo, it is cool to see the bursts</li>
+<li>Simple to play, if you like base shadow you will like Archon</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bad-1">Bad<a href="https://warcraftpriests.github.io/bookofshadows/blog/beta-state#bad-1" class="hash-link" aria-label="Direct link to Bad" title="Direct link to Bad">​</a></h2>
+<ul>
+<li>Puts a weird amount of emphasis on MFI/MSI</li>
+<li>Does not make our cooldowns feel that powerful</li>
+<li>Can feel overwhemled trying to spend Surge procs before capping, particularly with VF</li>
+<li>Honestly quite boring relative to Voidweaver</li>
+<li>Halo itself is pretty weak baseline, especially since the echoes do not give Insanity</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="gamebreaking-bugs-1">Gamebreaking Bugs<a href="https://warcraftpriests.github.io/bookofshadows/blog/beta-state#gamebreaking-bugs-1" class="hash-link" aria-label="Direct link to Gamebreaking Bugs" title="Direct link to Gamebreaking Bugs">​</a></h2>
+<ul>
+<li>Mind Spike can munch free Surge of Insanity procs</li>
+</ul>]]></content>
+        <author>
+            <name>Publik</name>
+            <uri>https://github.com/seanpeters86</uri>
+        </author>
+        <category label="beta" term="beta"/>
+        <category label="voidweaver" term="voidweaver"/>
+        <category label="archon" term="archon"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shadow Priest Bug Roundup]]></title>
         <id>https://warcraftpriests.github.io/bookofshadows/blog/bug-roundup</id>
