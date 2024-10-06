@@ -128,4 +128,8 @@ The below charts include breakdowns in the various sim environments. Click each 
 
 ### DungeonRoute Overall Average (+15)
 
-work in progress
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|[AR_SP_VF_nzoth_cthun_100436424505263_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFUUVQoREogRBUEFVVUBR)|1876628|1.32%|
+|[VW_VE_DoS_DA_nzoth_cthun_98245853822895_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFVUVRgREkkRBQEFVVUCQA)|1868952|0.90%|
+|[AR_SP_VF_nzoth_yogg_cthun_129962177181615_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFUUVQoQUKEVBUEFVVUBR)|1852219|0.00%|
