@@ -83,34 +83,34 @@ The below charts include breakdowns in the various sim environments. Click each 
 ## Single Target
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|VW_VE_VW_DA_cthun_82852967308207_Spike_DR|1474413|1.05%|
-|VW_VE_VW_DA_yshaarj_cthun_81150852152239_Flay_DR|1471702|0.87%|
-|VW_VE_VW_DA_yshaarj_cthun_81150852152239_Flay_ME|1471603|0.86%|
-|AR_SP_VF_cthun_80658376897455_Flay_ME|1459065|0.00%|
+|[VW_VE_VW_DA_cthun_82852967308207_Spike_DR](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFRRFUiREokBBEEFVVUCRA)|1474413|1.05%|
+|[VW_VE_VW_DA_yshaarj_cthun_81150852152239_Flay_DR](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFRUFShUFglBBEEFVVUCRA)|1471702|0.87%|
+|[VW_VE_VW_DA_yshaarj_cthun_81150852152239_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFRUFShUFglBBAEFVVUCRA)|1471603|0.86%|
+|[AR_SP_VF_cthun_80658376897455_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFQUFQqRUkkBBQEFVVUBR)|1459065|0.00%|
 
 ## 2 Target (Stacked)
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|VW_VE_DoS_DA_cthun_82852967824303_Flay_DR|1939778|2.60%|
-|AR_SP_VF_yogg_cthun_121432648922031_Flay_ME|1910273|1.04%|
-|AR_SP_VF_cthun_82847494255535_Flay_ME|1890601|0.00%|
+|[VW_VE_DoS_DA_cthun_82852967824303_Flay_DR](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFRUFRiREokBBEEFVVUCQA)|1939778|2.60%|
+|[AR_SP_VF_yogg_cthun_121432648922031_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFQUFQqQUKgFBQEFVVUBR)|1910273|1.04%|
+|[AR_SP_VF_cthun_82847494255535_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFQUFSoUUogBBQEFVVUBR)|1890601|0.00%|
 
 ## Composite Raid
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|VW_VE_VW_DA_yshaarj_cthun_81150852152239_Flay_ME|1509351|0.61%|
-|VW_VE_VW_DA_yshaarj_cthun_81150817583023_Flay_DR|1508914|0.58%|
-|VW_VE_VW_DA_cthun_82852967308207_Spike_DR|1506562|0.42%|
-|AR_SP_VF_cthun_80658376897455_Flay_ME|1500222|0.00%|
+|[VW_VE_VW_DA_yshaarj_cthun_81150852152239_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFRUFShUFglBBAEFVVUCRA)|1509351|0.61%|
+|[VW_VE_VW_DA_yshaarj_cthun_81150817583023_Flay_DR]()|1508914|0.58%|
+|[VW_VE_VW_DA_cthun_82852967308207_Spike_DR](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFRRFUiREokBBEEFVVUCRA)|1506562|0.42%|
+|[AR_SP_VF_cthun_80658376897455_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFQUFQqRUkkBBQEFVVUBR)|1500222|0.00%|
 
 ## 8 Target 1 Minute Burst
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|AR_EC_VF_nzoth_yogg_cthun_129962077501359_Flay_ME|7084412|23.06%|
-|AR_SP_VF_nzoth_yogg_cthun_129962077501359_Flay_ME|7027564|22.08%|
-|AR_EC_VF_nzoth_cthun_99313325094831_Flay_ME|6557883|13.92%|
-|VW_DH_DoS_VF_nzoth_cthun_98245891561391_Flay_ME|6124339|6.39%|
-|VW_DH_DoS_DA_nzoth_cthun_98245891561391_Flay_ME|5756666|0.00%|
+|[AR_EC_VF_nzoth_yogg_cthun_129962077501359_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFUURSkQUKEVBUEFVVUBQ)|7084412|23.06%|
+|[AR_SP_VF_nzoth_yogg_cthun_129962077501359_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFUURSkQUKEVBUEFVVUBR)|7027564|22.08%|
+|[AR_EC_VF_nzoth_cthun_99313325094831_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFUURSoQUIkRBUEFVVUBQ)|6557883|13.92%|
+|[VW_DH_DoS_VF_nzoth_cthun_98245891561391_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFUQVSkREkkRBUEFVVUCUA)|6124339|6.39%|
+|[VW_DH_DoS_DA_nzoth_cthun_98245891561391_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFUQVSkREkkRBQEFVVUCUA)|5756666|0.00%|
 
 ## DungeonRoute Overall Average (+15)
 work in progress
