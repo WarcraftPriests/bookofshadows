@@ -2,11 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://warcraftpriests.github.io/bookofshadows/blog</id>
     <title>Book of Shadows Blog</title>
-    <updated>2024-07-17T00:00:00.000Z</updated>
+    <updated>2024-10-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://warcraftpriests.github.io/bookofshadows/blog"/>
     <subtitle>Book of Shadows Blog</subtitle>
     <icon>https://warcraftpriests.github.io/bookofshadows/img/book.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[October 8th/9th Changes]]></title>
+        <id>https://warcraftpriests.github.io/bookofshadows/blog/voidweaver-buffs</id>
+        <link href="https://warcraftpriests.github.io/bookofshadows/blog/voidweaver-buffs"/>
+        <updated>2024-10-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Voidweaver has received lots of buffs to its kit which when using the right talent build and optimized gear can end up being better than Archon in certain situations. When comparing the best builds Voidweaver is up to 1% ahead of Archon, meaning they are very close.]]></summary>
+        <content type="html"><![CDATA[<p>Voidweaver has received lots of buffs to its kit which when using the right talent build and optimized gear can end up being better than Archon in certain situations. When comparing the best builds Voidweaver is up to <strong>1%</strong> ahead of Archon, meaning they are very close.</p>
+<p>There are a few keys things to note:</p>
+<ul>
+<li>Unfurling Darkness is now strongly preferred for Voidweaver builds in non-dungeon environments. This supplements our DoT refreshing instead of relying on Mental Decay and also gives us an instant cast spell.</li>
+<li>By default SimC will cause a certain percentage of ticks of Entropic Rift to miss, this is aimed at making it more realistic with boss and target movement. Chance is 5% on single target and up to 10% above 2 targets.</li>
+<li>Voidweaver will naturally struggle as you go into dungeons and start pulling massive packs together, anything more than 8 targets is rough. For this reason pushing keys will still prefer Archon most weeks, but any type of pug situation where you are pulling one pack a time will do great with Voidweaver, especially during Voidbound weeks.</li>
+</ul>
+<h1>When to pick Archon?</h1>
+<ul>
+<li>Consistent single target damage, not contingent on targets staying in place.</li>
+<li>Prefers the Void Eruption playstyle</li>
+<li>Mythic+ Dungeons where you are pushing high key levels where packs are living 60+ seconds long or you are consistently pulling packs together and around your cooldowns.</li>
+</ul>
+<h1>When to pick Voidweaver?</h1>
+<ul>
+<li>Top single target damage, particularly when bosses are not moving out of Entropic Rift.</li>
+<li>Prefers the Dark Ascension playstyle</li>
+<li>Mythic+ Dungeons where you are pulling one pack at a time and not chain pulling massive pulls. Ideally stays at/under 8 targets as much as possible.</li>
+<li>Anytime you are fighting against absorb shields for Devour Matter (i.e. Voidbound affix, Queen Ansurek intermission, etc)</li>
+</ul>
+<h1>Rotation Changes</h1>
+<p>work in progress</p>
+<h1>WeakAuras</h1>
+<p>With all of the changes there are a few WeakAuras to list to help with the rotational parts of playing Voidweaver Shadow Priest.</p>
+<ul>
+<li><a href="https://wago.io/KyDoZneJU" target="_blank" rel="noopener noreferrer">Pooling Mind Blast Helper</a></li>
+<li><a href="https://wago.io/VZNUnVvO0" target="_blank" rel="noopener noreferrer">Unfurling Darkness</a></li>
+<li>These are all baked into <a href="https://wago.io/HkQsadDaf" target="_blank" rel="noopener noreferrer">Publik's WeakAura Set</a></li>
+</ul>
+<h1>Breakdowns</h1>
+<p>The below charts include breakdowns in the various sim environments. Click each link to see the builds used. Note that this page will not be updated after the launch of the changes and you should check the <a href="https://www.icy-veins.com/wow/shadow-priest-pve-dps-spec-builds-talents" target="_blank" rel="noopener noreferrer">guide</a> for the most up to date builds at that point.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="single-target">Single Target<a href="https://warcraftpriests.github.io/bookofshadows/blog/voidweaver-buffs#single-target" class="hash-link" aria-label="Direct link to Single Target" title="Direct link to Single Target">​</a></h2>
+<table><thead><tr><th>Actor</th><th style="text-align:center">DPS</th><th style="text-align:center">Increase</th></tr></thead><tbody><tr><td>VW_VE_VW_DA_cthun_82852967308207_Spike_DR</td><td style="text-align:center">1474413</td><td style="text-align:center">1.05%</td></tr><tr><td>VW_VE_VW_DA_yshaarj_cthun_81150852152239_Flay_DR</td><td style="text-align:center">1471702</td><td style="text-align:center">0.87%</td></tr><tr><td>VW_VE_VW_DA_yshaarj_cthun_81150852152239_Flay_ME</td><td style="text-align:center">1471603</td><td style="text-align:center">0.86%</td></tr><tr><td>AR_SP_VF_cthun_80658376897455_Flay_ME</td><td style="text-align:center">1459065</td><td style="text-align:center">0.00%</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2-target-stacked">2 Target (Stacked)<a href="https://warcraftpriests.github.io/bookofshadows/blog/voidweaver-buffs#2-target-stacked" class="hash-link" aria-label="Direct link to 2 Target (Stacked)" title="Direct link to 2 Target (Stacked)">​</a></h2>
+<table><thead><tr><th>Actor</th><th style="text-align:center">DPS</th><th style="text-align:center">Increase</th></tr></thead><tbody><tr><td>VW_VE_DoS_DA_cthun_82852967824303_Flay_DR</td><td style="text-align:center">1939778</td><td style="text-align:center">2.60%</td></tr><tr><td>AR_SP_VF_yogg_cthun_121432648922031_Flay_ME</td><td style="text-align:center">1910273</td><td style="text-align:center">1.04%</td></tr><tr><td>AR_SP_VF_cthun_82847494255535_Flay_ME</td><td style="text-align:center">1890601</td><td style="text-align:center">0.00%</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="composite-raid">Composite Raid<a href="https://warcraftpriests.github.io/bookofshadows/blog/voidweaver-buffs#composite-raid" class="hash-link" aria-label="Direct link to Composite Raid" title="Direct link to Composite Raid">​</a></h2>
+<table><thead><tr><th>Actor</th><th style="text-align:center">DPS</th><th style="text-align:center">Increase</th></tr></thead><tbody><tr><td>VW_VE_VW_DA_yshaarj_cthun_81150852152239_Flay_ME</td><td style="text-align:center">1509351</td><td style="text-align:center">0.61%</td></tr><tr><td>VW_VE_VW_DA_yshaarj_cthun_81150817583023_Flay_DR</td><td style="text-align:center">1508914</td><td style="text-align:center">0.58%</td></tr><tr><td>VW_VE_VW_DA_cthun_82852967308207_Spike_DR</td><td style="text-align:center">1506562</td><td style="text-align:center">0.42%</td></tr><tr><td>AR_SP_VF_cthun_80658376897455_Flay_ME</td><td style="text-align:center">1500222</td><td style="text-align:center">0.00%</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="8-target-1-minute-burst">8 Target 1 Minute Burst<a href="https://warcraftpriests.github.io/bookofshadows/blog/voidweaver-buffs#8-target-1-minute-burst" class="hash-link" aria-label="Direct link to 8 Target 1 Minute Burst" title="Direct link to 8 Target 1 Minute Burst">​</a></h2>
+<table><thead><tr><th>Actor</th><th style="text-align:center">DPS</th><th style="text-align:center">Increase</th></tr></thead><tbody><tr><td>AR_EC_VF_nzoth_yogg_cthun_129962077501359_Flay_ME</td><td style="text-align:center">7084412</td><td style="text-align:center">23.06%</td></tr><tr><td>AR_SP_VF_nzoth_yogg_cthun_129962077501359_Flay_ME</td><td style="text-align:center">7027564</td><td style="text-align:center">22.08%</td></tr><tr><td>AR_EC_VF_nzoth_cthun_99313325094831_Flay_ME</td><td style="text-align:center">6557883</td><td style="text-align:center">13.92%</td></tr><tr><td>VW_DH_DoS_VF_nzoth_cthun_98245891561391_Flay_ME</td><td style="text-align:center">6124339</td><td style="text-align:center">6.39%</td></tr><tr><td>VW_DH_DoS_DA_nzoth_cthun_98245891561391_Flay_ME</td><td style="text-align:center">5756666</td><td style="text-align:center">0.00%</td></tr></tbody></table>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dungeonroute-overall-average-15">DungeonRoute Overall Average (+15)<a href="https://warcraftpriests.github.io/bookofshadows/blog/voidweaver-buffs#dungeonroute-overall-average-15" class="hash-link" aria-label="Direct link to DungeonRoute Overall Average (+15)" title="Direct link to DungeonRoute Overall Average (+15)">​</a></h2>
+<p>work in progress</p>]]></content>
+        <author>
+            <name>Publik</name>
+            <uri>https://github.com/seanpeters86</uri>
+        </author>
+        <category label="live" term="live"/>
+        <category label="voidweaver" term="voidweaver"/>
+        <category label="archon" term="archon"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shadow Priest Iteration]]></title>
         <id>https://warcraftpriests.github.io/bookofshadows/blog/shadow-priest-iteration</id>
