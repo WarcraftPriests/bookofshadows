@@ -99,7 +99,7 @@ The below charts include breakdowns in the various sim environments. Click each 
 | Actor | DPS | Increase |
 |---|:---:|:---:|
 |[VW_VE_VW_DA_yshaarj_cthun_81150852152239_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFRUFShUFglBBAEFVVUCRA)|1509351|0.61%|
-|[VW_VE_VW_DA_yshaarj_cthun_81150817583023_Flay_DR]()|1508914|0.58%|
+|[VW_VE_VW_DA_yshaarj_cthun_81150817583023_Flay_DR](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFVUVQhUFglBBREFVVUCRA)|1508914|0.58%|
 |[VW_VE_VW_DA_cthun_82852967308207_Spike_DR](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFRRFUiREokBBEEFVVUCRA)|1506562|0.42%|
 |[AR_SP_VF_cthun_80658376897455_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFQUFQqRUkkBBQEFVVUBR)|1500222|0.00%|
 
