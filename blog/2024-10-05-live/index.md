@@ -36,7 +36,7 @@ It takes us a long time to sim talent builds, especially with rotational changes
 ## Overview
 
 There are a few keys things to note:
-- [Unfurling Darkness](https://www.wowhead.com/spell=341273/unfurling-darkness) is now strongly preferred for Voidweaver builds in non-dungeon environments. This supplements our DoT refreshing instead of relying on [Mental Decay](https://www.wowhead.com/spell=375994/mental-decay) and also gives us an instant cast spell thats hits like a truck.
+- [Unfurling Darkness](https://www.wowhead.com/spell=341273/unfurling-darkness) is now strongly preferred for Voidweaver builds in non-dungeon environments. This supplements our DoT refreshing instead of relying on [Mental Decay](https://www.wowhead.com/spell=375994/mental-decay) and also gives us an instant cast spell thats hits like a truck. This can still be used in dungeon environments depending on how much of your time is spent at lower target counts (5 or less).
 - By default SimC will cause a certain percentage of ticks of [Entropic Rift](https://www.wowhead.com/spell=447444/entropic-rift) to miss, this is aimed at making it more realistic with boss and target movement. Chance is 5% on single target and up to 10% above 2 targets.
 - Voidweaver will naturally struggle as you go into dungeons and start pulling massive packs together, anything more than 8 targets is rough. For this reason pushing keys will still prefer Archon most weeks, but any type of pug situation where you are pulling one pack a time will do great with Voidweaver, especially during [Voidbound](https://www.wowhead.com/affix=158/xalataths-bargain-voidbound) weeks.
 
@@ -94,42 +94,49 @@ The below charts include breakdowns in the various sim environments. Click each 
 
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|[VW_VE_VW_DA_cthun_82852967308207_Spike_DR](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFRRFUiREokBBEEFVVUCRA)|1474413|1.05%|
-|[VW_VE_VW_DA_yshaarj_cthun_81150852152239_Flay_DR](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFRUFShUFglBBEEFVVUCRA)|1471702|0.87%|
-|[VW_VE_VW_DA_yshaarj_cthun_81150852152239_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFRUFShUFglBBAEFVVUCRA)|1471603|0.86%|
-|[AR_SP_VF_cthun_80658376897455_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFQUFQqRUkkBBQEFVVUBR)|1459065|0.00%|
+|[VW_VE_VW_DA_cthun_82852967308207_Spike_DR](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFRRFUiREokBBEEFVVUCRA)|1474383|1.05%|
+|[VW_VE_VW_DA_yshaarj_cthun_81150852152239_Flay_DR](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFRUFShUFglBBEEFVVUCRA)|1470867|0.87%|
+|[AR_SP_VF_cthun_80658376897455_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFQUFQqRUkkBBQEFVVUBR)|1462020|0.00%|
+
+#### Single Target + Shadow Crash
+
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|[VW_VE_VW_DA_cthun_82852967308207_Spike_DR](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFRRFUiREokBBEEFVVUCRA) (ST)|1474383|5.6%|
+|[VW_VE_VW_DA_yshaarj_cthun_81150852152239_Flay_DR](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFRUFShUFglBBEEFVVUCRA) (ST) |1470867|5.3%|
+|[VW_VE_VW_DA_yshaarj_cthun_81150817583023_Flay_DR](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFVUVQhUFglBBREFVVUCRA) (ST + Crash)|1460556|4.5%|
+|[VW_VE_VW_DA_cthun_80603201142703_Spike_DR](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFVVVEgVFgkBBREFVVUCRA) (ST + Crash)|1396577|0.00%|
 
 ### 2 Target (Stacked)
 
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|[VW_VE_DoS_DA_cthun_82852967824303_Flay_DR](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFRUFRiREokBBEEFVVUCQA)|1939778|2.60%|
-|[AR_SP_VF_yogg_cthun_121432648922031_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFQUFQqQUKgFBQEFVVUBR)|1910273|1.04%|
-|[AR_SP_VF_cthun_82847494255535_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFQUFSoUUogBBQEFVVUBR)|1890601|0.00%|
+|[VW_VE_DoS_DA_cthun_82852967824303_Flay_DR](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFRUFRiREokBBEEFVVUCQA)|1940053|2.60%|
+|[AR_SP_VF_cthun_82847494255535_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFQUFSoUUogBBQEFVVUBR)|1892048|0.00%|
 
 ### Composite Raid
 
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|[VW_VE_VW_DA_yshaarj_cthun_81150852152239_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFRUFShUFglBBAEFVVUCRA)|1509351|0.61%|
-|[VW_VE_VW_DA_yshaarj_cthun_81150817583023_Flay_DR](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFVUVQhUFglBBREFVVUCRA)|1508914|0.58%|
-|[VW_VE_VW_DA_cthun_82852967308207_Spike_DR](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFRRFUiREokBBEEFVVUCRA)|1506562|0.42%|
-|[AR_SP_VF_cthun_80658376897455_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFQUFQqRUkkBBQEFVVUBR)|1500222|0.00%|
+|[VW_VE_VW_DA_yshaarj_cthun_81150852152239_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFRUFShUFglBBAEFVVUCRA)|1509902|0.61%|
+|[VW_VE_VW_DA_yshaarj_cthun_81150817583023_Flay_DR](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFVUVQhUFglBBREFVVUCRA)|1508243|0.58%|
+|[VW_VE_VW_DA_cthun_82852967308207_Spike_DR](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFRRFUiREokBBEEFVVUCRA)|1505940|0.42%|
+|[AR_SP_VF_cthun_80658376897455_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFQUFQqRUkkBBQEFVVUBR)|1502299|0.00%|
 
 ### 8 Target 1 Minute Burst
 
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|[AR_EC_VF_nzoth_yogg_cthun_129962077501359_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFUURSkQUKEVBUEFVVUBQ)|7084412|23.06%|
-|[AR_SP_VF_nzoth_yogg_cthun_129962077501359_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFUURSkQUKEVBUEFVVUBR)|7027564|22.08%|
-|[AR_EC_VF_nzoth_cthun_99313325094831_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFUURSoQUIkRBUEFVVUBQ)|6557883|13.92%|
-|[VW_DH_DoS_VF_nzoth_cthun_98245891561391_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFUQVSkREkkRBUEFVVUCUA)|6124339|6.39%|
-|[VW_DH_DoS_DA_nzoth_cthun_98245891561391_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFUQVSkREkkRBQEFVVUCUA)|5756666|0.00%|
+|[AR_EC_VF_nzoth_yogg_cthun_129962077501359_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFUURSkQUKEVBUEFVVUBQ)|7087685|23.06%|
+|[AR_SP_VF_nzoth_yogg_cthun_129962077501359_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFUURSkQUKEVBUEFVVUBR)|7027585|22.08%|
+|[AR_EC_VF_nzoth_cthun_99313325094831_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFUURSoQUIkRBUEFVVUBQ)|6514997|13.92%|
+|[VW_DH_DoS_VF_nzoth_cthun_98245891561391_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFUQVSkREkkRBUEFVVUCUA)|6122240|6.39%|
+|[VW_DH_DoS_DA_nzoth_cthun_98245891561391_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFUQVSkREkkRBQEFVVUCUA)|5757985|0.00%|
 
 ### DungeonRoute Overall Average (+15)
 
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|[AR_SP_VF_nzoth_cthun_100436424505263_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFUUVQoREogRBUEFVVUBR)|1876628|1.32%|
-|[VW_VE_DoS_DA_nzoth_cthun_98245853822895_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFVUVRgREkkRBQEFVVUCQA)|1868952|0.90%|
-|[AR_SP_VF_nzoth_yogg_cthun_129962177181615_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFUUVQoQUKEVBUEFVVUBR)|1852219|0.00%|
+|[AR_SP_VF_nzoth_cthun_98241696217007_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFUUVQoRUkgRBUEFVVUBR) (Hybrid)|1874853|1.06%|
+|[VW_VE_DoS_DA_nzoth_cthun_98245853822895_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUNVRFVUVRgREkkRBQEFVVUCQA)|1871053|0.85%|
+|[AR_SP_VF_nzoth_yogg_cthun_129962177181615_Flay_ME](https://www.wowhead.com/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUNVRFUUVQoQUKEVBUEFVVUBR) (Triple Idol)|1855268|189.24%|
