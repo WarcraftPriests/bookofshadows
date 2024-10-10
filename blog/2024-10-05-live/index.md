@@ -5,6 +5,9 @@ authors: [publik]
 tags: [live,voidweaver,archon]
 ---
 
+## DISCLAIMER
+This post is now _outdated_. We have posted updated guidance in IcyVeins and the Discord and the below information is mostly out of date. Keeping this only for historical purposes.
+
 ## October 8th/9th Changes
 
 Voidweaver has received lots of buffs to its kit which when using the right talent build and optimized gear can end up being better than Archon in certain situations. When comparing the best builds Voidweaver is up to **1%** ahead of Archon, meaning they are very close.
