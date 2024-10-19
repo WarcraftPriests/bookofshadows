@@ -11,6 +11,9 @@ Unfortunately this patch has very little in changes for Shadow Priests. Below is
 - [Sustained Potency](https://www.wowhead.com/spell=454001/sustained-potency) has been updated – It now also pauses the duration of [Dark Ascension](https://www.wowhead.com/spell=391109/dark-ascension) or [Voidform](https://www.wowhead.com/spell=194249/voidform) for up to 20 seconds while out of combat or affected by a loss of control effect. This is capped at 20 seconds per cast of each cooldown (i.e. going in and out of combat more than once does not refresh the pause duration).
 - [Entropic Rift](https://www.wowhead.com/spell=447444/entropic-rift) now displays a low-noise version for your allies, instead of being completely invisible.
 
+### What this means
+Functionally nothing is really changing except Archon now can choose to take [Sustained Potency](https://www.wowhead.com/spell=454001/sustained-potency) even inside of Mythic+. The out of combat pause is very nice for dungeons, particularly in lower keys and it was already competitive to take anyways (particular for boss damage or really long pulls).
+
 ### Dracthyr
 Starting this patch you can also make a Dracthyr Priest. From a combat perspective you get a single Mastery point from [Awakened](https://www.wowhead.com/spell=365575/awakened), which you can see how that stacks up in [the charts](https://warcraftpriests.github.io/?talents=ar_vf_cthun_flay_me&sims=racials&fightStyle=Single). Other racials are listed below. To see these changes I did a [video](https://youtu.be/GILQKcE3Axs) when it first came out and a [revised one](https://youtu.be/iPoF8fkDbbU) after it was changed.
 
@@ -25,7 +28,7 @@ Starting this patch you can also make a Dracthyr Priest. From a combat perspecti
 With this patch there is also an upcoming launch of the Anniversary event. This event includes lots of cosmetics as well as some new gear drops that I will go over in this post as it relates to Shadow Priest. I am not covering all aspects of this event, only the ones relevant for player power. To see more about this checkout the [Wowhead guide](https://www.wowhead.com/guide/world-events/20th-anniversary-event).
 
 ### Timewalking Dungeons?
-Currently there is a trinket, [Mindtap Talisman](https://www.wowhead.com/item=18371/mindtap-talisman) that is from Dire Maul. This was available on the vendor on PTR but I am not sure specifically what the source of this could be. It is quite possible it is just a Timewalking dungeon drop during the event. If that is the case it would drop and be upgradable to 580 item level. I bring this up because even at 580 item level it is currently _extremely_ powerful. Beating out many trinkets at Myth track item level, although not being BiS.
+Currently there is a trinket, [Mindtap Talisman](https://www.wowhead.com/ptr-2/item=18371/mindtap-talisman) that is from Dire Maul. This was available on the vendor on PTR but I am not sure specifically what the source of this could be. It is quite possible it is just a Timewalking dungeon drop during the event. If that is the case it would drop and be upgradable to 580 item level. I bring this up because even at 580 item level it is currently _extremely_ powerful. Beating out many trinkets at Myth track item level, although not being BiS.
 
 ### Blackrock Depths Raid
 This [raid](https://www.wowhead.com/guide/world-events/20th-anniversary-event-blackrock-depths-raid-loot) is returning with **HERO** track gear. This is a great opportunity for alts as well as a few key drops that might even be useful for your main. Through a Relic Coffer Key system you can also purchase up to 3 items from a vendor if you clear the raid enough and do not see the drops you want.
