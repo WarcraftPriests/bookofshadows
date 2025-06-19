@@ -19,7 +19,7 @@ Overall this patch has lots of design changes of how we deal damage but realisti
 - [Unfurling Darkness](https://www.wowhead.com/ptr-2/spell=341273/unfurling-darkness) has been removed.
 - [Shadowy Apparitions](https://www.wowhead.com/ptr-2/spell=341491/shadowy-apparitions) can now critically strike independently of the spell that procced them.
 - Base [Mind Flay](https://www.wowhead.com/ptr-2/spell=15407/mind-flay) damage and Insanity has been buffed and [Mind Flay: Insanity](https://www.wowhead.com/ptr-2/spell=391403/mind-flay-insanity) had its Insanity generation nerfed.
-- [[Deathspeaker](https://www.wowhead.com/ptr-2/spell=392507/deathspeaker)](https://www.wowhead.com/ptr-2/spell=392507/[Deathspeaker](https://www.wowhead.com/ptr-2/spell=392507/deathspeaker)) is now a fully passive talent instead of a proc.
+- [Deathspeaker](https://www.wowhead.com/ptr-2/spell=392507/deathspeaker) is now a fully passive talent instead of a proc.
 
 ## Questions
 Below is the list of questions the community has with unclear interactions or changes coming in 11.2.
