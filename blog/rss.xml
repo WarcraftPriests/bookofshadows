@@ -69,8 +69,11 @@
 <ul>
 <li><a href="https://www.wowhead.com/ptr-2/spell=391109/dark-ascension" target="_blank" rel="noopener noreferrer">Dark Ascension</a>
 <ul>
-<li>This talent still existing feels extra out of place now that <a href="https://www.wowhead.com/ptr-2/spell=73510/mind-spike" target="_blank" rel="noopener noreferrer">Mind Spike</a> was removed since our only filler spell is now not buffed with this cooldown, particularly with <a href="https://www.wowhead.com/ptr-2/spell=391399/surge-of-insanity" target="_blank" rel="noopener noreferrer">Surge of Insanity</a> procs.
--<a href="https://www.wowhead.com/ptr-2/spell=1228516/subservient-shadows" target="_blank" rel="noopener noreferrer"> Subservient Shadows</a></li>
+<li>This talent still existing feels extra out of place now that <a href="https://www.wowhead.com/ptr-2/spell=73510/mind-spike" target="_blank" rel="noopener noreferrer">Mind Spike</a> was removed since our only filler spell is now not buffed with this cooldown, particularly with <a href="https://www.wowhead.com/ptr-2/spell=391399/surge-of-insanity" target="_blank" rel="noopener noreferrer">Surge of Insanity</a> procs.</li>
+</ul>
+</li>
+<li><a href="https://www.wowhead.com/ptr-2/spell=1228516/subservient-shadows" target="_blank" rel="noopener noreferrer">Subservient Shadows</a>
+<ul>
 <li>Most of the value comes from <a href="https://www.wowhead.com/ptr-2/spell=377349/idol-of-cthun" target="_blank" rel="noopener noreferrer">Idol of C'Thun</a>/<a href="https://www.wowhead.com/ptr-2/spell=373273/idol-of-yogg-saron" target="_blank" rel="noopener noreferrer">Idol of Yogg-Saron</a> and not <a href="https://www.wowhead.com/ptr-2/spell=34433/shadowfiend" target="_blank" rel="noopener noreferrer">Shadowfiend</a> or <a href="https://www.wowhead.com/ptr-2/spell=123040/mindbender" target="_blank" rel="noopener noreferrer">Mindbender</a>. With this current identity it feels a bit misplaced on the tree.</li>
 <li>This talent does not work with <a href="https://www.wowhead.com/ptr-2/spell=451308/depth-of-shadows" target="_blank" rel="noopener noreferrer">Depth of Shadows</a> (damage or duration effect)</li>
 <li><a href="https://www.wowhead.com/ptr-2/spell=34433/shadowfiend" target="_blank" rel="noopener noreferrer">Shadowfiend</a> and <a href="https://www.wowhead.com/ptr-2/spell=123040/mindbender" target="_blank" rel="noopener noreferrer">Mindbender</a> being weak baseline is likely contributing to it feeling underwhelming in this current spot.</li>
@@ -91,6 +94,7 @@
 <li><a href="https://www.wowhead.com/ptr-2/spell=392507/deathspeaker" target="_blank" rel="noopener noreferrer">Deathspeaker</a>
 <ul>
 <li>losing the movement global is a bit disappointing, wish we still had the proc version as a choice node</li>
+<li>Really begins to highlight how weak Shadow Word: Death is baseline</li>
 <li>While this talent on live does interact with <a href="https://www.wowhead.com/ptr-2/spell=451308/depth-of-shadows" target="_blank" rel="noopener noreferrer">Depth of Shadows</a> this current iteration does not. Without adjusting that talent as well we have this weird zone between 35% and 20% health where we have different execute interactions which makes things feel confusing.</li>
 </ul>
 </li>
