@@ -56,7 +56,7 @@ In this section I'm going to quickly touch on the changes and give my reaction t
 
 - [Dark Ascension](https://www.wowhead.com/ptr-2/spell=391109/dark-ascension)
   - This talent still existing feels extra out of place now that [Mind Spike](https://www.wowhead.com/ptr-2/spell=73510/mind-spike) was removed since our only filler spell is now not buffed with this cooldown, particularly with [Surge of Insanity](https://www.wowhead.com/ptr-2/spell=391399/surge-of-insanity) procs.
--[ Subservient Shadows](https://www.wowhead.com/ptr-2/spell=1228516/subservient-shadows)
+- [Subservient Shadows](https://www.wowhead.com/ptr-2/spell=1228516/subservient-shadows)
   - Most of the value comes from [Idol of C'Thun](https://www.wowhead.com/ptr-2/spell=377349/idol-of-cthun)/[Idol of Yogg-Saron](https://www.wowhead.com/ptr-2/spell=373273/idol-of-yogg-saron) and not [Shadowfiend](https://www.wowhead.com/ptr-2/spell=34433/shadowfiend) or [Mindbender](https://www.wowhead.com/ptr-2/spell=123040/mindbender). With this current identity it feels a bit misplaced on the tree.
   - This talent does not work with [Depth of Shadows](https://www.wowhead.com/ptr-2/spell=451308/depth-of-shadows) (damage or duration effect)
   - [Shadowfiend](https://www.wowhead.com/ptr-2/spell=34433/shadowfiend) and [Mindbender](https://www.wowhead.com/ptr-2/spell=123040/mindbender) being weak baseline is likely contributing to it feeling underwhelming in this current spot.
@@ -68,6 +68,7 @@ In this section I'm going to quickly touch on the changes and give my reaction t
   - Pathing feels like a good spot off of [Deathspeaker](https://www.wowhead.com/ptr-2/spell=392507/deathspeaker) and the echoes stacking [Idol of N'Zoth](https://www.wowhead.com/ptr-2/spell=373280/idol-of-nzoth) feels like a good pathing interaction
 - [Deathspeaker](https://www.wowhead.com/ptr-2/spell=392507/deathspeaker)
   - losing the movement global is a bit disappointing, wish we still had the proc version as a choice node
+  - Really begins to highlight how weak Shadow Word: Death is baseline
   - While this talent on live does interact with [Depth of Shadows](https://www.wowhead.com/ptr-2/spell=451308/depth-of-shadows) this current iteration does not. Without adjusting that talent as well we have this weird zone between 35% and 20% health where we have different execute interactions which makes things feel confusing.
 - [Shadow Crash](https://www.wowhead.com/ptr-2/spell=205385/shadow-crash)
   - Cooldown/charges changes overall feel positive
