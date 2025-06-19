@@ -62,7 +62,7 @@ In this section I'm going to quickly touch on the changes and give my reaction t
   - [Shadowfiend](https://www.wowhead.com/ptr-2/spell=34433/shadowfiend) and [Mindbender](https://www.wowhead.com/ptr-2/spell=123040/mindbender) being weak baseline is likely contributing to it feeling underwhelming in this current spot.
 - [Madness Weaving](https://www.wowhead.com/ptr-2/spell=1240394/madness-weaving)
   - Feels pretty lackluster given its place on the talent tree.
-  - Weird way to buff [Devouring Plague](https://www.wowhead.com/ptr-2/spell=335467/devouring-plague)
+  - Weird way to add damage to the spec
   - The spec already likes mastery so its functionality feels misplaced and is not very clear to the average player.
 - [Death's Torment](https://www.wowhead.com/ptr-2/spell=1240364/deaths-torment)
   - Pathing feels like a good spot off of [Deathspeaker](https://www.wowhead.com/ptr-2/spell=392507/deathspeaker) and the echoes stacking [Idol of N'Zoth](https://www.wowhead.com/ptr-2/spell=373280/idol-of-nzoth) feels like a good pathing interaction
