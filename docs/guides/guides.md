@@ -10,3 +10,4 @@ General Shadow Priest guides can be found below:
 
 ## Other Guides
 - [Dungeon Sims as a Shadow Priest](/guides/dungeonsims)
+- [Season 3 PTR Info](/guides/season3ptr)
