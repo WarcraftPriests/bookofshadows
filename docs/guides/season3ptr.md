@@ -95,7 +95,7 @@ You can use this macro to prevent double hitting [Void Torrent](https://www.wowh
 ### Raid Testing Vods
 
 <>
-<iframe src="https://player.twitch.tv/?collection=LFwiALUJTRhHMg&video=videoId&parent=warcraftpriests.github.io&autoplay=false&muted=true" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?collection=LFwiALUJTRhHMg&video=2497732992&parent=warcraftpriests.github.io&autoplay=false&muted=true" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 </>
 
 #### Heroic
