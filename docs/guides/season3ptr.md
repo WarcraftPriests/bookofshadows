@@ -24,7 +24,7 @@ Core talents for Voidweaver are pretty static across fight types, with minor cha
 
 - [Single Target](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVQRZRASAlRCRUEFVVUCVA)
   - You can drop [Phantasmal Pathogen](https://www.wowhead.com/ptr-2/spell=407469/phantasmal-pathogen) for [Voidtouched](https://www.wowhead.com/ptr-2/spell=407430/voidtouched), this is about a `0.3%` loss but can make it easier to play
-  - If you want more execute/movement global between 35 and 20% you can play the [Execute Build](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVQRZQQSAlRCRUEFVVUCUA) instead. This drops [Voidwraith](https://www.wowhead.com/ptr-2/spell=451234/voidwraith) and [Mindbender](https://www.wowhead.com/ptr-2/spell=200174/mindbender) for [Depth of Shadows](https://www.wowhead.com/ptr-2/spell=451308/depth-of-shadows) and [Deathspeaker](https://www.wowhead.com/ptr-2/spell=392507/deathspeaker). This is roughly a `0.4%` loss in overall with a slight gain in execute.
+  - If you want more execute/movement global between 35 and 20% you can play the [Execute Build](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVQRZQQSAlRCRUEFVVUCUA) instead. This drops [Voidwraith](https://www.wowhead.com/ptr-2/spell=451234/voidwraith) and [Mindbender](https://www.wowhead.com/ptr-2/spell=200174/mindbender) for [Depth of Shadows](https://www.wowhead.com/ptr-2/spell=451308/depth-of-shadows) and [Deathspeaker](https://www.wowhead.com/ptr-2/spell=392507/deathspeaker). This is roughly a `0.2%` loss in overall with a slight gain in execute.
 - [Multi-Target](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVURZAQSAlRCRUEFVVUCUA)
   - particularly designed for 3 target council raid encounter
 - [Dungeons](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVRRZAQSAlRCRUEFVVUCUA)
@@ -41,15 +41,32 @@ Archon is just using a single build for the moment.
 # Rotation
 This season will be identical to the rotation of previous seasons, just with the loss of a few spells/procs that we did not always take.
 
+Additions to the rotation:
+- [Shadow Crash](https://www.wowhead.com/ptr-2/spell=205385/shadow-crash): used to mainly refresh DoTs. Can use above a normal [Mind Flay](https://www.wowhead.com/ptr-2/spell=15407/mind-flay) filler action if you are capped on charges with [Descending Darkness](https://www.wowhead.com/ptr-2/spell=1242666/descending-darkness). Great global to use for movement similar to how we used Unfurling Darkness (assuming you have [Descending Darkness](https://www.wowhead.com/ptr-2/spell=1242666/descending-darkness)).
+- [Void Volley](https://www.wowhead.com/ptr-2/spell=1240401/void-volley): Do not rush to press this, you have plenty of time and [Void Torrent](https://www.wowhead.com/ptr-2/spell=263165/void-torrent) is cooling down as soon as you cast [Void Torrent](https://www.wowhead.com/ptr-2/spell=263165/void-torrent). Ideally this is a movement global when needed. If you do not have [Void Blast](https://www.wowhead.com/ptr-2/spell=450405/void-blast) or [Mind Flay: Insanity](https://www.wowhead.com/ptr-2/spell=391403/mind-flay-insanity) to use you can send it.
+
 ## Opener
 
 ### Voidweaver
-Pre-Cast Halo before combat to get 10 Insanity.
+Pre-Cast [Halo](https://www.wowhead.com/ptr-2/spell=120644/halo) before combat to get 10 Insanity.
 
-1. Open with Shadow Crash if possible, otherwise Vampiric Touch
-2. 
+1. Open with [Shadow Crash](https://www.wowhead.com/ptr-2/spell=205385/shadow-crash) if it will hit, otherwise [Vampiric Touch](https://www.wowhead.com/ptr-2/spell=34914/vampiric-touch)
+2. [Shadowfiend](https://www.wowhead.com/ptr-2/spell=34433/shadowfiend), [Mindbender](https://www.wowhead.com/ptr-2/spell=200174/mindbender), or [Voidwraith](https://www.wowhead.com/ptr-2/spell=451234/voidwraith)
+3. [Mind Blast](https://www.wowhead.com/ptr-2/spell=8092/mind-blast) x1
+4. [Dark Ascension](https://www.wowhead.com/ptr-2/spell=391109/dark-ascension)
+5. [Power Infusion](https://www.wowhead.com/ptr-2/spell=10060/power-infusion) + [Tempered Potion](https://www.wowhead.com/ptr-2/item=212265/tempered-potion) + On Use Trinket
+6. [Devouring Plague](https://www.wowhead.com/ptr-2/spell=335467/devouring-plague)
+7. [Void Torrent](https://www.wowhead.com/ptr-2/spell=263165/void-torrent)
+8. [Void Blast](https://www.wowhead.com/ptr-2/spell=450405/void-blast) x2
 
 ### Archon
+1. Open with [Shadow Crash](https://www.wowhead.com/ptr-2/spell=205385/shadow-crash) if it will hit, otherwise [Vampiric Touch](https://www.wowhead.com/ptr-2/spell=34914/vampiric-touch)
+2. [Shadowfiend](https://www.wowhead.com/ptr-2/spell=34433/shadowfiend) or [Mindbender](https://www.wowhead.com/ptr-2/spell=200174/mindbender)
+3. [Void Torrent](https://www.wowhead.com/ptr-2/spell=263165/void-torrent)
+4. [Halo](https://www.wowhead.com/ptr-2/spell=120644/halo)
+5. Void Eruption
+6. [Power Infusion](https://www.wowhead.com/ptr-2/spell=10060/power-infusion) + [Tempered Potion](https://www.wowhead.com/ptr-2/item=212265/tempered-potion) + On Use Trinket
+7. [Void Bolt](https://www.wowhead.com/ptr-2/spell=205448/void-bolt)
 
 # Gear
 
