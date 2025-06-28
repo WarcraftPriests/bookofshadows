@@ -24,7 +24,7 @@ Core talents for Voidweaver are pretty static across fight types, with minor cha
 
 - [Single Target](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVQRZRASAlRCRUEFVVUCVA)
   - You can drop [Phantasmal Pathogen](https://www.wowhead.com/ptr-2/spell=407469/phantasmal-pathogen) for [Voidtouched](https://www.wowhead.com/ptr-2/spell=407430/voidtouched), this is about a `0.3%` loss but can make it easier to play
-  - If you want a bit more execute/movement global between 35 and 20% you can drop [Mindbender](https://www.wowhead.com/ptr-2/spell=200174/mindbender) for [Deathspeaker](https://www.wowhead.com/ptr-2/spell=392507/deathspeaker). This is roughly a `1%` loss in overall, but you gain that back specifically in execute.
+  - If you want more execute/movement global between 35 and 20% you can play the [Execute Build](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVQRZQQSAlRCRUEFVVUCUA) instead. This drops [Voidwraith](https://www.wowhead.com/ptr-2/spell=451234/voidwraith) and [Mindbender](https://www.wowhead.com/ptr-2/spell=200174/mindbender) for [Depth of Shadows](https://www.wowhead.com/ptr-2/spell=451308/depth-of-shadows) and [Deathspeaker](https://www.wowhead.com/ptr-2/spell=392507/deathspeaker). This is roughly a `0.4%` loss in overall with a slight gain in execute.
 - [Multi-Target](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVURZAQSAlRCRUEFVVUCUA)
   - particularly designed for 3 target council raid encounter
 - [Dungeons](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVRRZAQSAlRCRUEFVVUCUA)
@@ -37,6 +37,19 @@ Archon is just using a single build for the moment.
   - We use this for everything. You can choose to swap out [Mindbender](https://www.wowhead.com/ptr-2/spell=200174/mindbender) for [Deathspeaker](https://www.wowhead.com/ptr-2/spell=392507/deathspeaker) if you want a bit more execute damage.
   - If you prefer to play with [Voidtouched](https://www.wowhead.com/ptr-2/spell=407430/voidtouched) you can drop [Phantasmal Pathogen](https://www.wowhead.com/ptr-2/spell=407469/phantasmal-pathogen) for a `1.1%` loss
   - For dungeons if you want to pickup [Silence](https://www.wowhead.com/ptr-2/spell=15487/silence) you would drop [Phantasmal Pathogen](https://www.wowhead.com/ptr-2/spell=407469/phantasmal-pathogen)
+
+# Rotation
+This season will be identical to the rotation of previous seasons, just with the loss of a few spells/procs that we did not always take.
+
+## Opener
+
+### Voidweaver
+Pre-Cast Halo before combat to get 10 Insanity.
+
+1. Open with Shadow Crash if possible, otherwise Vampiric Touch
+2. 
+
+### Archon
 
 # Gear
 
