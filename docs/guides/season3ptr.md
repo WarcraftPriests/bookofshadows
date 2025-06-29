@@ -92,6 +92,9 @@ Starting with these but we don't have sims yet.
 - [Astral Antenna](https://www.wowhead.com/ptr-2/item=242395/astral-antenna)
 - [Essence-Hunter Eyeglass](https://www.wowhead.com/ptr-2/item=246939/essence-hunters-eyeglass)
 
+### Consumables
+- Weapon Enchant: [Stonebound Artistry](https://www.wowhead.com/ptr-2/item=223765/enchant-weapon-stonebound-artistry) or [Oathsworn's Tenacity](https://www.wowhead.com/ptr-2/item=223768/enchant-weapon-oathsworns-tenacity)
+
 # Macros
 You can use this macro to prevent double hitting [Void Torrent](https://www.wowhead.com/ptr-2/spell=263165/void-torrent) cancelling itself with [Void Volley](https://www.wowhead.com/ptr-2/spell=1240401/void-volley).
 
