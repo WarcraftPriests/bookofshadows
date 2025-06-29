@@ -15,11 +15,11 @@ In the below sections I will go over the existing sets and feedback about them. 
 
 The Archon set bonus going into Season 3 is fairly straightforward, it gives us more Halos, which leads to more Insanity, and more Devouring Plague casts. This gives us even more casts of Mind Flay: Insanity and longer Voidforms.
 
-Archon was already a fairly uninspiring Hero talent setup for Shadow Priests, and this set really does not add to anything it was doing, just repeats more of the same. Unfortunately it has fallen into the age old trap of just making Voidform last longer and become more punishing.
+Archon was already a fairly uninspiring Hero talent setup for Shadow Priests, and this set really does not add to anything it was doing, just repeats more of the same. Unfortunately it has fallen into the age old trap of just making Voidform last longer and become more punishing. Adding in more Halo's could be interesting but not in the way that it currently does extending our Voidform, just getting the same visuals we have but for longer is not as exciting as the Voidweaver set.
 
 A spec should not be able to sustain a single cast of its major cooldown for 90-120s. This effectively makes it not a cooldown considering how we get balanced around this. There are much more interesting ways to buff Voidform or our cooldowns that is not simply making them last longer. Voidform does not need to last longer.
 
-Being able to sustain a single Voidform this long effectively makes the cooldown more punishing as well to handling mechanics or having to move. This is just bringing back some of the old problems we had with drain-based Voidform in previous expansions.
+Being able to sustain a single Voidform this long effectively makes the cooldown more punishing as well to handling mechanics or having to move. This is just bringing back some of the old problems we had with drain-based Voidform in previous expansions without any of the cool parts of extending Voidform that we had (ramping haste/damage/insanity drain gameplay).
 
 ## Voidweaver
 - 2pc: `+20%`

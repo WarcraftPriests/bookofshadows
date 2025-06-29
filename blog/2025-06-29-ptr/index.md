@@ -19,10 +19,27 @@ At this point Void Eruption is a much more interesting cooldown and I would pref
 Note that if Dark Ascension did go away it would mean a lot to the community to get a glyph that altered Voidform's animation to be the Dark Ascension wings. 
 
 ### DoT Maintenance and Application
-- Shadow Crash
-  - changes are amazing for raid
-  - kinda mid/doesn't matter for dungeons
-  - somewhat buggy/inconsistent on large packs
+This patch we saw a few targeted changes at Shadow Crash to help with our DoT maintenance and application gameplay. Overall I think these changes solve good problems in raid, but seem to miss the mark for Mythic+ specifically.
+
+#### Shadow Crash Issues
+The two main pain points with the new design are as follows:
+- Shadow Crash has become a damage talent with Descending Darkness
+- Bugs limit its usefulness in Mythic+, particularly in large pulls
+  - [Bug Report 1](https://github.com/SimCMinMax/WoW-BugTracker/issues/1093)
+  - [Bug Report 2](https://github.com/SimCMinMax/WoW-BugTracker/issues/1286)
+
+Shadow Crash has mostly existed as a DoT application tool, with an exception of a Dragonflight tier set that was quite controversial. The reason for the controversy is making it a damage button now gives us a conflict, do we press Shadow Crash for damage or hold for DoT'ing targets? Luckily the 2 charge system can help with this, but largely this gameplay feels unhealthy to be pulling the player in two different ways. 
+
+There are quite a lot of people that dislike pressing Shadow Crash in single target, and it does feel quite weird, unsure if this was intentional. Due to current pathing challenges (see below) we take Shadow Crash and Descending Darkness in every single build currently. Part of this is pathing but also because it helps solve our issues with Mobility and Movement by giving us a valuable instant-cast to press when needed. Unfortunately this just feels like a conflicting design and I wish these problems could be solved with other solutions.
+
+The other large issue is how these changes affect Mythic+. We have long known of [bugs](https://github.com/SimCMinMax/WoW-BugTracker/issues?q=is%3Aissue%20state%3Aopen%20shadow%20crash) as it relates to Shadow Crash and DoT'ing targets, particularly in large pulls. The changes lowering the target count seem to have made these bugs more prevalent/happen on more packs than usual. Until Shadow Crash correctly prioritizes un-dotted targets to apply DoTs vs. refreshing this spell will continue to be an incredibly flawed way of applying DoTs.
+
+#### Shadow Priest isn't a DoT Spec
+I was pretty disappointed that there was nothing else adjusted with the spec as it relates to casting and maintaining DoT spells. We have been locked behind Misery being a required talent and Shadow Crash as our DoT applicator for quite some time now, and the issues are still quite obvious. There is no build variety that actually makes DoTs powerful vs. easy to spread, everything is just leaning in towards the easy to spread category. This makes our DoT gameplay non-existent in places where we used to actually press Vampiric Touch or Shadow Word: Pain in previous iterations, particularly low-target count environments.
+
+In the current design since we take Shadow Crash everywhere we literally never press Shadow Word: Pain or Vampiric Touch in Single Target, and even most cleave environments. This has made Shadow Priests lose a core piece of its identity and I wish there were alternatives available in the tree to make DoTs an actual part of our gameplay again.
+
+On top of this our DoTs have continued to be neglected when it comes to power, currently only totalling to less than 4% of our total damage (SW:P and VT).
 
 ### Utility Nodes in the Spec Tree
 Currently Shadow Priests have to choose 2 utility points in the top section of our talent tree before moving onto the middle section after picking all the damage nodes.
@@ -46,11 +63,11 @@ If Dispersion and/or Silence were just made baseline for Shadow Priests this iss
 - Number of 2 point nodes is still the highest in the game
 - Plagued by lots of numerically weak nodes that do not change your gameplay or others that are super niche. These cause our pathing to be restricted
 - Core Shadow Priest Themes are not always easy to path or there are too few choices. 
-  - [Shadowy Apparitions](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAGZFhfFQFQFQFQFAAAAA): S
-  - [Mind Blast](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAGg5BOBFBKBQBiUBBhOBAAAA): B
-  - [Pets](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAFhXGh5GQGYGDGAAAAA): D
-  - [Mind Flay: Insanity](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAFg9IQISIIIDIChOAfAAAAA): D
-  - [Shadow Word: Pain and Vampiric Touch](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAHhIDHCKJFJQJdJBDBhQBAAAA): D
+  - [Shadowy Apparitions](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAGZFhfFQFQFQFQFAAAAA): **S**
+  - [Mind Blast](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAGg5BOBFBKBQBiUBBhOBAAAA): **B**
+  - [Pets](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAFhXGh5GQGYGDGAAAAA): **D**
+  - [Mind Flay: Insanity](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAFg9IQISIIIDIChOAfAAAAA): **D**
+  - [Shadow Word: Pain and Vampiric Touch](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAHhIDHCKJFJQJdJBDBhQBAAAA): **D**
 
 ### Mobility, Movement, and Utility
 
