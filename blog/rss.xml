@@ -53,26 +53,26 @@
 <p>For most content we always want to have Dispersion. This leaves effectively just one point left, which typically we players will choose Mental Fortitude to counter the squishy nature of playing a Priest. This means we are effectively choosing between losing defensive utility, our interrupt, or DPS with this choice.</p>
 <p>If Dispersion and/or Silence were just made baseline for Shadow Priests this issue goes away.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="spec-tree-pathing-issues">Spec Tree Pathing Issues<a href="https://warcraftpriests.github.io/bookofshadows/blog/season-3-shadow-priest-feedback#spec-tree-pathing-issues" class="hash-link" aria-label="Direct link to Spec Tree Pathing Issues" title="Direct link to Spec Tree Pathing Issues">​</a></h3>
+<p>With the changes to the talent tree this patch I wanted to go over specific issues with pathing that we notice on the tree to bring up those pain points when creating a build.</p>
 <ul>
 <li>The Shadow Crash path is only 2 points to get to Void Torrent. The alternative option is 3 points which inherently puts these nodes at a disadvantage.</li>
-<li>Points in a weird spot:<!-- -->
+<li>The following nodes are in a weird spot where nothing before/after is related. They are also pretty uninspiring in general.<!-- -->
 <ul>
 <li>Madness Weaving</li>
 <li>Dark Evangelism</li>
-<li>Idol of Y'Shaarj (rework please im begging)</li>
+<li>Idol of Y'Shaarj</li>
 </ul>
 </li>
 <li>Number of 2 point nodes is still the highest in the game</li>
-<li>Plagued by lots of numerically weak nodes that do not change your gameplay or others that are super niche. These cause our pathing to be restricted</li>
-<li>Core Shadow Priest Themes are not always easy to path or there are too few choices.<!-- -->
+<li>Plagued by lots of numerically weak nodes that do not change your gameplay or others that are super niche. These cause our pathing to be restricted.</li>
+</ul>
+<p>Core Shadow Priest Themes are not always easy to path or there are too few choices. I've created annotated trees and then ranked their pathing situation for each core theme. Furthermore as a cost of these being core themes we notice that the actual base spells are severely undertuned. The cost of these spells having lots of talent points seems to be weak base spells, which impacts their dependency on these talents. Shadowy Apparitions, Mind Blast, Shadowfiend or Mindbender melees, and DoTs are extremely weak baseline.</p>
 <ul>
 <li><a href="https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAGZFhfFQFQFQFQFAAAAA" target="_blank" rel="noopener noreferrer">Shadowy Apparitions</a>: <strong>S</strong></li>
 <li><a href="https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAGg5BOBFBKBQBiUBBhOBAAAA" target="_blank" rel="noopener noreferrer">Mind Blast</a>: <strong>B</strong></li>
 <li><a href="https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAFhXGh5GQGYGDGAAAAA" target="_blank" rel="noopener noreferrer">Pets</a>: <strong>D</strong></li>
 <li><a href="https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAFg9IQISIIIDIChOAfAAAAA" target="_blank" rel="noopener noreferrer">Mind Flay: Insanity</a>: <strong>D</strong></li>
 <li><a href="https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAHhIDHCKJFJQJdJBDBhQBAAAA" target="_blank" rel="noopener noreferrer">Shadow Word: Pain and Vampiric Touch</a>: <strong>D</strong></li>
-</ul>
-</li>
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="mobility-movement-and-utility">Mobility, Movement, and Utility<a href="https://warcraftpriests.github.io/bookofshadows/blog/season-3-shadow-priest-feedback#mobility-movement-and-utility" class="hash-link" aria-label="Direct link to Mobility, Movement, and Utility" title="Direct link to Mobility, Movement, and Utility">​</a></h3>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="mobility-and-movement">Mobility and Movement<a href="https://warcraftpriests.github.io/bookofshadows/blog/season-3-shadow-priest-feedback#mobility-and-movement" class="hash-link" aria-label="Direct link to Mobility and Movement" title="Direct link to Mobility and Movement">​</a></h4>
@@ -90,12 +90,12 @@
 </li>
 <li>Psychic Horror is a severe DPS loss to take (see above section on spec tree utility points)</li>
 <li>Silence is arguably the worst interrupt in the game for Mythic+ content. Often times the Silence portion of the effect is useless, leading to us just having a long cooldown interrupt.</li>
-<li>Dominate Mind is either totally gamebreakingly overpowered or useless.</li>
+<li>Dominate Mind is either overpowered or useless.</li>
 <li>Psychic Scream is pulling a lot of weight for us right now as an AoE stop, unfortunately we do have to play in melee to use it though. This was a big problem solved by Mind Bomb (particularly in its stun version) that I still miss to this day</li>
 <li>Mass Dispel has not only seen significant nerfs, there has also been a notable change in dungeon design limiting its use cases</li>
 <li>Void Tendrils goes most seasons with most players forgetting it even exists it is so niche and often useless</li>
 </ul>
-<p>Priests have had plenty of utility spells in the past that were useful, but not gamebreaking that have been taken away from us. Bringing some of these back or shoring up existing utility problems would go a long way to groups being excited about inviting a Shadow Priest into their group.</p>
+<p>Priests have had plenty of utility spells in the past that were useful, but not game breaking that have been taken away from us. Bringing some of these back or shoring up existing utility problems would go a long way to groups being excited about inviting a Shadow Priest into their group.</p>
 <ul>
 <li>Shining Force</li>
 <li>Mind Bomb</li>
@@ -115,7 +115,7 @@
 <li>2pc + 4pc: <code>+17%</code></li>
 </ul>
 <p>The Archon set bonus going into Season 3 is fairly straightforward, it gives us more Halos, which leads to more Insanity, and more Devouring Plague casts. This gives us even more casts of Mind Flay: Insanity and longer Voidforms.</p>
-<p>Archon was already a fairly uninspiring Hero talent setup for Shadow Priests, and this set really does not add to anything it was doing, just repeats more of the same. Unfortunately it has fallen into the age old trap of just making Voidform last longer and become more punishing. Adding in more Halo's could be interesting but not in the way that it currently does extending our Voidform, just getting the same visuals we have but for longer is not as exciting as the Voidweaver set.</p>
+<p>Archon was already a fairly uninspiring Hero talent setup for Shadow Priests, and this set really does not add to anything it was doing, just repeats more of the same. Unfortunately it has fallen into the age old trap of just making Voidform last longer and become more punishing. Adding in more Halo's could be interesting but not in the way that it currently does extending our Voidform, just getting the same visuals we have but for longer is not as exciting as the Voidweaver set. The 4-set also is in a weird spot that you do not actually get any value from this set until the burst part of your Voidform is over (18 seconds after you press Halo).</p>
 <p>A spec should not be able to sustain a single cast of its major cooldown for 90-120s. This effectively makes it not a cooldown considering how we get balanced around this. There are much more interesting ways to buff Voidform or our cooldowns that is not simply making them last longer. Voidform does not need to last longer.</p>
 <p>Being able to sustain a single Voidform this long effectively makes the cooldown more punishing as well to handling mechanics or having to move. This is just bringing back some of the old problems we had with drain-based Voidform in previous expansions without any of the cool parts of extending Voidform that we had (ramping haste/damage/insanity drain gameplay).</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="voidweaver">Voidweaver<a href="https://warcraftpriests.github.io/bookofshadows/blog/season-3-set-bonus-feedback#voidweaver" class="hash-link" aria-label="Direct link to Voidweaver" title="Direct link to Voidweaver">​</a></h2>
