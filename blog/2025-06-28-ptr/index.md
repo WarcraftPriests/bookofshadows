@@ -17,7 +17,7 @@ The Archon set bonus going into Season 3 is fairly straightforward, it gives us 
 
 Archon was already a fairly uninspiring Hero talent setup for Shadow Priests, and this set really does not add to anything it was doing, just repeats more of the same. Unfortunately it has fallen into the age old trap of just making Voidform last longer and become more punishing.
 
-A spec should not be able to sustain a single cast of its major cooldown for 90-120s. This effectively makes it not a cooldown considering how we get balanced around this. There are much more interesting ways to buff Voidform or our cooldowns that is not simply making them last longer. Voidform does not need to last longer, it needs to be more interesting.
+A spec should not be able to sustain a single cast of its major cooldown for 90-120s. This effectively makes it not a cooldown considering how we get balanced around this. There are much more interesting ways to buff Voidform or our cooldowns that is not simply making them last longer. Voidform does not need to last longer.
 
 Being able to sustain a single Voidform this long effectively makes the cooldown more punishing as well to handling mechanics or having to move. This is just bringing back some of the old problems we had with drain-based Voidform in previous expansions.
 
