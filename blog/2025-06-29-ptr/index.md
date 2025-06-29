@@ -55,19 +55,21 @@ For most content we always want to have Dispersion. This leaves effectively just
 If Dispersion and/or Silence were just made baseline for Shadow Priests this issue goes away.
 
 ### Spec Tree Pathing Issues
+With the changes to the talent tree this patch I wanted to go over specific issues with pathing that we notice on the tree to bring up those pain points when creating a build.
 - The Shadow Crash path is only 2 points to get to Void Torrent. The alternative option is 3 points which inherently puts these nodes at a disadvantage.
-- Points in a weird spot:
+- The following nodes are in a weird spot where nothing before/after is related. They are also pretty uninspiring in general.
   - Madness Weaving
   - Dark Evangelism
-  - Idol of Y'Shaarj (rework please im begging)
+  - Idol of Y'Shaarj
 - Number of 2 point nodes is still the highest in the game
-- Plagued by lots of numerically weak nodes that do not change your gameplay or others that are super niche. These cause our pathing to be restricted
-- Core Shadow Priest Themes are not always easy to path or there are too few choices. 
-  - [Shadowy Apparitions](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAGZFhfFQFQFQFQFAAAAA): **S**
-  - [Mind Blast](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAGg5BOBFBKBQBiUBBhOBAAAA): **B**
-  - [Pets](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAFhXGh5GQGYGDGAAAAA): **D**
-  - [Mind Flay: Insanity](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAFg9IQISIIIDIChOAfAAAAA): **D**
-  - [Shadow Word: Pain and Vampiric Touch](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAHhIDHCKJFJQJdJBDBhQBAAAA): **D**
+- Plagued by lots of numerically weak nodes that do not change your gameplay or others that are super niche. These cause our pathing to be restricted.
+
+Core Shadow Priest Themes are not always easy to path or there are too few choices. I've created annotated trees and then ranked their pathing situation for each core theme. Furthermore as a cost of these being core themes we notice that the actual base spells are severely undertuned. The cost of these spells having lots of talent points seems to be weak base spells, which impacts their dependency on these talents. Shadowy Apparitions, Mind Blast, Shadowfiend or Mindbender melees, and DoTs are extremely weak baseline.
+- [Shadowy Apparitions](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAGZFhfFQFQFQFQFAAAAA): **S**
+- [Mind Blast](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAGg5BOBFBKBQBiUBBhOBAAAA): **B**
+- [Pets](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAFhXGh5GQGYGDGAAAAA): **D**
+- [Mind Flay: Insanity](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAFg9IQISIIIDIChOAfAAAAA): **D**
+- [Shadow Word: Pain and Vampiric Touch](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DBAAAHhIDHCKJFJQJdJBDBhQBAAAA): **D**
 
 ### Mobility, Movement, and Utility
 
@@ -86,11 +88,11 @@ The other big problem with Shadow Priests is how it relates in the current Mythi
   - Why can't this work for more enemy types? Or just call it "Shackle"?
 - Psychic Horror is a severe DPS loss to take (see above section on spec tree utility points)
 - Silence is arguably the worst interrupt in the game for Mythic+ content. Often times the Silence portion of the effect is useless, leading to us just having a long cooldown interrupt.
-- Dominate Mind is either totally gamebreakingly overpowered or useless.
+- Dominate Mind is either overpowered or useless.
 - Psychic Scream is pulling a lot of weight for us right now as an AoE stop, unfortunately we do have to play in melee to use it though. This was a big problem solved by Mind Bomb (particularly in its stun version) that I still miss to this day
 - Mass Dispel has not only seen significant nerfs, there has also been a notable change in dungeon design limiting its use cases
 - Void Tendrils goes most seasons with most players forgetting it even exists it is so niche and often useless
 
-Priests have had plenty of utility spells in the past that were useful, but not gamebreaking that have been taken away from us. Bringing some of these back or shoring up existing utility problems would go a long way to groups being excited about inviting a Shadow Priest into their group.
+Priests have had plenty of utility spells in the past that were useful, but not game breaking that have been taken away from us. Bringing some of these back or shoring up existing utility problems would go a long way to groups being excited about inviting a Shadow Priest into their group.
 - Shining Force
 - Mind Bomb
