@@ -60,10 +60,12 @@ Pre-Cast [Halo](https://www.wowhead.com/ptr-2/spell=120644/halo) before combat t
 8. [Void Blast](https://www.wowhead.com/ptr-2/spell=450405/void-blast) x2
 
 #### Archon
+This patch with the relative tuning to [Mind Blast](https://www.wowhead.com/ptr-2/spell=8092/mind-blast) and other spells we opt to adjust the opener.
+
 1. Open with [Shadow Crash](https://www.wowhead.com/ptr-2/spell=205385/shadow-crash) if it will hit, otherwise [Vampiric Touch](https://www.wowhead.com/ptr-2/spell=34914/vampiric-touch)
-2. [Shadowfiend](https://www.wowhead.com/ptr-2/spell=34433/shadowfiend) or [Mindbender](https://www.wowhead.com/ptr-2/spell=200174/mindbender)
-3. [Void Torrent](https://www.wowhead.com/ptr-2/spell=263165/void-torrent)
-4. [Halo](https://www.wowhead.com/ptr-2/spell=120644/halo)
+2. [Void Torrent](https://www.wowhead.com/ptr-2/spell=263165/void-torrent)
+3. [Halo](https://www.wowhead.com/ptr-2/spell=120644/halo)
+4. [Shadowfiend](https://www.wowhead.com/ptr-2/spell=34433/shadowfiend) or [Mindbender](https://www.wowhead.com/ptr-2/spell=200174/mindbender)
 5. Void Eruption
 6. [Power Infusion](https://www.wowhead.com/ptr-2/spell=10060/power-infusion) + [Tempered Potion](https://www.wowhead.com/ptr-2/item=212265/tempered-potion) + On Use Trinket
 7. [Void Bolt](https://www.wowhead.com/ptr-2/spell=205448/void-bolt)
