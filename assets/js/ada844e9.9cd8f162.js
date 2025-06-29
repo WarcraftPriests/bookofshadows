@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbookofshadows=self.webpackChunkbookofshadows||[]).push([[2085],{511:e=>{e.exports=JSON.parse('{"authors":[{"name":"Publik","title":"Maintainer of Book of Shadows","url":"https://github.com/seanpeters86","imageURL":"https://github.com/seanpeters86.png","key":"publik","page":null,"count":11}]}')}}]);

@@ -4,10 +4,40 @@
         <title>Book of Shadows Blog</title>
         <link>https://warcraftpriests.github.io/bookofshadows/blog</link>
         <description>Book of Shadows Blog</description>
-        <lastBuildDate>Wed, 18 Jun 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jun 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Season 3 Set Bonus Feedback]]></title>
+            <link>https://warcraftpriests.github.io/bookofshadows/blog/season-3-set-bonus-feedback</link>
+            <guid>https://warcraftpriests.github.io/bookofshadows/blog/season-3-set-bonus-feedback</guid>
+            <pubDate>Sat, 28 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[In the below sections I will go over the existing sets and feedback about them. I have also included preliminary numbers on how strong these tier sets are currently.]]></description>
+            <content:encoded><![CDATA[<p>In the below sections I will go over the existing sets and feedback about them. I have also included preliminary numbers on how strong these tier sets are currently.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="archon">Archon<a href="https://warcraftpriests.github.io/bookofshadows/blog/season-3-set-bonus-feedback#archon" class="hash-link" aria-label="Direct link to Archon" title="Direct link to Archon">​</a></h2>
+<ul>
+<li>2pc: <code>+4%</code></li>
+<li>2pc + 4pc: <code>+17%</code></li>
+</ul>
+<p>The Archon set bonus going into Season 3 is fairly straightforward, it gives us more Halos, which leads to more Insanity, and more Devouring Plague casts. This gives us even more casts of Mind Flay: Insanity and longer Voidforms.</p>
+<p>Archon was already a fairly uninspiring Hero talent setup for Shadow Priests, and this set really does not add to anything it was doing, just repeats more of the same. Unfortunately it has fallen into the age old trap of just making Voidform last longer and become more punishing.</p>
+<p>A spec should not be able to sustain a single cast of its major cooldown for 90-120s. This effectively makes it not a cooldown considering how we get balanced around this. There are much more interesting ways to buff Voidform or our cooldowns that is not simply making them last longer. Voidform does not need to last longer, it needs to be more interesting.</p>
+<p>Being able to sustain a single Voidform this long effectively makes the cooldown more punishing as well to handling mechanics or having to move. This is just bringing back some of the old problems we had with drain-based Voidform in previous expansions.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="voidweaver">Voidweaver<a href="https://warcraftpriests.github.io/bookofshadows/blog/season-3-set-bonus-feedback#voidweaver" class="hash-link" aria-label="Direct link to Voidweaver" title="Direct link to Voidweaver">​</a></h2>
+<ul>
+<li>2pc: <code>+20%</code></li>
+<li>2pc + 4pc: <code>+45%</code></li>
+</ul>
+<p>Clearly the Voidweaver set is currently overpowered. This needs to be resolved by nerfing this set specifically, and not base Shadow Priest nerfs. The set itself is fun to play with and feels like it changes our core gameplay loop during cooldowns for the better, but includes modifiers that simply bloat the value and are not necessary.</p>
+<p>The reason that this set is so much fun to play with is it makes you feel like you are machine gunning out Void Blast casts, and it feels awesome. The cast time reduction and more important the cooldown reduction of Void Blast is what gives us this feeling, the damage modifier to Void Blast is not necessary and is just a massive tuning knob that does not need to be there. Similarly the 4pc buffing Entropic Rift damage is not necessary for the set to be powerful.</p>
+<p>A more appropriate version of the set that is not egregiously overtuned but still keep the parts that are fun might look like this:</p>
+<ul>
+<li>2pc: Void Blast's cast time is reduced by 20%. Void Blast's cooldown is reduced by 50%.</li>
+<li>4pc: Void Blast now also causes Entropic Rift to grow, and the damage of your next Void Torrent is increased by up to 100% based on the size of Entropic Rift when it collapses.</li>
+</ul>]]></content:encoded>
+            <category>ptr</category>
+        </item>
         <item>
             <title><![CDATA[11.2 Shadow Priest Rework]]></title>
             <link>https://warcraftpriests.github.io/bookofshadows/blog/11-2-ptr-rework</link>
