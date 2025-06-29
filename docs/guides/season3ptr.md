@@ -23,17 +23,22 @@ With the change to [Shadow Crash](https://www.wowhead.com/ptr-2/spell=205385/sha
 Core talents for Voidweaver are pretty static across fight types, with minor changes you can make. The multi-target build is particularly designed for the new 3 target council raid encounter.
 
 - [Single Target](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVQRZRASAlRCRUEFVVUCVA)
+  - `CIQAAAAAAAAAAAAAAAAAAAAAAMDMzDAAAAAAAAAAAAYM2GMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGbA2mB`
   - You can drop [Phantasmal Pathogen](https://www.wowhead.com/ptr-2/spell=407469/phantasmal-pathogen) for [Voidtouched](https://www.wowhead.com/ptr-2/spell=407430/voidtouched), this is about a `0.3%` loss but can make it easier to play
-  - If you want more execute/movement global between 35 and 20% you can play the [Execute Build](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVQRZQQSAlRCRUEFVVUCUA) instead. This drops [Voidwraith](https://www.wowhead.com/ptr-2/spell=451234/voidwraith) and [Mindbender](https://www.wowhead.com/ptr-2/spell=200174/mindbender) for [Depth of Shadows](https://www.wowhead.com/ptr-2/spell=451308/depth-of-shadows) and [Deathspeaker](https://www.wowhead.com/ptr-2/spell=392507/deathspeaker). This is roughly a `0.2%` loss in overall with a slight gain in execute.
-- [Multi-Target](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVURZAQSAlRCRUEFVVUCUA)
-  - particularly designed for 3 target council raid encounter
-- [Dungeons](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVRRZAQSAlRCRUEFVVUCUA)
-  - identical to the multi-target build but we swap in [Maddening Touch](https://www.wowhead.com/ptr-2/spell=391228/maddening-touch) instead of [Dark Thoughts](https://www.wowhead.com/ptr-2/spell=1240388/dark-thoughts). If you want to pickup [Silence](https://www.wowhead.com/ptr-2/spell=15487/silence) you would drop this point.
+- [Single Target + Execute](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVQRZQQSAlRCRUEFVVUCUA)
+  - `CIQAAAAAAAAAAAAAAAAAAAAAAMDmZeAAAAAAAAAAAAAjxGMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGLA2mB`
+  - Gives you another movement global between 35 and 20%
+  - This drops [Voidwraith](https://www.wowhead.com/ptr-2/spell=451234/voidwraith) and [Mindbender](https://www.wowhead.com/ptr-2/spell=200174/mindbender) for [Depth of Shadows](https://www.wowhead.com/ptr-2/spell=451308/depth-of-shadows) and [Deathspeaker](https://www.wowhead.com/ptr-2/spell=392507/deathspeaker). This is roughly a `0.2%` loss in overall with a slight gain in execute.
+- [AoE](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVURZAQSAlRCRUEFVVUCUA)
+  - `CIQAAAAAAAAAAAAAAAAAAAAAAMDmZAAAAAAAAAAAAYM2gZmZZbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGLA2mB`
+  - particularly designed for 3 target council raid encounter or Mythic+
+  - If you want to pickup [Silence](https://www.wowhead.com/ptr-2/spell=15487/silence) you would drop [Dark Thoughts](https://www.wowhead.com/ptr-2/spell=1240388/dark-thoughts)
 
 ### Archon
 Archon is just using a single build for the moment.
 
 - [Triple Idol](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUOVFFUVQRZRBSBEVCUQEFVVUBR)
+  - `CIQAAAAAAAAAAAAAAAAAAAAAAMMMeAAAAAAAAAAAAAjxygZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZ0sZAIjxCAsNDA`
   - We use this for everything. You can choose to swap out [Mindbender](https://www.wowhead.com/ptr-2/spell=200174/mindbender) for [Deathspeaker](https://www.wowhead.com/ptr-2/spell=392507/deathspeaker) if you want a bit more execute damage.
   - If you prefer to play with [Voidtouched](https://www.wowhead.com/ptr-2/spell=407430/voidtouched) you can drop [Phantasmal Pathogen](https://www.wowhead.com/ptr-2/spell=407469/phantasmal-pathogen) for a `1.1%` loss
   - For dungeons if you want to pickup [Silence](https://www.wowhead.com/ptr-2/spell=15487/silence) you would drop [Phantasmal Pathogen](https://www.wowhead.com/ptr-2/spell=407469/phantasmal-pathogen)
