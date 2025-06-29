@@ -20,7 +20,7 @@ With the change to [Shadow Crash](https://www.wowhead.com/ptr-2/spell=205385/sha
 **TUNING IS NOT FINAL**: Most things are still very much a work-in-progress.
 
 ### Voidweaver
-Core talents for Voidweaver are pretty static across fight types, with minor changes you can make. The multi-target build is particularly designed for the new 3 target council raid encounter.
+Core talents for Voidweaver are pretty static across fight types, with minor changes you can make.
 
 - [Single Target](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVQRZRASAlRCRUEFVVUCVA)
   - `CIQAAAAAAAAAAAAAAAAAAAAAAMDMzDAAAAAAAAAAAAYM2GMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGbA2mB`
@@ -28,7 +28,7 @@ Core talents for Voidweaver are pretty static across fight types, with minor cha
 - [Single Target + Execute](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVQRZQQSAlRCRUEFVVUCUA)
   - `CIQAAAAAAAAAAAAAAAAAAAAAAMDmZeAAAAAAAAAAAAAjxGMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGLA2mB`
   - Gives you another movement global between 35 and 20%
-  - This drops [Voidwraith](https://www.wowhead.com/ptr-2/spell=451234/voidwraith) and [Mindbender](https://www.wowhead.com/ptr-2/spell=200174/mindbender) for [Depth of Shadows](https://www.wowhead.com/ptr-2/spell=451308/depth-of-shadows) and [Deathspeaker](https://www.wowhead.com/ptr-2/spell=392507/deathspeaker). This is roughly a `0.2%` loss in overall with a slight gain in execute.
+  - This drops [Voidwraith](https://www.wowhead.com/ptr-2/spell=451234/voidwraith) and [Mindbender](https://www.wowhead.com/ptr-2/spell=200174/mindbender) for [Depth of Shadows](https://www.wowhead.com/ptr-2/spell=451308/depth-of-shadows) and [Deathspeaker](https://www.wowhead.com/ptr-2/spell=392507/deathspeaker). This is roughly a `0.2%` loss in overall with a `1-2%` gain in execute depending on how long it lasts for.
 - [AoE](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVURZAQSAlRCRUEFVVUCUA)
   - `CIQAAAAAAAAAAAAAAAAAAAAAAMDmZAAAAAAAAAAAAYM2gZmZZbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGLA2mB`
   - particularly designed for 3 target council raid encounter or Mythic+
@@ -77,8 +77,13 @@ This patch with the relative tuning to [Mind Blast](https://www.wowhead.com/ptr-
 
 ## Gear
 
+### Stats
+We are still fine-tuning but early looks at stats appear to follow these priorities:
+- Voidweaver: Mastery >> Haste > Crit > Vers
+- Archon: Mastery > Haste > Crit > Vers
+
 ### Tier Set Pieces
-Ideally we use Head, Chest, Gloves, and Legs [tier](https://www.wowhead.com/ptr-2/item-set=1927/eulogy-to-a-dying-star).
+Ideally we use Head, Chest, Gloves, and Legs from our [tier](https://www.wowhead.com/ptr-2/item-set=1927/eulogy-to-a-dying-star) set.
 
 ### Trinkets
 Starting with these but we don't have sims yet.
