@@ -24,24 +24,23 @@ Core talents for Voidweaver are pretty static across fight types, with minor cha
 
 - [Single Target](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVQRZRASAlRCRUEFVVUCVA)
   - `CIQAAAAAAAAAAAAAAAAAAAAAAMDMzDAAAAAAAAAAAAYM2GMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGbA2mB`
-  - You can drop [Phantasmal Pathogen](https://www.wowhead.com/ptr-2/spell=407469/phantasmal-pathogen) for [Voidtouched](https://www.wowhead.com/ptr-2/spell=407430/voidtouched), this is about a `0.3%` loss but can make it easier to play
 - [Single Target + Execute](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVQRZQQSAlRCRUEFVVUCUA)
   - `CIQAAAAAAAAAAAAAAAAAAAAAAMDmZeAAAAAAAAAAAAAjxGMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGLA2mB`
   - Gives you another movement global between 35 and 20%
-  - This drops [Voidwraith](https://www.wowhead.com/ptr-2/spell=451234/voidwraith) and [Mindbender](https://www.wowhead.com/ptr-2/spell=200174/mindbender) for [Depth of Shadows](https://www.wowhead.com/ptr-2/spell=451308/depth-of-shadows) and [Deathspeaker](https://www.wowhead.com/ptr-2/spell=392507/deathspeaker). This is roughly a `0.2%` loss in overall with a `1-2%` gain in execute depending on how long it lasts for.
-- [AoE](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVURZAQSAlRCRUEFVVUCUA)
-  - `CIQAAAAAAAAAAAAAAAAAAAAAAMDmZAAAAAAAAAAAAYM2gZmZZbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGLA2mB`
-  - particularly designed for 3 target council raid encounter or Mythic+
-  - If you want to pickup [Silence](https://www.wowhead.com/ptr-2/spell=15487/silence) you would drop [Dark Thoughts](https://www.wowhead.com/ptr-2/spell=1240388/dark-thoughts)
+  - This is about 0.5% loss compared to base, but gives you about 2% more execute and better for adds/multi-target setups
+- [AoE/Mythic+](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVVFUVQRZAQSAlRCRUEFVVUCUA)
+  - `CIQAAAAAAAAAAAAAAAAAAAAAAMDmZAAAAAAAAAAAAYM2YMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGLA2mB`
+  - If you do not need Silence and Mental Fort you can instead take Maddening Touch (4+) or Dark Thoughts (1-3T)
 
 ### Archon
-Archon is just using a single build for the moment.
-
-- [Triple Idol](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUOVFFUVQRZRBSBEVCUQEFVVUBR)
-  - `CIQAAAAAAAAAAAAAAAAAAAAAAMMMeAAAAAAAAAAAAAjxygZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZ0sZAIjxCAsNDA`
-  - We use this for everything. You can choose to swap out [Mindbender](https://www.wowhead.com/ptr-2/spell=200174/mindbender) for [Deathspeaker](https://www.wowhead.com/ptr-2/spell=392507/deathspeaker) if you want a bit more execute damage.
-  - If you prefer to play with [Voidtouched](https://www.wowhead.com/ptr-2/spell=407430/voidtouched) you can drop [Phantasmal Pathogen](https://www.wowhead.com/ptr-2/spell=407469/phantasmal-pathogen) for a `1.1%` loss
-  - For dungeons if you want to pickup [Silence](https://www.wowhead.com/ptr-2/spell=15487/silence) you would drop [Phantasmal Pathogen](https://www.wowhead.com/ptr-2/spell=407469/phantasmal-pathogen)
+- [Single Target](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUOVFFUUQUFpBSBEVCUAEFVVUBR)
+  - `CIQAAAAAAAAAAAAAAAAAAAAAAMMMGAAAAAAAAAAAAjHYWGMzMbLbMzMzMzMLDmNmZmZMbMwYMMLmtpmZwCmBYmNLjmNDAZMWAAYA`
+- [Single Target + Shadow Crash](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUOVFFUVQQZhBSBEVCUQEFVVUBR)
+  - `CIQAAAAAAAAAAAAAAAAAAAAAAMMMGAAAAAAAAAAAAjxygZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZ0sZAIjxCAsNA`
+  - This is roughly 0.3% worse in pure single target, better anytime there are adds
+- [AoE/Mythic+](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUOVVFUVQRZARSBEVCUQEFVVUBR)
+  - `CIQAAAAAAAAAAAAAAAAAAAAAAMMmBAAAAAAAAAAAAjxCjZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZ0sZAIjxCAsNDA`
+  - If you do not need Silence and Mental Fort you can instead take Phantom Menace (4+) or Phantasmal Pathogen (1-3T)
 
 ## Rotation
 This season will be identical to the rotation of previous seasons, just with the loss of a few spells/procs that we did not always take.
@@ -77,20 +76,19 @@ This patch with the relative tuning to [Mind Blast](https://www.wowhead.com/ptr-
 
 ## Gear
 
+### D.I.S.C Belt
+Drop this when you get a normal belt around 710-714 item level
+
 ### Stats
 We are still fine-tuning but early looks at stats appear to follow these priorities:
-- Voidweaver: Mastery >> Haste > Crit > Vers
-- Archon: Mastery > Haste > Crit > Vers
+- Voidweaver: Mastery >> Haste > Crit > Vers (Only wants ~20% haste)
+- Archon: Mastery > Haste > Crit > Vers (Only wants ~30% haste)
 
 ### Tier Set Pieces
 Ideally we use Head, Chest, Gloves, and Legs from our [tier](https://www.wowhead.com/ptr-2/item-set=1927/eulogy-to-a-dying-star) set.
 
 ### Trinkets
-Starting with these but we don't have sims yet.
-
-- [Araz's Ritual Forge](https://www.wowhead.com/ptr-2/item=242402/arazs-ritual-forge)
-- [Astral Antenna](https://www.wowhead.com/ptr-2/item=242395/astral-antenna)
-- [Essence-Hunter Eyeglass](https://www.wowhead.com/ptr-2/item=246939/essence-hunters-eyeglass)
+Early sims are [here](https://warcraftpriests.github.io/?talents=vw_da_cthun&sims=trinkets&fightStyle=Single&version=ptr)
 
 ### Consumables
 - Weapon Enchant: [Stonebound Artistry](https://www.wowhead.com/ptr-2/item=223765/enchant-weapon-stonebound-artistry) or [Oathsworn's Tenacity](https://www.wowhead.com/ptr-2/item=223768/enchant-weapon-oathsworns-tenacity)
@@ -109,14 +107,14 @@ You can use this macro to prevent double hitting [Void Torrent](https://www.wowh
 
 ### Raid Testing Vods
 
+#### Mythic
+
 <>
-<iframe src="https://player.twitch.tv/?collection=LFwiALUJTRhHMg&video=2497732992&parent=warcraftpriests.github.io&autoplay=false&muted=true" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?collection=h7xRwN5BURg9yQ&video=2509701437&parent=warcraftpriests.github.io&autoplay=false&muted=true" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 </>
 
 #### Heroic
-- [Forgeweaver Araz (Archon)](https://www.twitch.tv/videos/2497732992)
-- [Forgeweaver Araz (Voidweaver)](https://www.twitch.tv/videos/2497732987)
-- [The Soul Hunters (Archon)](https://www.twitch.tv/videos/2497732990)
-- [The Soul Hunters (Voidweaver)](https://www.twitch.tv/videos/2497732984)
-- [Fractillus (Voidweaver)](https://www.twitch.tv/videos/2497732986)
-- [Nexus-King Salhadaar (Voidweaver)](https://www.twitch.tv/videos/2497732991)
+
+<>
+<iframe src="https://player.twitch.tv/?collection=LFwiALUJTRhHMg&video=2497732992&parent=warcraftpriests.github.io&autoplay=false&muted=true" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+</>
