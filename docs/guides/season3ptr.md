@@ -20,27 +20,44 @@ With the change to [Shadow Crash](https://www.wowhead.com/ptr-2/spell=205385/sha
 **TUNING IS NOT FINAL**: Most things are still very much a work-in-progress.
 
 ### Voidweaver
-Core talents for Voidweaver are pretty static across fight types, with minor changes you can make.
+Currently Deathspeaker is bugged, as such I have listed Mindbender builds until this is fixed.
 
-- [Single Target](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVQRZRASAlRCRUEFVVUCVA)
-  - `CIQAAAAAAAAAAAAAAAAAAAAAAMDMzDAAAAAAAAAAAAYM2GMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGbA2mB`
-- [Single Target + Execute](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVQRZQQSAlRCRUEFVVUCUA)
-  - `CIQAAAAAAAAAAAAAAAAAAAAAAMDmZeAAAAAAAAAAAAAjxGMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGLA2mB`
-  - Gives you another movement global between 35 and 20%
-  - This is about 0.5% loss compared to base, but gives you about 2% more execute and better for adds/multi-target setups
+#### Deathspeaker
+- [Single Target](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVFFUVQRZQQSAlRCRUEFVVUCUA)
+  - `CIQAAAAAAAAAAAAAAAAAAAAAAMDmZeAAAAAAAAAAAAAjxGMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLgZjFAbzA`
+- [3T](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVVEEBUFEKFSJFQCBUOVFFUVURZAQSAlRCRUEFVVUCUA)
+  - `CIQAAAAAAAAAAAAAAAAAAAAAAMDzMDAAAAAAAAAAAAjxGMzMLbbjZGzMzMLDmNmZmZMbMAjhZxsN1MDWgZmBACwsNbLgZjFAbzA`
 - [AoE/Mythic+](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVVFUVQRZAQSAlRCRUEFVVUCUA)
-  - `CIQAAAAAAAAAAAAAAAAAAAAAAMDmZAAAAAAAAAAAAYM2YMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGLA2mB`
-  - If you do not need Silence and Mental Fort you can instead take Maddening Touch (4+) or Dark Thoughts (1-3T)
+  - `CIQAAAAAAAAAAAAAAAAAAAAAAMDmZAAAAAAAAAAAAYM2YMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLgZjFAbzA`
+
+#### Mindbender
+- [Single Target](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVRFUVQRZRASAlRCFQEFVVUCVA)
+  - `CIQAAAAAAAAAAAAAAAAAAAAAAMDMzDAAAAAAAAAAAAYM2GjZmZZDzMmZmZWGMbMzMzY2YgxYYWMbTNzgFYmZAgAMbz2SwsxGgtZA`
+- [3T](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVRFUVURZBASAlRCFQEFVVUCVA)
+  - `CIQAAAAAAAAAAAAAAAAAAAAAAMDMDAAAAAAAAAAAAjx2YMzMLbGzMmZmZWGMbMzMzY2YgxYYWMbTNzgFYmZAgAMbz2SwsxGgtZA`
+- [AoE/Mythic+](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/voidweaver/DAREEAVFEERUFEKFSJFQCBUOVVFUVQRZBASAlRCRUEFVVUCVA)
+  - `CIQAAAAAAAAAAAAAAAAAAAAAAMDMDAAAAAAAAAAAAjx2YMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLgZjNAbzA`
 
 ### Archon
 - [Single Target](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUOVFFUUQUFpBSBEVCUAEFVVUBR)
   - `CIQAAAAAAAAAAAAAAAAAAAAAAMMMGAAAAAAAAAAAAjHYWGMzMbLbMzMzMzMLDmNmZmZMbMwYMMLmtpmZwCmBYmNLjmNDAZMWAAYA`
 - [Single Target + Shadow Crash](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUOVFFUVQQZhBSBEVCUQEFVVUBR)
   - `CIQAAAAAAAAAAAAAAAAAAAAAAMMMGAAAAAAAAAAAAjxygZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZ0sZAIjxCAsNA`
-  - This is roughly 0.3% worse in pure single target, better anytime there are adds
+
+Currently Deathspeaker is bugged, as such I have listed Mindbender builds until this is fixed.
+
+#### Deathspekaer
+- [3T](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUOVFFUVQRZQRSBEVCUQEFVVUBR)
+  - `CIQAAAAAAAAAAAAAAAAAAAAAAMMmxDAAAAAAAAAAAAYMWgZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZY2MAkxYBA2mB`
 - [AoE/Mythic+](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUOVVFUVQRZARSBEVCUQEFVVUBR)
-  - `CIQAAAAAAAAAAAAAAAAAAAAAAMMmBAAAAAAAAAAAAjxCjZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZ0sZAIjxCAsNDA`
-  - If you do not need Silence and Mental Fort you can instead take Phantom Menace (4+) or Phantasmal Pathogen (1-3T)
+  - `CIQAAAAAAAAAAAAAAAAAAAAAAMMmBAAAAAAAAAAAAjxCjZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZY2MAkxYBA2mB`
+
+#### Mindbender
+- [3T](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUOVFFUVQRZRBSBEVCUQEFVVUBR)
+  - `CIQAAAAAAAAAAAAAAAAAAAAAAMMMeAAAAAAAAAAAAAjxygZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZY2MAkxYBA2mB`
+- [AoE/Mythic+](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUOVVFUVQRZBBSBEVCUQEFVVUBR)
+  - `CIQAAAAAAAAAAAAAAAAAAAAAAMMMAAAAAAAAAAAAYMWGjZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZY2MAkxYBA2mB`
+
 
 ## Rotation
 This season will be identical to the rotation of previous seasons, just with the loss of a few spells/procs that we did not always take.
