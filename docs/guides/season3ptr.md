@@ -46,7 +46,7 @@ Currently Deathspeaker is bugged, as such I have listed Mindbender builds until 
 
 Currently Deathspeaker is bugged, as such I have listed Mindbender builds until this is fixed.
 
-#### Deathspekaer
+#### Deathspeaker
 - [3T](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUOVFFUVQRZQRSBEVCUQEFVVUBR)
   - `CIQAAAAAAAAAAAAAAAAAAAAAAMMmxDAAAAAAAAAAAAYMWgZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZY2MAkxYBA2mB`
 - [AoE/Mythic+](https://www.wowhead.com/ptr-2/talent-calc/priest/shadow/archon/DAREEAVFEERUFEKFSJFQCBUOVVFUVQRZARSBEVCUQEFVVUBR)
