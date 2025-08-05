@@ -15,7 +15,9 @@ Below is a table of spells and the amount of stacks they generate.
 | [Mindbender](https://www.wowhead.com/spell=123040/mindbender) | 5 |
 | [Voidwraith](https://www.wowhead.com/spell=451234/voidwraith) | 5 |
 | [Shadow Word: Death](https://www.wowhead.com/spell=32379/shadow-word-death) | 4 |
+| [Shadow Word: Death](https://www.wowhead.com/spell=32379/shadow-word-death) with [Death's Torment](https://www.wowhead.com/spell=1240364/deaths-torment) | 1 |
 | [Mind Flay](https://www.wowhead.com/spell=15407/mind-flay) Ticks | 1 |
+| [Mind Flay: Insanity](https://www.wowhead.com/spell=391403/mind-flay-insanity) Ticks | 1 |
 | [Shadow Word: Pain](https://www.wowhead.com/spell=589/shadow-word-pain) Cast | 3 |
 | [Vampiric Touch](https://www.wowhead.com/spell=34914/vampiric-touch) Cast | 4 |
 | [Devouring Plague](https://www.wowhead.com/spell=335467/devouring-plague) Cast | 12 |
