@@ -4,16 +4,22 @@ sidebar_position: 1
 
 # Shadow
 
-## [Shadowy Insight](https://www.wowhead.com/spell=375888/shadowy-insight)
+## [Idol of N'Zoth](https://www.wowhead.com/spell=373280/idol-of-nzoth)
+Below is a table of spells and the amount of stacks they generate.
 
-Shadowy Insight does not have proc data available in spell data. We have done
-tests throughout the spells history manually testing this proc rate. From our
-testing the proc rate is approximately `2.4 RPPM + Hasted`.
-
-## [Tormented Spirits](https://www.wowhead.com/spell=391284/tormented-spirits)
-
-Tormented Spirits have a 5% chance to spawn a [Shadowy Apparition](https://www.wowhead.com/spell=148859/shadowy-apparition) for every tick of [Shadow Word: Pain](https://www.wowhead.com/spell=589/shadow-word-pain), or 10% if the tick was a critical strike. 
-
-There is currently a [bug](https://github.com/SimCMinMax/WoW-BugTracker/issues/1097) where the actual state of the Shadowy Apparition damage is not dependent on the state of the Shadow Word: Pain tick, but rather the state of whatever the previous action was that triggered a Shadowy Apparition (aside from Shadow Word: Pain).
-
-What this means is that for example if you cast a [Mind Blast](https://www.wowhead.com/spell=8092/mind-blast) that critically strikes and it generated a Shadowy Apparition, all subsequent procs from Tormented Spirits would always deal damage as if that was a critical strike, until you cast a normal spell that does not critically strike. 
+| Spell | Stacks |
+| --- | --- |
+| [Mind Blast](https://www.wowhead.com/spell=8092/mind-blast) | 6 |
+| [Mindgames](https://www.wowhead.com/spell=375901/mindgames) | 10 |
+| [Shadowfiend](https://www.wowhead.com/spell=34433/shadowfiend) | 5 |
+| [Mindbender](https://www.wowhead.com/spell=123040/mindbender) | 5 |
+| [Voidwraith](https://www.wowhead.com/spell=451234/voidwraith) | 5 |
+| [Shadow Word: Death](https://www.wowhead.com/spell=32379/shadow-word-death) | 4 |
+| [Mind Flay](https://www.wowhead.com/spell=15407/mind-flay) Ticks | 1 |
+| [Shadow Word: Pain](https://www.wowhead.com/spell=589/shadow-word-pain) Cast | 3 |
+| [Vampiric Touch](https://www.wowhead.com/spell=34914/vampiric-touch) Cast | 4 |
+| [Devouring Plague](https://www.wowhead.com/spell=335467/devouring-plague) Cast | 12 |
+| [Void Bolt](https://www.wowhead.com/spell=228266/void-bolt) | 10 |
+| [Void Eruption](https://www.wowhead.com/spell=228260/void-eruption) | 10 |
+| [Void Torrent](https://www.wowhead.com/spell=263165/void-torrent) Ticks | 2 |
+| [Void Volley](https://www.wowhead.com/spell=1240401/void-volley) | 10 |
