@@ -16,11 +16,11 @@ As of this post our sims posted to the [Charts Website](https://warcraftpriests.
 The routes we use for these sims are found [here](https://github.com/WarcraftPriests/tww-shadow-priest/tree/master/internal/routes). See below on how this works.
 
 ## How to use it
-So if you are interested in running your own character through your own dungeons you can follow the steps below. The way this works is you take a route from [Mythic Dungeon Tools](https://www.curseforge.com/wow/addons/mythic-dungeon-tools) and use a [WeakAura](https://wago.io/Yya4XBbl-) to generate a SimC string based on that route.
+So if you are interested in running your own character through your own dungeons you can follow the steps below. The way this works is you take a route from [Mythic Dungeon Tools](https://www.curseforge.com/wow/addons/mythic-dungeon-tools) and use a [WeakAura](https://wago.io/LTwpBiuz_) to generate a SimC string based on that route.
 
 1. Download [Mythic Dungeon Tools](https://www.curseforge.com/wow/addons/mythic-dungeon-tools)
 2. Import or create a route for the key you are interested in simming. Make sure these routes include accurate pulls and include bosses. If you fail to select something it will not be simmed. This also means if you do not create individual pulls it will sim it as if you pull it all at once.
-3. Install the [MDT Sim WeakAura](https://wago.io/Yya4XBbl-)
+3. Install the [MDT Sim WeakAura](https://wago.io/LTwpBiuz_)
 4. Follow the full instructions in the WeakAura description, it will walk you through how to add this to your raidbots sim.
 
 Note as mentioned above you can also use some routes we generated [here](https://github.com/WarcraftPriests/tww-shadow-priest/tree/master/internal/routes) instead of doing that yourself.
