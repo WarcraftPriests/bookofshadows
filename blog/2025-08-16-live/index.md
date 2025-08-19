@@ -42,19 +42,19 @@ Here is that same setup without Bloodlust:
 
 ![](nonbloodlust_voidform.png)
 
-### What This Means in Practice
-- **Sub-60s Voidforms are rare** → usually mechanics, downtime, or missed Devouring Plagues.  
-- **80–90s Voidforms are the goal** → this is your realistic target.  
-- **90s+ Voidforms happen** → but only with ideal uptime, procs, and movement-free fights.
-
-Voidforms should always last at least 60 seconds. With low haste or without Bloodlust you will have more cases of falling out right around that 60-65s range depending on mechanics, but these should be on the rarer side.
-
 | Bloodlust on Opener | Duration | Percentage |
 | --- | --- | --- |
 | No | 65s or less | 35% |
 | No | 70-80s | 10% |
 | No | 80-90s | 25% |
 | No | 90s+ | 30% |
+
+### What This Means in Practice
+- **Sub-60s Voidforms are rare** → usually mechanics, downtime, or missed Devouring Plagues.  
+- **80–90s Voidforms are the goal** → this is your realistic target.  
+- **90s+ Voidforms happen** → but only with ideal uptime, procs, and movement-free fights.
+
+Voidforms should always last at least 60 seconds. With low haste or without Bloodlust you will have more cases of falling out right around that 60-65s range depending on mechanics, but these should be on the rarer side.
 
 | Duration Range | Goal | Notes |
 |----------------|------|-------|
