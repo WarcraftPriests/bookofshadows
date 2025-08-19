@@ -27,20 +27,40 @@ Sustaining Voidform isn’t just about the new tier set, it’s about execution.
 - **Baseline priorities stay the same**: the core loop doesn’t change, the set just rewards cleaner Insanity flow so your Voidforms last longer on average.
 
 ## Simulation Data on Voidform Durations
-To ground expectations, here are Voidform duration statistics from a single target sim:
+To ground expectations, here are Voidform duration statistics from a single target sim with Bloodlust on the opener:
 
 ![](voidform.png)
 
+| Bloodlust on Opener | Duration | Percentage |
+| --- | --- | --- |
+| Yes | 65s or less | 5% |
+| Yes | 70-80s | 8% |
+| Yes | 80-90s | 42% |
+| Yes | 90s+ | 45% |
+
+Here is that same setup without Bloodlust:
+
+![](nonbloodlust_voidform.png)
+
 ### What This Means in Practice
 - **Sub-60s Voidforms are rare** → usually mechanics, downtime, or missed Devouring Plagues.  
-- **80–90s Voidforms are the norm** → this is your realistic target.  
+- **80–90s Voidforms are the goal** → this is your realistic target.  
 - **90s+ Voidforms happen** → but only with ideal uptime, procs, and movement-free fights.
+
+Voidforms should always last at least 60 seconds. With low haste or without Bloodlust you will have more cases of falling out right around that 60-65s range depending on mechanics, but these should be on the rarer side.
+
+| Bloodlust on Opener | Duration | Percentage |
+| --- | --- | --- |
+| No | 65s or less | 35% |
+| No | 70-80s | 10% |
+| No | 80-90s | 25% |
+| No | 90s+ | 30% |
 
 | Duration Range | Goal | Notes |
 |----------------|------|-------|
 | **80–90s** | **Target Range** | Shows clean Halo + Devouring Plague execution inside Voidform. |
 | **90s+** | **Excellent** | Ideal conditions: minimal movement, perfect Power Surge uptime, consistent Halo/DP cycles. |
-| **Under 70s** | **Troubleshoot** | Check if you're: Missing DPs during Power Surge, Capping Insanity instead of spending, or Losing casts due to downtime or movement. |
+| **Under 60s** | **Troubleshoot** | Check if you're: Missing DPs during Power Surge, Capping Insanity instead of spending, or Losing casts due to downtime or movement. |
 
 ## Gear & Stat Targets for Sustained Voidforms
 To consistently land the 80–90s (or higher) Voidform windows, having the right balance of stats and item-level gear is just as important as rotation execution.
