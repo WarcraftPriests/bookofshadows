@@ -24,7 +24,7 @@ With the 4-pc, landing 4 Devouring Plagues during Surge adds up to two extra Hal
 
 ## Rotation Goals Inside Voidform
 Sustaining Voidform isn’t just about the new tier set, it’s about execution. Here are some practical tips:
-- **During Power Surge windows**: plan to fire two DPs relatively quickly so you earn the two extra Halos from the 4-pc. Don’t greed other spells if you’re about to miss that second DP.
+- **During Power Surge windows**: plan to fire four DPs relatively quickly so you earn the two extra Halos from the 4-pc. Don’t greed other spells if you’re about to miss that fourth DP.
 - **Halo timing**: use Halo ASAP whenever possible; its echoes (plus any bonus Halos you trigger via 4-pc) are your Insanity engine for sustaining VF. (Power Surge’s echo behavior is defined in the Archon kit; the set just adds more echoes when you spend correctly.)
 - **Baseline priorities stay the same**: the core loop doesn’t change, the set just rewards cleaner Insanity flow so your Voidforms last longer on average.
 
