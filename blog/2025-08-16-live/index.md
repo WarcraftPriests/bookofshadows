@@ -18,7 +18,9 @@ One of the most common questions Shadow Priests have in Season 3 is: *“How lon
 ### What this really means for Voidform uptime
 Your Insanity comes from Halos now (a lot). Power Surge causes your cast Halo to echo at fixed intervals; with the 2-pc, each Halo instance injects an additional 10 Insanity over 5s. During Power Surge, that’s multiple “mini-batteries” of Insanity that smooth your resource gain and make long Voidforms realistic. 
 
-With the 4-pc, landing 2 Devouring Plagues during Surge adds up to two extra Halos, juicing Insanity even more.
+With the 4-pc, landing 4 Devouring Plagues during Surge adds up to two extra Halos, juicing Insanity even more. I have made a Weak Aura to help you track this that is also included in my Shadow Priest pack.
+- [Shadow Priest Pack](https://wago.io/HkQsadDaf)
+- [Standalone Tracker](https://wago.io/GSmlcVuus)
 
 ## Rotation Goals Inside Voidform
 Sustaining Voidform isn’t just about the new tier set, it’s about execution. Here are some practical tips:
