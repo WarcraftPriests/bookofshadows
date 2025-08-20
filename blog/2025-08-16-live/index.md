@@ -28,6 +28,12 @@ Sustaining Voidform isn’t just about the new tier set, it’s about execution.
 - **Halo timing**: use Halo ASAP whenever possible; its echoes (plus any bonus Halos you trigger via 4-pc) are your Insanity engine for sustaining VF. (Power Surge’s echo behavior is defined in the Archon kit; the set just adds more echoes when you spend correctly.)
 - **Baseline priorities stay the same**: the core loop doesn’t change, the set just rewards cleaner Insanity flow so your Voidforms last longer on average.
 
+:::info
+
+If you are trying to practice the rotation, most Target Dummy setups will give you inaccurate results. This is because as soon as you damage a PvP dummy or heal a player that has hit a PvP dummy you will be flagged in PvP combat (particularly when pressing Halo). This will cause the set bonus to be nerfed significantly due to the PvP modifier attached to the spell.
+
+:::
+
 ## Simulation Data on Voidform Durations
 To ground expectations, here are Voidform duration statistics from a single target sim with Bloodlust on the opener:
 
