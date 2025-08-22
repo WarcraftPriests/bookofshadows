@@ -74,3 +74,8 @@ Voidforms should always last at least 60 seconds. With low haste or without Bloo
 To consistently land the 80–90s (or higher) Voidform windows, having the right balance of stats and item-level gear is just as important as rotation execution.
 
 Based on the [Stat Priority](https://www.icy-veins.com/wow/shadow-priest-pve-dps-stat-priority) Archon wants anywhere between 24% and 31% haste to execute things correctly. If you fall below this range in Haste you will likely struggle to consistently get longer Voidforms.
+
+## Video Examples
+
+### Bloodlust Opener Example
+<iframe width="560" height="315" src="https://www.youtube.com/embed/20U6J79jPyk?si=1Ti0EBO8QbSlhvic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
