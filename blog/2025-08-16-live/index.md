@@ -22,6 +22,9 @@ With the 4-pc, landing 4 Devouring Plagues during Surge adds up to two extra Hal
 - [Shadow Priest Pack](https://wago.io/HkQsadDaf)
 - [Standalone Tracker](https://wago.io/GSmlcVuus)
 
+You can also use this aura to track how long your Voidform lasted:
+- [VF Tracker by Kwokie#2870](https://wago.io/pCqdTXTAZ)
+
 ## Rotation Goals Inside Voidform
 Sustaining Voidform isn’t just about the new tier set, it’s about execution. Here are some practical tips:
 - **During Power Surge windows**: plan to fire four DPs relatively quickly so you earn the two extra Halos from the 4-pc. Don’t greed other spells if you’re about to miss that fourth DP.
@@ -33,6 +36,11 @@ Sustaining Voidform isn’t just about the new tier set, it’s about execution.
 If you are trying to practice the rotation, most Target Dummy setups will give you inaccurate results. This is because as soon as you damage a PvP dummy or heal a player that has hit a PvP dummy you will be flagged in PvP combat (particularly when pressing Halo). This will cause the set bonus to be nerfed significantly due to the PvP modifier attached to the spell.
 
 :::
+
+### Low Gear Optimizations
+If you find yourself to have a low amount of gear, particularly Haste, you will find that executing this rotation to be quite challenging without lucky procs. If you find yourself in this situation you might opt to add more haste than usual as you are learning.
+
+Another option is to add a larger cushion into the opener sequence between your initial cast of Halo and Void Eruption. This is simply just adding in two casts of Mind Blast after you press Halo and before you press Void Eruption, in any particular spot. This gives you another 2 GCD buffer to get that 2nd Halo cast off during Voidform. Strictly speaking this optimization should not be used when you have enough gear or when Bloodlust is active but can be useful as you are learning.
 
 ## Simulation Data on Voidform Durations
 To ground expectations, here are Voidform duration statistics from a single target sim with Bloodlust on the opener:
