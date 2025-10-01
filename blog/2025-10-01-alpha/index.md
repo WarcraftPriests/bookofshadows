@@ -18,12 +18,28 @@ tags: [alpha]
 - Void Torrent (currently nothing updated for Voidweaver)
 - Void Shift
 - Psychic Horror
+- Apathy
+- Cauterizing Shadows
+- Divine Star
+- Essence Devourer
+- From Darkness Comes Light
+- Halo (now Archon tree only)
+- Manipulation
+- Power Word: Life
+- Prayer of Mending (Holy only)
+- Renew
+- Rhapsody
+- San'layn
+- Throes of Pain
+- Void Shield
+- Word of the Pious
 
 ## Talent Tree
 [Early preview](https://www.wowhead.com/news/all-talents-tree-on-midnight-alpha-so-many-new-talents-378673#priest-shadow)
 
 ### Class Tree
 - Shadowfiend is a Shadow only spell
+- Psychic Scream and Mind Blast are now class talents
 
 ### Hero Trees
 As of now these have not been updated and many talents are broken/NYI.
