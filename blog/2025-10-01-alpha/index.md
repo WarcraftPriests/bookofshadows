@@ -6,6 +6,9 @@ tags: [alpha]
 ---
 
 # Midnight Changes for Shadow Priests
+The following changes are focused on simplifying some of the cooldown launch sequence as well as the frequent number of high priority procs in the rotation for Shadow. We are also updating the fantasy and visuals of their core spells to create a consistent theme of using the power of the Old Gods to haunt your enemies.
+
+[Feedback Thread on the Forums](https://eu.forums.blizzard.com/en/wow/t/feedback-priests/590298)
 
 ## Baseline Spells
 - Vampiric Embrace
