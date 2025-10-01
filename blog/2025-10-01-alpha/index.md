@@ -41,6 +41,7 @@ tags: [alpha]
 ### Class Tree
 - Shadowfiend is a Shadow only spell
 - Psychic Scream and Mind Blast are now class talents
+- Shadow Word: Death is no longer given for free as Shadow
 
 ### Hero Trees
 As of now these have not been updated and many talents are broken/NYI.
