@@ -2,11 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://warcraftpriests.github.io/bookofshadows/blog</id>
     <title>Book of Shadows Blog</title>
-    <updated>2025-08-16T00:00:00.000Z</updated>
+    <updated>2025-10-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://warcraftpriests.github.io/bookofshadows/blog"/>
     <subtitle>Book of Shadows Blog</subtitle>
     <icon>https://warcraftpriests.github.io/bookofshadows/img/book.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[First look at Shadow Priest in the Midnight Alpha]]></title>
+        <id>https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look</id>
+        <link href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look"/>
+        <updated>2025-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Baseline Spells]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="baseline-spells">Baseline Spells<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#baseline-spells" class="hash-link" aria-label="Direct link to Baseline Spells" title="Direct link to Baseline Spells">​</a></h2>
+<ul>
+<li>Vampiric Embrace</li>
+<li>Silence (30s CD)</li>
+<li>Dispersion</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="removed-spells">Removed Spells<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#removed-spells" class="hash-link" aria-label="Direct link to Removed Spells" title="Direct link to Removed Spells">​</a></h2>
+<ul>
+<li>Dark Ascension</li>
+<li>Void Bolt</li>
+<li>Void Torrent (currently nothing updated for Voidweaver)</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="talent-tree">Talent Tree<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#talent-tree" class="hash-link" aria-label="Direct link to Talent Tree" title="Direct link to Talent Tree">​</a></h2>
+<p><a href="https://www.wowhead.com/news/all-talents-tree-on-midnight-alpha-so-many-new-talents-378673#priest-shadow" target="_blank" rel="noopener noreferrer">Early preview</a></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="class-tree">Class Tree<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#class-tree" class="hash-link" aria-label="Direct link to Class Tree" title="Direct link to Class Tree">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="spec-tree">Spec Tree<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#spec-tree" class="hash-link" aria-label="Direct link to Spec Tree" title="Direct link to Spec Tree">​</a></h3>
+<ul>
+<li>Devouring Plague renamed to Shadow Word: Madness</li>
+<li>Shadow Crash renamed to Tentacle Slam (targeted only)</li>
+<li>Voidform can now be an extendable buff or a non-extendable version</li>
+<li>Surge of Insanity is now fully passive, no more procs</li>
+<li>Shadowy Apparitions now only proc from Shadow Word: Madness baseline</li>
+<li>Void Volley takes Void Bolt's place as the active spell to press during Voidform</li>
+<li>Death and Madness is now a choice node with Deathspeaker</li>
+<li>Several coming soon talents and things have been moved around with points adjusted.</li>
+</ul>
+<p>New capstone talent row:</p>
+<ul>
+<li>Void Apparitions: When an effect from an Idol is activated, conjure Shadowy Apparitions</li>
+<li>Void Apparitions: Shadowy Apparitions have a chance to become empowered and deal more damage and send out a Void Bolt at their target. Unsure if this Void Bolt refreshes DoTs</li>
+<li>Void Apparitions: Tentacle Slam has a 100% chance to activate an effect from one of your idols.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ui-and-addons">UI and Addons<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#ui-and-addons" class="hash-link" aria-label="Direct link to UI and Addons" title="Direct link to UI and Addons">​</a></h2>
+<p><a href="https://www.wowhead.com/news/combat-addons-disabled-in-end-game-content-in-midnight-378679?utm_source=discord-webhook" target="_blank" rel="noopener noreferrer">Combat Addons will be disabled</a>.</p>
+<p>This means that many things you rely on for tracking will have to change. Basically anything that accesses Combat Log events will likely stop working and you will need to rely on the default UI to track these things.</p>
+<p>While we do not know all specifics it is likely that things like Plater nameplate mods or Weak Auras that track buffs/debuffs will no longer function. Hopefully we get more details soon.</p>
+<p>The biggest thing here is to give feedback on what we rely on addons for that is no longer working. The biggest things that come to mind are:</p>
+<ul>
+<li>Tracking if every mob in a pack has DoTs active</li>
+<li>Duration of DoTs on your current target to know optimal refresh times</li>
+</ul>]]></content>
+        <author>
+            <name>Publik</name>
+            <uri>https://github.com/seanpeters86</uri>
+        </author>
+        <category label="alpha" term="alpha"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Long Should Your Voidform Last in Season 3?]]></title>
         <id>https://warcraftpriests.github.io/bookofshadows/blog/season-3-voidform-duration</id>
