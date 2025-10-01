@@ -76,6 +76,15 @@
 <li>Shadowy Apparitions have a chance to become empowered and deal more damage and send out a Void Bolt at their target. Unsure if this Void Bolt refreshes DoTs</li>
 <li>Tentacle Slam has a 100% chance to activate an effect from one of your idols.</li>
 </ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="faq">FAQ<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#faq" class="hash-link" aria-label="Direct link to FAQ" title="Direct link to FAQ">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="how-will-mass-aoe-work">How will Mass AoE Work?<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#how-will-mass-aoe-work" class="hash-link" aria-label="Direct link to How will Mass AoE Work?" title="Direct link to How will Mass AoE Work?">​</a></h3>
+<p>Void Bolt is now a passive as part of the Apex Talents in the spec tree. Assuming that this still extends DoTs we will proc these bolts from:</p>
+<ul>
+<li>15% chance on Shadowy Apparitions (Shadow Word: Madness casts or Idol activation)</li>
+<li>Tentacle Slam -&gt; Procs an Idol</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="how-does-voidweaver-proc">How does Voidweaver Proc?<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#how-does-voidweaver-proc" class="hash-link" aria-label="Direct link to How does Voidweaver Proc?" title="Direct link to How does Voidweaver Proc?">​</a></h3>
+<p>We do not know, Void Torrent has been removed from the game.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="ui-and-addons">UI and Addons<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#ui-and-addons" class="hash-link" aria-label="Direct link to UI and Addons" title="Direct link to UI and Addons">​</a></h2>
 <p><a href="https://www.wowhead.com/news/combat-addons-disabled-in-end-game-content-in-midnight-378679?utm_source=discord-webhook" target="_blank" rel="noopener noreferrer">Combat Addons will be disabled</a>.</p>
 <p>This means that many things you rely on for tracking will have to change. Basically anything that accesses Combat Log events will likely stop working and you will need to rely on the default UI to track these things.</p>
