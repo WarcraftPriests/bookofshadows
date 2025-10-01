@@ -42,6 +42,7 @@
 <li>Throes of Pain</li>
 <li>Void Shield</li>
 <li>Word of the Pious</li>
+<li>Last Word</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="talent-tree">Talent Tree<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#talent-tree" class="hash-link" aria-label="Direct link to Talent Tree" title="Direct link to Talent Tree">​</a></h2>
 <p><a href="https://www.wowhead.com/news/all-talents-tree-on-midnight-alpha-so-many-new-talents-378673#priest-shadow" target="_blank" rel="noopener noreferrer">Early preview</a></p>
@@ -53,23 +54,27 @@
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="hero-trees">Hero Trees<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#hero-trees" class="hash-link" aria-label="Direct link to Hero Trees" title="Direct link to Hero Trees">​</a></h3>
 <p>As of now these have not been updated and many talents are broken/NYI.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="spec-tree">Spec Tree<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#spec-tree" class="hash-link" aria-label="Direct link to Spec Tree" title="Direct link to Spec Tree">​</a></h3>
+<p>Several coming soon talents and things have been moved around with points adjusted.</p>
 <ul>
 <li>Devouring Plague renamed to Shadow Word: Madness</li>
 <li>Shadow Crash renamed to Tentacle Slam (targeted only)</li>
-<li>Voidform can now be an extendable buff or a non-extendable version</li>
+<li>Void Eruption renamed to Voidform for clarity</li>
+<li>Voidform can now be an extendable buff (Ancient Madness Rework) or a non-extendable version</li>
 <li>Surge of Insanity is now fully passive, no more procs</li>
 <li>Shadowy Apparitions now only proc from Shadow Word: Madness baseline</li>
 <li>Void Volley takes Void Bolt's place as the active spell to press during Voidform</li>
 <li>Death and Madness is now a choice node with Deathspeaker</li>
-<li>Several coming soon talents and things have been moved around with points adjusted.</li>
+<li>Phantasmal Pathogen renamed to Spectral Horrors and is now 1-point</li>
+<li>Maddening Touch is now a 1-point talent</li>
+<li>Insidious Ire now also affects Mind Flay</li>
 </ul>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="tentacle-slam-animation">Tentacle Slam Animation<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#tentacle-slam-animation" class="hash-link" aria-label="Direct link to Tentacle Slam Animation" title="Direct link to Tentacle Slam Animation">​</a></h4>
 <p><img decoding="async" loading="lazy" alt="Tentacle Slam Animation" src="https://warcraftpriests.github.io/bookofshadows/assets/images/tentacle_slam-7ba2513c73859c20440f102d291c8290.gif" width="1166" height="878" class="img_ev3q"></p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="new-capstone-talent-row">New capstone talent row<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#new-capstone-talent-row" class="hash-link" aria-label="Direct link to New capstone talent row" title="Direct link to New capstone talent row">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="apex-talents-void-apparitions">Apex Talents: Void Apparitions<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#apex-talents-void-apparitions" class="hash-link" aria-label="Direct link to Apex Talents: Void Apparitions" title="Direct link to Apex Talents: Void Apparitions">​</a></h4>
 <ul>
-<li>Void Apparitions: When an effect from an Idol is activated, conjure Shadowy Apparitions</li>
-<li>Void Apparitions: Shadowy Apparitions have a chance to become empowered and deal more damage and send out a Void Bolt at their target. Unsure if this Void Bolt refreshes DoTs</li>
-<li>Void Apparitions: Tentacle Slam has a 100% chance to activate an effect from one of your idols.</li>
+<li>When an effect from an Idol is activated, conjure Shadowy Apparitions</li>
+<li>Shadowy Apparitions have a chance to become empowered and deal more damage and send out a Void Bolt at their target. Unsure if this Void Bolt refreshes DoTs</li>
+<li>Tentacle Slam has a 100% chance to activate an effect from one of your idols.</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="ui-and-addons">UI and Addons<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#ui-and-addons" class="hash-link" aria-label="Direct link to UI and Addons" title="Direct link to UI and Addons">​</a></h2>
 <p><a href="https://www.wowhead.com/news/combat-addons-disabled-in-end-game-content-in-midnight-378679?utm_source=discord-webhook" target="_blank" rel="noopener noreferrer">Combat Addons will be disabled</a>.</p>
