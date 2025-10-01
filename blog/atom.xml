@@ -15,80 +15,80 @@
         <summary type="html"><![CDATA[The following changes are focused on simplifying some of the cooldown launch sequence as well as the frequent number of high priority procs in the rotation for Shadow. We are also updating the fantasy and visuals of their core spells to create a consistent theme of using the power of the Old Gods to haunt your enemies.]]></summary>
         <content type="html"><![CDATA[<p>The following changes are focused on simplifying some of the cooldown launch sequence as well as the frequent number of high priority procs in the rotation for Shadow. We are also updating the fantasy and visuals of their core spells to create a consistent theme of using the power of the Old Gods to haunt your enemies.</p>
 <p><a href="https://eu.forums.blizzard.com/en/wow/t/feedback-priests/590298" target="_blank" rel="noopener noreferrer">Feedback Thread on the Forums</a></p>
+<p>Note that I have added tooltips where possible from Live just to make it easier to read, these are not the tooltips coming in Midnight.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="baseline-spells">Baseline Spells<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#baseline-spells" class="hash-link" aria-label="Direct link to Baseline Spells" title="Direct link to Baseline Spells">​</a></h2>
 <ul>
-<li>Vampiric Embrace</li>
-<li>Silence (30s CD)</li>
-<li>Dispersion</li>
+<li><a href="https://www.wowhead.com/spell=15286/vampiric-embrace" target="_blank" rel="noopener noreferrer">Vampiric Embrace</a></li>
+<li><a href="https://www.wowhead.com/spell=15487/silence" target="_blank" rel="noopener noreferrer">Silence</a> (30s CD)</li>
+<li><a href="https://www.wowhead.com/spell=47585/dispersion" target="_blank" rel="noopener noreferrer">Dispersion</a></li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="removed-spells">Removed Spells<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#removed-spells" class="hash-link" aria-label="Direct link to Removed Spells" title="Direct link to Removed Spells">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="class-spells">Class Spells<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#class-spells" class="hash-link" aria-label="Direct link to Class Spells" title="Direct link to Class Spells">​</a></h3>
 <ul>
-<li>Void Shift</li>
-<li>Psychic Horror</li>
-<li>Apathy</li>
-<li>Cauterizing Shadows</li>
-<li>Divine Star</li>
-<li>Essence Devourer</li>
-<li>From Darkness Comes Light</li>
-<li>Halo (now Archon tree only)</li>
-<li>Manipulation</li>
-<li>Power Word: Life</li>
-<li>Prayer of Mending (Holy only)</li>
-<li>Renew</li>
-<li>Rhapsody</li>
-<li>San'layn</li>
-<li>Throes of Pain</li>
-<li>Void Shield</li>
-<li>Word of the Pious</li>
-<li></li>
+<li><a href="https://www.wowhead.com/spell=108968/void-shift" target="_blank" rel="noopener noreferrer">Void Shift</a></li>
+<li><a href="https://www.wowhead.com/spell=64044/psychic-horror" target="_blank" rel="noopener noreferrer">Psychic Horror</a></li>
+<li><a href="https://www.wowhead.com/spell=390668/apathy" target="_blank" rel="noopener noreferrer">Apathy</a></li>
+<li><a href="https://www.wowhead.com/spell=459990/cauterizing-shadows" target="_blank" rel="noopener noreferrer">Cauterizing Shadows</a></li>
+<li><a href="https://www.wowhead.com/spell=122121/divine-star" target="_blank" rel="noopener noreferrer">Divine Star</a></li>
+<li><a href="https://www.wowhead.com/spell=415479/essence-devourer" target="_blank" rel="noopener noreferrer">Essence Devourer</a></li>
+<li><a href="https://www.wowhead.com/spell=390615/from-darkness-comes-light" target="_blank" rel="noopener noreferrer">From Darkness Comes Light</a></li>
+<li><a href="https://www.wowhead.com/spell=120644/halo" target="_blank" rel="noopener noreferrer">Halo</a> (now Archon tree only)</li>
+<li><a href="https://www.wowhead.com/spell=459985/manipulation" target="_blank" rel="noopener noreferrer">Manipulation</a></li>
+<li><a href="https://www.wowhead.com/spell=373481/power-word-life" target="_blank" rel="noopener noreferrer">Power Word: Life</a></li>
+<li><a href="https://www.wowhead.com/spell=33076/prayer-of-mending" target="_blank" rel="noopener noreferrer">Prayer of Mending</a> (Holy only)</li>
+<li><a href="https://www.wowhead.com/spell=139/renew" target="_blank" rel="noopener noreferrer">Renew</a></li>
+<li><a href="https://www.wowhead.com/spell=390622/rhapsody" target="_blank" rel="noopener noreferrer">Rhapsody</a></li>
+<li><a href="https://www.wowhead.com/spell=199855/sanlayn" target="_blank" rel="noopener noreferrer">San'layn</a></li>
+<li><a href="https://www.wowhead.com/spell=377422/throes-of-pain" target="_blank" rel="noopener noreferrer">Throes of Pain</a></li>
+<li><a href="https://www.wowhead.com/spell=280749/void-shield" target="_blank" rel="noopener noreferrer">Void Shield</a></li>
+<li><a href="https://www.wowhead.com/spell=377438/words-of-the-pious" target="_blank" rel="noopener noreferrer">Word of the Pious</a></li>
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="shadow-spells">Shadow Spells<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#shadow-spells" class="hash-link" aria-label="Direct link to Shadow Spells" title="Direct link to Shadow Spells">​</a></h3>
 <ul>
-<li>Dark Ascension</li>
-<li>Void Bolt (now a passive in the spec tree, sort of)</li>
-<li>Void Torrent (currently nothing updated for Voidweaver)</li>
-<li>Last Word</li>
+<li><a href="https://www.wowhead.com/spell=391109/dark-ascension" target="_blank" rel="noopener noreferrer">Dark Ascension</a></li>
+<li><a href="https://www.wowhead.com/spell=205448/void-bolt" target="_blank" rel="noopener noreferrer">Void Bolt</a> (now a passive in the Apex Spec tree, sort of)</li>
+<li><a href="https://www.wowhead.com/spell=263165/void-torrent" target="_blank" rel="noopener noreferrer">Void Torrent</a> (currently nothing updated for Voidweaver)</li>
+<li><a href="https://www.wowhead.com/spell=263716/last-word" target="_blank" rel="noopener noreferrer">Last Word</a> (baseline)</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="talent-tree">Talent Tree<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#talent-tree" class="hash-link" aria-label="Direct link to Talent Tree" title="Direct link to Talent Tree">​</a></h2>
 <p><a href="https://www.wowhead.com/news/all-talents-tree-on-midnight-alpha-so-many-new-talents-378673#priest-shadow" target="_blank" rel="noopener noreferrer">Early preview</a></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="class-tree">Class Tree<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#class-tree" class="hash-link" aria-label="Direct link to Class Tree" title="Direct link to Class Tree">​</a></h3>
 <ul>
-<li>Shadowfiend is a Shadow only spell</li>
-<li>Psychic Scream and Mind Blast are now class talents</li>
-<li>Shadow Word: Death is no longer given for free as Shadow</li>
+<li><a href="https://www.wowhead.com/spell=34433/shadowfiend" target="_blank" rel="noopener noreferrer">Shadowfiend</a> is a Shadow only spell</li>
+<li><a href="https://www.wowhead.com/spell=8122/psychic-scream" target="_blank" rel="noopener noreferrer">Psychic Scream</a> and <a href="https://www.wowhead.com/spell=8092/mind-blast" target="_blank" rel="noopener noreferrer">Mind Blast</a> are now class talents</li>
+<li><a href="https://www.wowhead.com/spell=32379/shadow-word-death" target="_blank" rel="noopener noreferrer">Shadow Word: Death</a> is no longer given for free as Shadow</li>
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="hero-trees">Hero Trees<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#hero-trees" class="hash-link" aria-label="Direct link to Hero Trees" title="Direct link to Hero Trees">​</a></h3>
 <p>As of now these have not been updated and many talents are broken/NYI.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="spec-tree">Spec Tree<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#spec-tree" class="hash-link" aria-label="Direct link to Spec Tree" title="Direct link to Spec Tree">​</a></h3>
 <p>Several coming soon talents and things have been moved around with points adjusted.</p>
 <ul>
-<li>Devouring Plague renamed to Shadow Word: Madness</li>
-<li>Shadow Crash renamed to Tentacle Slam (targeted only)</li>
-<li>Void Eruption renamed to Voidform for clarity</li>
-<li>Voidform can now be an extendable buff (Ancient Madness Rework) or a non-extendable version</li>
-<li>Surge of Insanity is now fully passive, no more procs</li>
-<li>Shadowy Apparitions now only proc from Shadow Word: Madness baseline</li>
-<li>Void Volley takes Void Bolt's place as the active spell to press during Voidform</li>
-<li>Death and Madness is now a choice node with Deathspeaker</li>
-<li>Phantasmal Pathogen renamed to Spectral Horrors and is now 1-point</li>
-<li>Maddening Touch is now a 1-point talent</li>
-<li>Insidious Ire now also affects Mind Flay</li>
+<li><a href="https://www.wowhead.com/spell=335467/devouring-plague" target="_blank" rel="noopener noreferrer">Devouring Plague</a> renamed to Shadow Word: Madness</li>
+<li><a href="https://www.wowhead.com/spell=205385/shadow-crash" target="_blank" rel="noopener noreferrer">Shadow Crash</a> renamed to Tentacle Slam (targeted only)</li>
+<li><a href="https://www.wowhead.com/spell=228260/void-eruption" target="_blank" rel="noopener noreferrer">Void Eruption</a> renamed to <a href="https://www.wowhead.com/spell=194249/voidform" target="_blank" rel="noopener noreferrer">Voidform</a> for clarity</li>
+<li><a href="https://www.wowhead.com/spell=194249/voidform" target="_blank" rel="noopener noreferrer">Voidform</a> can now be an extendable buff (<a href="https://www.wowhead.com/spell=341240/ancient-madness" target="_blank" rel="noopener noreferrer">Ancient Madness</a> Rework) or a non-extendable version</li>
+<li><a href="https://www.wowhead.com/spell=391399/surge-of-insanity" target="_blank" rel="noopener noreferrer">Surge of Insanity</a> is now fully passive, no more procs</li>
+<li><a href="https://www.wowhead.com/spell=341491/shadowy-apparitions" target="_blank" rel="noopener noreferrer">Shadowy Apparitions</a> now only proc from Shadow Word: Madness baseline</li>
+<li><a href="https://www.wowhead.com/spell=1240401/void-volley" target="_blank" rel="noopener noreferrer">Void Volley</a> takes <a href="https://www.wowhead.com/spell=205448/void-bolt" target="_blank" rel="noopener noreferrer">Void Bolt</a>'s place as the active spell to press during <a href="https://www.wowhead.com/spell=194249/voidform" target="_blank" rel="noopener noreferrer">Voidform</a> with a 15-second cooldown.</li>
+<li><a href="https://www.wowhead.com/spell=321291/death-and-madness" target="_blank" rel="noopener noreferrer">Death and Madness</a> is now a choice node with Deathspeaker</li>
+<li><a href="https://www.wowhead.com/spell=407469/phantasmal-pathogen" target="_blank" rel="noopener noreferrer">Phantasmal Pathogen</a> renamed to Spectral Horrors and is now 1-point</li>
+<li><a href="https://www.wowhead.com/spell=391228/maddening-touch" target="_blank" rel="noopener noreferrer">Maddening Touch</a> is now a 1-point talent</li>
+<li><a href="https://www.wowhead.com/spell=373212/insidious-ire" target="_blank" rel="noopener noreferrer">Insidious Ire</a> now also affects Mind Flay</li>
 </ul>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="tentacle-slam-animation">Tentacle Slam Animation<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#tentacle-slam-animation" class="hash-link" aria-label="Direct link to Tentacle Slam Animation" title="Direct link to Tentacle Slam Animation">​</a></h4>
-<p>Shadow Crash renamed to Tentacle Slam and has been redesigned – Tentacle Slam summons a massive shadowy appendage to slam the ground, dealing damage and applying Vampiric Touch to up to 6 targets to all enemies between you and the target, as well as 8 yards around your target. Max 2 charges, 15 seconds recharge.
+<p><a href="https://www.wowhead.com/spell=205385/shadow-crash" target="_blank" rel="noopener noreferrer">Shadow Crash</a> renamed to Tentacle Slam and has been redesigned – Tentacle Slam summons a massive shadowy appendage to slam the ground, dealing damage and applying <a href="https://www.wowhead.com/spell=34914/vampiric-touch" target="_blank" rel="noopener noreferrer">Vampiric Touch</a> to up to 6 targets to all enemies between you and the target, as well as 8 yards around your target. Max 2 charges, 15 seconds recharge.
 <img decoding="async" loading="lazy" alt="Tentacle Slam Animation" src="https://warcraftpriests.github.io/bookofshadows/assets/images/tentacle_slam-7ba2513c73859c20440f102d291c8290.gif" width="1166" height="878" class="img_ev3q"></p>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="apex-talents-void-apparitions">Apex Talents: Void Apparitions<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#apex-talents-void-apparitions" class="hash-link" aria-label="Direct link to Apex Talents: Void Apparitions" title="Direct link to Apex Talents: Void Apparitions">​</a></h4>
 <ul>
-<li>When an effect from an Idol is activated, conjure Shadowy Apparitions</li>
-<li>Shadowy Apparitions have a chance to become empowered and deal more damage and send out a Void Bolt at their target. Unsure if this Void Bolt refreshes DoTs</li>
+<li>When an effect from an Idol is activated, conjure <a href="https://www.wowhead.com/spell=341263/shadowy-apparition" target="_blank" rel="noopener noreferrer">Shadowy Apparitions</a></li>
+<li><a href="https://www.wowhead.com/spell=341263/shadowy-apparition" target="_blank" rel="noopener noreferrer">Shadowy Apparitions</a> have a chance to become empowered and deal more damage and send out a <a href="https://www.wowhead.com/spell=205448/void-bolt" target="_blank" rel="noopener noreferrer">Void Bolt</a> at their target. Unsure if this <a href="https://www.wowhead.com/spell=205448/void-bolt" target="_blank" rel="noopener noreferrer">Void Bolt</a> refreshes DoTs</li>
 <li>Tentacle Slam has a 100% chance to activate an effect from one of your idols.</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="faq">FAQ<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#faq" class="hash-link" aria-label="Direct link to FAQ" title="Direct link to FAQ">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="how-will-mass-aoe-work">How will Mass AoE Work?<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#how-will-mass-aoe-work" class="hash-link" aria-label="Direct link to How will Mass AoE Work?" title="Direct link to How will Mass AoE Work?">​</a></h3>
-<p>Void Bolt is now a passive as part of the Apex Talents in the spec tree. Assuming that this still extends DoTs we will proc these bolts from:</p>
+<p><a href="https://www.wowhead.com/spell=205448/void-bolt" target="_blank" rel="noopener noreferrer">Void Bolt</a> is now a passive as part of the Apex Talents in the spec tree. Assuming that this still extends DoTs we will proc these bolts from:</p>
 <ul>
-<li>15% chance on Shadowy Apparitions (Shadow Word: Madness casts or Idol activation)</li>
+<li>15% chance on <a href="https://www.wowhead.com/spell=341263/shadowy-apparition" target="_blank" rel="noopener noreferrer">Shadowy Apparitions</a> (Shadow Word: Madness casts or Idol activation)</li>
 <li>Tentacle Slam -&gt; Procs an Idol</li>
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="how-does-voidweaver-proc">How does Voidweaver Proc?<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#how-does-voidweaver-proc" class="hash-link" aria-label="Direct link to How does Voidweaver Proc?" title="Direct link to How does Voidweaver Proc?">​</a></h3>
