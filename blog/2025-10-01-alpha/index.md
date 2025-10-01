@@ -13,9 +13,7 @@ tags: [alpha]
 - Dispersion
 
 ## Removed Spells
-- Dark Ascension
-- Void Bolt (now a passive in the spec tree, sort of)
-- Void Torrent (currently nothing updated for Voidweaver)
+### Class Spells
 - Void Shift
 - Psychic Horror
 - Apathy
@@ -33,6 +31,11 @@ tags: [alpha]
 - Throes of Pain
 - Void Shield
 - Word of the Pious
+- 
+### Shadow Spells
+- Dark Ascension
+- Void Bolt (now a passive in the spec tree, sort of)
+- Void Torrent (currently nothing updated for Voidweaver)
 - Last Word
 
 ## Talent Tree
@@ -62,6 +65,7 @@ Several coming soon talents and things have been moved around with points adjust
 - Insidious Ire now also affects Mind Flay
 
 #### Tentacle Slam Animation
+Shadow Crash renamed to Tentacle Slam and has been redesigned – Tentacle Slam summons a massive shadowy appendage to slam the ground, dealing damage and applying Vampiric Touch to up to 6 targets to all enemies between you and the target, as well as 8 yards around your target. Max 2 charges, 15 seconds recharge.
 ![Tentacle Slam Animation](tentacle_slam.gif)
 
 #### Apex Talents: Void Apparitions
