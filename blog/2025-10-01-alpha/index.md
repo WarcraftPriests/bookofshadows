@@ -16,11 +16,17 @@ tags: [alpha]
 - Dark Ascension
 - Void Bolt
 - Void Torrent (currently nothing updated for Voidweaver)
+- Void Shift
+- Psychic Horror
 
 ## Talent Tree
 [Early preview](https://www.wowhead.com/news/all-talents-tree-on-midnight-alpha-so-many-new-talents-378673#priest-shadow)
 
 ### Class Tree
+- Shadowfiend is a Shadow only spell
+
+### Hero Trees
+As of now these have not been updated and many talents are broken/NYI.
 
 ### Spec Tree
 - Devouring Plague renamed to Shadow Word: Madness
