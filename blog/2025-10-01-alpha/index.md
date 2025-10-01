@@ -69,6 +69,16 @@ Several coming soon talents and things have been moved around with points adjust
 - Shadowy Apparitions have a chance to become empowered and deal more damage and send out a Void Bolt at their target. Unsure if this Void Bolt refreshes DoTs
 - Tentacle Slam has a 100% chance to activate an effect from one of your idols.
 
+## FAQ
+
+### How will Mass AoE Work?
+Void Bolt is now a passive as part of the Apex Talents in the spec tree. Assuming that this still extends DoTs we will proc these bolts from:
+- 15% chance on Shadowy Apparitions (Shadow Word: Madness casts or Idol activation)
+- Tentacle Slam -> Procs an Idol
+
+### How does Voidweaver Proc?
+We do not know, Void Torrent has been removed from the game.
+
 ## UI and Addons
 [Combat Addons will be disabled](https://www.wowhead.com/news/combat-addons-disabled-in-end-game-content-in-midnight-378679?utm_source=discord-webhook).
 
