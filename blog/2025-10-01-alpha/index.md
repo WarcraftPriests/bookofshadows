@@ -14,7 +14,7 @@ tags: [alpha]
 
 ## Removed Spells
 - Dark Ascension
-- Void Bolt
+- Void Bolt (now a passive in the spec tree, sort of)
 - Void Torrent (currently nothing updated for Voidweaver)
 - Void Shift
 - Psychic Horror
@@ -38,9 +38,10 @@ As of now these have not been updated and many talents are broken/NYI.
 - Death and Madness is now a choice node with Deathspeaker
 - Several coming soon talents and things have been moved around with points adjusted.
 
+#### Tentacle Slam Animation
 ![Tentacle Slam Animation](tentacle_slam.gif)
 
-New capstone talent row:
+#### New capstone talent row
 - Void Apparitions: When an effect from an Idol is activated, conjure Shadowy Apparitions
 - Void Apparitions: Shadowy Apparitions have a chance to become empowered and deal more damage and send out a Void Bolt at their target. Unsure if this Void Bolt refreshes DoTs
 - Void Apparitions: Tentacle Slam has a 100% chance to activate an effect from one of your idols.
