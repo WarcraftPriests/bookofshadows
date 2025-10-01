@@ -21,10 +21,8 @@
 <li>Dispersion</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="removed-spells">Removed Spells<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#removed-spells" class="hash-link" aria-label="Direct link to Removed Spells" title="Direct link to Removed Spells">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="class-spells">Class Spells<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#class-spells" class="hash-link" aria-label="Direct link to Class Spells" title="Direct link to Class Spells">​</a></h3>
 <ul>
-<li>Dark Ascension</li>
-<li>Void Bolt (now a passive in the spec tree, sort of)</li>
-<li>Void Torrent (currently nothing updated for Voidweaver)</li>
 <li>Void Shift</li>
 <li>Psychic Horror</li>
 <li>Apathy</li>
@@ -42,6 +40,13 @@
 <li>Throes of Pain</li>
 <li>Void Shield</li>
 <li>Word of the Pious</li>
+<li></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="shadow-spells">Shadow Spells<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#shadow-spells" class="hash-link" aria-label="Direct link to Shadow Spells" title="Direct link to Shadow Spells">​</a></h3>
+<ul>
+<li>Dark Ascension</li>
+<li>Void Bolt (now a passive in the spec tree, sort of)</li>
+<li>Void Torrent (currently nothing updated for Voidweaver)</li>
 <li>Last Word</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="talent-tree">Talent Tree<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#talent-tree" class="hash-link" aria-label="Direct link to Talent Tree" title="Direct link to Talent Tree">​</a></h2>
@@ -70,7 +75,8 @@
 <li>Insidious Ire now also affects Mind Flay</li>
 </ul>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="tentacle-slam-animation">Tentacle Slam Animation<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#tentacle-slam-animation" class="hash-link" aria-label="Direct link to Tentacle Slam Animation" title="Direct link to Tentacle Slam Animation">​</a></h4>
-<p><img decoding="async" loading="lazy" alt="Tentacle Slam Animation" src="https://warcraftpriests.github.io/bookofshadows/assets/images/tentacle_slam-7ba2513c73859c20440f102d291c8290.gif" width="1166" height="878" class="img_ev3q"></p>
+<p>Shadow Crash renamed to Tentacle Slam and has been redesigned – Tentacle Slam summons a massive shadowy appendage to slam the ground, dealing damage and applying Vampiric Touch to up to 6 targets to all enemies between you and the target, as well as 8 yards around your target. Max 2 charges, 15 seconds recharge.
+<img decoding="async" loading="lazy" alt="Tentacle Slam Animation" src="https://warcraftpriests.github.io/bookofshadows/assets/images/tentacle_slam-7ba2513c73859c20440f102d291c8290.gif" width="1166" height="878" class="img_ev3q"></p>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="apex-talents-void-apparitions">Apex Talents: Void Apparitions<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#apex-talents-void-apparitions" class="hash-link" aria-label="Direct link to Apex Talents: Void Apparitions" title="Direct link to Apex Talents: Void Apparitions">​</a></h4>
 <ul>
 <li>When an effect from an Idol is activated, conjure Shadowy Apparitions</li>
