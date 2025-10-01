@@ -22,7 +22,7 @@
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="removed-spells">Removed Spells<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#removed-spells" class="hash-link" aria-label="Direct link to Removed Spells" title="Direct link to Removed Spells">​</a></h2>
 <ul>
 <li>Dark Ascension</li>
-<li>Void Bolt</li>
+<li>Void Bolt (now a passive in the spec tree, sort of)</li>
 <li>Void Torrent (currently nothing updated for Voidweaver)</li>
 <li>Void Shift</li>
 <li>Psychic Horror</li>
@@ -46,8 +46,9 @@
 <li>Death and Madness is now a choice node with Deathspeaker</li>
 <li>Several coming soon talents and things have been moved around with points adjusted.</li>
 </ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="tentacle-slam-animation">Tentacle Slam Animation<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#tentacle-slam-animation" class="hash-link" aria-label="Direct link to Tentacle Slam Animation" title="Direct link to Tentacle Slam Animation">​</a></h4>
 <p><img decoding="async" loading="lazy" alt="Tentacle Slam Animation" src="https://warcraftpriests.github.io/bookofshadows/assets/images/tentacle_slam-7ba2513c73859c20440f102d291c8290.gif" width="1166" height="878" class="img_ev3q"></p>
-<p>New capstone talent row:</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="new-capstone-talent-row">New capstone talent row<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#new-capstone-talent-row" class="hash-link" aria-label="Direct link to New capstone talent row" title="Direct link to New capstone talent row">​</a></h4>
 <ul>
 <li>Void Apparitions: When an effect from an Idol is activated, conjure Shadowy Apparitions</li>
 <li>Void Apparitions: Shadowy Apparitions have a chance to become empowered and deal more damage and send out a Void Bolt at their target. Unsure if this Void Bolt refreshes DoTs</li>
