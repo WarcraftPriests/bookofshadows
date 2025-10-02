@@ -61,7 +61,7 @@ Several coming soon talents and things have been moved around with points adjust
 - [Shadow Crash](https://www.wowhead.com/spell=205385/shadow-crash) renamed to Tentacle Slam (targeted only)
 - [Void Eruption](https://www.wowhead.com/spell=228260/void-eruption) renamed to [Voidform](https://www.wowhead.com/spell=194249/voidform) for clarity
 - [Voidform](https://www.wowhead.com/spell=194249/voidform) can now be an extendable buff ([Ancient Madness](https://www.wowhead.com/spell=341240/ancient-madness) Rework) or a non-extendable version
-- [Surge of Insanity](https://www.wowhead.com/spell=391399/surge-of-insanity) is now fully passive, no more procs
+- [Surge of Insanity](https://www.wowhead.com/spell=391399/surge-of-insanity) is now fully passive, no more procs. Mind Flay: Insanity is still granted via Archon, but unsure if this is intended.
 - [Shadowy Apparitions](https://www.wowhead.com/spell=341491/shadowy-apparitions) now only proc from Shadow Word: Madness baseline
 - [Void Volley](https://www.wowhead.com/spell=1240401/void-volley) takes [Void Bolt](https://www.wowhead.com/spell=205448/void-bolt)'s place as the active spell to press during [Voidform](https://www.wowhead.com/spell=194249/voidform) with a 15-second cooldown.
 - [Death and Madness](https://www.wowhead.com/spell=321291/death-and-madness) is now a choice node with Deathspeaker
