@@ -73,10 +73,13 @@ Several coming soon talents and things have been moved around with points adjust
 [Shadow Crash](https://www.wowhead.com/spell=205385/shadow-crash) renamed to Tentacle Slam and has been redesigned – Tentacle Slam summons a massive shadowy appendage to slam the ground, dealing damage and applying [Vampiric Touch](https://www.wowhead.com/spell=34914/vampiric-touch) to up to 6 targets to all enemies between you and the target, as well as 8 yards around your target. Max 2 charges, 15 seconds recharge.
 ![Tentacle Slam Animation](tentacle_slam.gif)
 
+#### Shadow Word: Madness Animation
+![Shadow Word: Madness Animation](shadow_word_madness.gif)
+
 #### Apex Talents: Void Apparitions
 - When an effect from an Idol is activated, conjure [Shadowy Apparitions](https://www.wowhead.com/spell=341263/shadowy-apparition)
 - [Shadowy Apparitions](https://www.wowhead.com/spell=341263/shadowy-apparition) have a chance to become empowered and deal more damage and send out a [Void Bolt](https://www.wowhead.com/spell=205448/void-bolt) at their target. Unsure if this [Void Bolt](https://www.wowhead.com/spell=205448/void-bolt) refreshes DoTs
-- Tentacle Slam has a 100% chance to activate an effect from one of your idols.
+- Tentacle Slam has a 100% chance to activate an effect from one of your idols (does not require it to be talented).
 
 ## FAQ
 
