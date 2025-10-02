@@ -64,7 +64,7 @@
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="spec-tree">Spec Tree<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#spec-tree" class="hash-link" aria-label="Direct link to Spec Tree" title="Direct link to Spec Tree">​</a></h3>
 <p>Several coming soon talents and things have been moved around with points adjusted.</p>
 <ul>
-<li><a href="https://www.wowhead.com/spell=335467/devouring-plague" target="_blank" rel="noopener noreferrer">Devouring Plague</a> renamed to Shadow Word: Madness</li>
+<li><a href="https://www.wowhead.com/spell=335467/devouring-plague" target="_blank" rel="noopener noreferrer">Devouring Plague</a> renamed to Shadow Word: Madness and the healing component has been removed.</li>
 <li><a href="https://www.wowhead.com/spell=205385/shadow-crash" target="_blank" rel="noopener noreferrer">Shadow Crash</a> renamed to Tentacle Slam (targeted only)</li>
 <li><a href="https://www.wowhead.com/spell=228260/void-eruption" target="_blank" rel="noopener noreferrer">Void Eruption</a> renamed to <a href="https://www.wowhead.com/spell=194249/voidform" target="_blank" rel="noopener noreferrer">Voidform</a> for clarity</li>
 <li><a href="https://www.wowhead.com/spell=194249/voidform" target="_blank" rel="noopener noreferrer">Voidform</a> can now be an extendable buff (<a href="https://www.wowhead.com/spell=341240/ancient-madness" target="_blank" rel="noopener noreferrer">Ancient Madness</a> Rework) or a non-extendable version</li>
