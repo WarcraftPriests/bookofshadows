@@ -57,7 +57,7 @@ As of now these have not been updated and many talents are broken/NYI.
 ### Spec Tree
 Several coming soon talents and things have been moved around with points adjusted.
 
-- [Devouring Plague](https://www.wowhead.com/spell=335467/devouring-plague) renamed to Shadow Word: Madness
+- [Devouring Plague](https://www.wowhead.com/spell=335467/devouring-plague) renamed to Shadow Word: Madness and the healing component has been removed.
 - [Shadow Crash](https://www.wowhead.com/spell=205385/shadow-crash) renamed to Tentacle Slam (targeted only)
 - [Void Eruption](https://www.wowhead.com/spell=228260/void-eruption) renamed to [Voidform](https://www.wowhead.com/spell=194249/voidform) for clarity
 - [Voidform](https://www.wowhead.com/spell=194249/voidform) can now be an extendable buff ([Ancient Madness](https://www.wowhead.com/spell=341240/ancient-madness) Rework) or a non-extendable version
