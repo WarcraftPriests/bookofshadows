@@ -14,7 +14,8 @@ Feedback Thread on the Forums
 - [EU](https://eu.forums.blizzard.com/en/wow/t/feedback-priests/590298)
 
 ## Changelog
-- [10/9]: Updated from [this week's Alpha build](https://www.wowhead.com/news/class-changes-and-ui-improvements-midnight-alpha-test-development-notes-378812?utm_source=discord-webhook)
+- [10/9]: Updated from [this week's Alpha build](https://www.wowhead.com/news/class-changes-and-ui-improvements-midnight-alpha-test-development-notes-378812)
+- [10/1]: Initial [Alpha Build](https://www.wowhead.com/news/midnight-alpha-development-notes-378688)
 
 ## Baseline Spells
 - [Vampiric Embrace](https://www.wowhead.com/beta/spell=15286/vampiric-embrace)
