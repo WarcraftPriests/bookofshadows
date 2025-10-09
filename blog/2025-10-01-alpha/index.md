@@ -73,6 +73,7 @@ You can see an updated version of the [Talent Calculator](https://www.wowhead.co
 - [Void Torrent](https://www.wowhead.com/beta/spell=263165/void-torrent) is now baseline for Voidweaver specifically.
 - [Quickened Pulse](https://www.wowhead.com/beta/spell=1266845/quickened-pulse) - new talent
 - [Touch of the Void](https://www.wowhead.com/beta/spell=1266856/touch-of-the-void) - new talent
+- [Overwhelming Shadows](https://www.wowhead.com/beta/spell=1266883/overwhelming-shadows) - new talent
 - [Voidheart](https://www.wowhead.com/beta/spell=449880/voidheart) has changed positions in the hero talent tree.
 
 ### Spec Tree
