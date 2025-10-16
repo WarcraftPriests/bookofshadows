@@ -24,6 +24,7 @@
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="changelog">Changelog<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#changelog" class="hash-link" aria-label="Direct link to Changelog" title="Direct link to Changelog">​</a></h2>
 <ul>
+<li>[10/15]: Season 1 Tier set added and a change to Void Empowerment</li>
 <li>[10/9]: Updated from <a href="https://www.wowhead.com/news/class-changes-and-ui-improvements-midnight-alpha-test-development-notes-378812" target="_blank" rel="noopener noreferrer">this week's Alpha build</a></li>
 <li>[10/1]: Initial <a href="https://www.wowhead.com/news/midnight-alpha-development-notes-378688" target="_blank" rel="noopener noreferrer">Alpha Build</a></li>
 </ul>
@@ -87,6 +88,7 @@
 <li><a href="https://www.wowhead.com/beta/spell=1266856/touch-of-the-void" target="_blank" rel="noopener noreferrer">Touch of the Void</a> - new talent</li>
 <li><a href="https://www.wowhead.com/beta/spell=1266883/overwhelming-shadows" target="_blank" rel="noopener noreferrer">Overwhelming Shadows</a> - new talent</li>
 <li><a href="https://www.wowhead.com/beta/spell=449880/voidheart" target="_blank" rel="noopener noreferrer">Voidheart</a> has changed positions in the hero talent tree.</li>
+<li><a href="https://www.wowhead.com/beta/spell=450138/void-empowerment" target="_blank" rel="noopener noreferrer">Void Empowerment</a> now causes you to gain <a href="https://www.wowhead.com/beta/spell=375888/shadowy-insight" target="_blank" rel="noopener noreferrer">Shadowy Insight</a> (was <a href="https://www.wowhead.com/beta/spell=373202/mind-devourer" target="_blank" rel="noopener noreferrer">Mind Devourer</a>).</li>
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="spec-tree">Spec Tree<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#spec-tree" class="hash-link" aria-label="Direct link to Spec Tree" title="Direct link to Spec Tree">​</a></h3>
 <p>We will soon be getting several new talents into the spec, these have not yet shown up in Alpha but were <a href="https://www.wowhead.com/news/class-changes-and-ui-improvements-midnight-alpha-test-development-notes-378812?utm_source=discord-webhook" target="_blank" rel="noopener noreferrer">announced</a>:</p>
@@ -133,6 +135,12 @@
 <ul>
 <li>Tracking if every mob in a pack has DoTs active</li>
 <li>Duration of DoTs on your current target to know optimal refresh times (Only works for <a href="https://www.wowhead.com/beta/spell=335467/shadow-word-madness" target="_blank" rel="noopener noreferrer">Shadow Word: Madness</a> currently)</li>
+</ul>
+<h1>Gearing Updates in Midnight</h1>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="season-1-tier-set-bonuses">Season 1 Tier Set Bonuses<a href="https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look#season-1-tier-set-bonuses" class="hash-link" aria-label="Direct link to Season 1 Tier Set Bonuses" title="Direct link to Season 1 Tier Set Bonuses">​</a></h2>
+<ul>
+<li>2-set bonus: <a href="https://www.wowhead.com/beta/spell=335467/shadow-word-madness" target="_blank" rel="noopener noreferrer">Shadow Word: Madness</a> damage increased by 10% and Insanity cost reduced by 5.</li>
+<li>4-set bonus: <a href="https://www.wowhead.com/beta/spell=341491/shadowy-apparitions" target="_blank" rel="noopener noreferrer">Shadowy Apparitions</a> and <a href="https://www.wowhead.com/beta/spell=1264104/void-apparitions" target="_blank" rel="noopener noreferrer">Void Apparitions</a> damage increased by 40%.</li>
 </ul>]]></content:encoded>
             <category>alpha</category>
         </item>
