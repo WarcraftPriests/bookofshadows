@@ -14,6 +14,7 @@ Feedback Thread on the Forums
 - [EU](https://eu.forums.blizzard.com/en/wow/t/feedback-priests/590298)
 
 ## Changelog
+- [10/15]: Season 1 Tier set added and a change to Void Empowerment
 - [10/9]: Updated from [this week's Alpha build](https://www.wowhead.com/news/class-changes-and-ui-improvements-midnight-alpha-test-development-notes-378812)
 - [10/1]: Initial [Alpha Build](https://www.wowhead.com/news/midnight-alpha-development-notes-378688)
 
@@ -75,6 +76,7 @@ You can see an updated version of the [Talent Calculator](https://www.wowhead.co
 - [Touch of the Void](https://www.wowhead.com/beta/spell=1266856/touch-of-the-void) - new talent
 - [Overwhelming Shadows](https://www.wowhead.com/beta/spell=1266883/overwhelming-shadows) - new talent
 - [Voidheart](https://www.wowhead.com/beta/spell=449880/voidheart) has changed positions in the hero talent tree.
+- [Void Empowerment](https://www.wowhead.com/beta/spell=450138/void-empowerment) now causes you to gain [Shadowy Insight](https://www.wowhead.com/beta/spell=375888/shadowy-insight) (was [Mind Devourer](https://www.wowhead.com/beta/spell=373202/mind-devourer)).
 
 ### Spec Tree
 We will soon be getting several new talents into the spec, these have not yet shown up in Alpha but were [announced](https://www.wowhead.com/news/class-changes-and-ui-improvements-midnight-alpha-test-development-notes-378812?utm_source=discord-webhook):
@@ -124,3 +126,9 @@ While we do not know all specifics it is likely that things like Plater nameplat
 The biggest thing here is to give feedback on what we rely on addons for that is no longer working. The biggest things that come to mind are:
 - Tracking if every mob in a pack has DoTs active
 - Duration of DoTs on your current target to know optimal refresh times (Only works for [Shadow Word: Madness](https://www.wowhead.com/beta/spell=335467/shadow-word-madness) currently)
+
+# Gearing Updates in Midnight
+
+## Season 1 Tier Set Bonuses
+- 2-set bonus: [Shadow Word: Madness](https://www.wowhead.com/beta/spell=335467/shadow-word-madness) damage increased by 10% and Insanity cost reduced by 5.
+- 4-set bonus: [Shadowy Apparitions](https://www.wowhead.com/beta/spell=341491/shadowy-apparitions) and [Void Apparitions](https://www.wowhead.com/beta/spell=1264104/void-apparitions) damage increased by 40%.
