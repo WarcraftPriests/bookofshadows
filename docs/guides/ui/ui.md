@@ -16,10 +16,18 @@ If you are looking for starting point imports for your Shadow Priest use the fol
 I also use [Masque](https://www.curseforge.com/wow/addons/masque) and [Masque: Shadow 4](https://www.curseforge.com/wow/addons/masque-shadow) with [Masque Blizzard Bars](https://www.curseforge.com/wow/addons/masque-blizz-bars-revived) to get that shadow border effect.
 
 ## Cooldown Manager
+:::note
+The Import feature for the cooldown manager is not currently working, use the images below to recreate what I have setup.
+:::
 
 ```
 1|NdC7TgJRFAVQhhBFVBI6tsmNx6iJBaUPJkhhYvDF+OTRQiKFFtYUmjCTEWysKLTAqIkydhQUWPgBfoSlH8Af6NkhNCv3Fnffc7Yfabwm11zvMQ8JQyZh0jDrqLSRKkBmINNzIevpGhKByUCiEAsygfk/vNiQKRgbdcCswmSxGIPZhMRhNrBSRm1Ln8ZnUR0g9Y3ze71d1ph2o7SWlcDnqUByZIfskj2yTw5InjjkkByRY3JCTskZKZISeSCfynNHeY+RgPwo3QThl90e+eUsIIwPGB/ckiZpkTvyRYbKx5LSs5W+RThf33lb8MYbh73RzuKzTe1Um620Q6426G471Yurfw==
 ```
+
+![essential_cooldowns](essential_cooldowns.png)
+![tracked_buffs](tracked_buffs.png)
+![cooldown_settings](cooldown_settings.png)
+![buff_settings](buff_settings.png)
 
 ## [Platynator](https://www.curseforge.com/wow/addons/platynator)
 
