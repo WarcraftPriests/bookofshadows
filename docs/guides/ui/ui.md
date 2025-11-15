@@ -29,6 +29,15 @@ The Import feature for the cooldown manager is not currently working, use the im
 ![cooldown_settings](cooldown_settings.png)
 ![buff_settings](buff_settings.png)
 
+## [Twintop's Resource Bar](https://www.curseforge.com/wow/addons/twintops-insanity-bar)
+Currently cannot export my profile but here are the main display settings.
+
+:::info
+Be sure to download the _Alpha_ version to support the Midnight Beta.
+:::
+
+![twintop](twintop.png)
+
 ## [Platynator](https://www.curseforge.com/wow/addons/platynator)
 
 ![platynator](platynator.png)
