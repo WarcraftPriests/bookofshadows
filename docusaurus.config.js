@@ -25,7 +25,6 @@ const config = {
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
 
   i18n: {
     defaultLocale: 'en',
@@ -35,6 +34,12 @@ const config = {
   plugins: [
     require.resolve('docusaurus-lunr-search')
   ],
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    }
+  },
 
   presets: [
     [
