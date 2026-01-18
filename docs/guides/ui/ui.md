@@ -22,6 +22,10 @@ If you are looking for starting point imports for your Shadow Priest use the fol
 ### Other Addons
 - [CursorRing](https://www.curseforge.com/wow/addons/cursorring)
 - [Astral Keys](https://www.curseforge.com/wow/addons/astral-keys)
+- [MPlusTimer](https://www.curseforge.com/wow/addons/mplustimer)
+- [Plumber](https://www.curseforge.com/wow/addons/plumber)
+- [TargetedSpells](https://www.curseforge.com/wow/addons/targetedspells)
+- [Skyriding/Dragonriding Glider](https://www.curseforge.com/wow/addons/glider)
 
 ## Cooldown Manager
 :::note
