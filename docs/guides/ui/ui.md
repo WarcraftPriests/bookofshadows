@@ -45,6 +45,29 @@ Make sure you enable the Cooldown Manager itself in `Options` -> `Gameplay Enhan
 I currently only support some specs/classes and I might add configurations for others in the future.
 
 <details>
+<summary>Demon Hunter</summary>
+<details>
+    <summary>Havoc</summary>
+
+```
+1|a2FpWChR2dg0Q09ynZDkvHOS8/ZJrguXnJ8pOe+s5PzlkvO7JOdnSc79JzlvvuTcP5LzqyXn6UnOY5Gc+19yHoPkPCbJecxSDIy//EDEQsn5OZLz9krO3ym54AZQILESRFRJzt8huVAUyExPABGJQOJHCkimGUj8A2n/qQMk3mQBifeaQOJLOIg4DCS+eYKIHhBxHqRuBYj4LbngJkh7yRLFJjAN5DO1wG2B2qrQBHZKDkMzyD9AD6wTagxxSc3Nz1PwKM0rSS1S0FXwSCzLTwYA
+```
+</details>
+
+<details>
+    <summary>Vengeance</summary>
+
+Coming Soon
+</details>
+
+<details>
+    <summary>Devourer</summary>
+
+Coming Soon
+</details>
+</details>
+
+<details>
 <summary>Priest</summary>
 <details>
     <summary>Discipline</summary>
