@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkbookofshadows=globalThis.webpackChunkbookofshadows||[]).push([[9858],{5516(o){o.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);

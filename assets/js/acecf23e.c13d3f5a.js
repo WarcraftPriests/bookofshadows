@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkbookofshadows=globalThis.webpackChunkbookofshadows||[]).push([[1903],{1912(o){o.exports=JSON.parse('{"blogBasePath":"/bookofshadows/blog","blogTitle":"Blog","authorsListPath":"/bookofshadows/blog/authors"}')}}]);
