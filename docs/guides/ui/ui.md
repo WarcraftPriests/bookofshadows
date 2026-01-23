@@ -38,6 +38,8 @@ These addons are smaller parts that make up the total UI that I use.
 - [Plumber](https://www.curseforge.com/wow/addons/plumber)
 - [TargetedSpells](https://www.curseforge.com/wow/addons/targetedspells)
 - [Skyriding/Dragonriding Glider](https://www.curseforge.com/wow/addons/glider)
+- [BasicMiniMap](https://www.curseforge.com/wow/addons/basic-minimap)
+- [Missing Class Buff](https://www.curseforge.com/wow/addons/missing-class-buff)
 
 ## Cooldown Manager
 
@@ -244,6 +246,13 @@ Currently this addon does not support exporting profiles.
 Color I use is `BB331D`.
 
 ![player_cast_bar](pcb.png)
+
+## [MinimapStats](https://www.curseforge.com/wow/addons/minimapstats)
+This shows the time, FPS, and ms over your minimap.
+
+```
+!MSDozuVPnmqC8pn9THebgB9vceAJeK0vB2w3dw4KykwZyJCC6eOj(SV7StOLHMuzcc3r8zF)U)3zweJYipRmfCf6r2x7eBjoUR2)xNvQFMrUz9U6JR(9Xv3SXSvWil3vXDIuTtyFb2y2qgjrZlucwmJmNV304GTNfXiX5uA(cw2GxDh6)(r)VJGGgWCmYeJY0ydBkBWOr4oc2HbRleLXwj1qU94f2u8EWBjbp7lal6Fcgn)bpvElKJEbM69wOMzSB5GLKMD38K3lKujir0G9hgnixZnLamxa3N6)w66sw0G7Vcnm6ZbEV99lIP6AhxxkMkxVww2OC7rAhxuyfVibaryUxwjIvYdh42QU4J5ATWIR2cDXLs68Kz0ozn4FI0EDOEf9Bu4CsJ(8M9JjJNqtZZGgttHxHl(Fz66hbPgJYj311Grlq5pHmwJsZ0wbCSc6Y4GQpO2foDDA8hGRsXWtf68eEU)1nVVYHgd686as(ouk8R(ixwHVAXE3gz5dQgFU)MXQWx7A)qUtanSWf7zgnoqBLhoU6ln8kl3XpUIIn(YsH2DwXhn4wFX7TNkEYefVUUnWIWrotXH6jFjDEAwcE(8TyvchoaxY00LlcXr2WRm)cbjF96AH7jww)o)V79pdG((033N8(H58tvLJX(Zd
+```
 
 ## [Healbot](https://www.curseforge.com/wow/addons/heal-bot-continued)
 This is the addon I use for healing and raid frames, primarily just for Healing specs.
