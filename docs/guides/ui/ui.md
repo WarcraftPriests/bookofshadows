@@ -39,7 +39,7 @@ These addons are smaller parts that make up the total UI that I use.
 - [TargetedSpells](https://www.curseforge.com/wow/addons/targetedspells)
 - [Skyriding/Dragonriding Glider](https://www.curseforge.com/wow/addons/glider)
 - [BasicMiniMap](https://www.curseforge.com/wow/addons/basic-minimap)
-- [Missing Class Buff](https://www.curseforge.com/wow/addons/missing-class-buff)
+- [Missing Class Buff](https://www.curseforge.com/wow/addons/missing-class-buff) (works for [Power Word: Fortitude](https://www.wowhead.com/spell=21562/power-word-fortitude) and [Shadowform](https://www.wowhead.com/spell=232698/shadowform))
 
 ## Cooldown Manager
 
@@ -206,7 +206,7 @@ Type in `/plater` -> `Profiles` -> `Import Profile`:
 ## [Unhalted Unit Frames](https://github.com/DaleHuntGB/UnhaltedUnitFrames)
 
 :::note
-I have Unhalted Unit Frames anchored to the Cooldown Manager itself. This means you need to have the Cooldown Manager enabled (`Options` -> `Gameplay Enhancements` -> `Enable Cooldown Manager`) in order for the frames to show up. Enable this before you import the UUF profile.
+I have Unhalted Unit Frames anchored to the Cooldown Manager itself. This means you need to have the Cooldown Manager enabled (`Options` -> `Gameplay Enhancements` -> `Enable Cooldown Manager`) in order for the frames to show up. Enable this before you import the UUF profile. If you only want to see the CDM in combat you might need to un-anchor this to the CDM.
 :::
 
 Type in `/uuf` -> `Profiles` -> Paste in below string -> `Import Profile`
