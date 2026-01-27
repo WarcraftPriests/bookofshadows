@@ -15,12 +15,15 @@ jobs:
     name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0   # REQUIRED for git log / changelog generation prebuild script
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
           node-version: 24
           cache: yarn
-
       - name: Install dependencies
         run: yarn install --frozen-lockfile
       - name: Build website

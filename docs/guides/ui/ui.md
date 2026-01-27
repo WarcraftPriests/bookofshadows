@@ -2,6 +2,8 @@
 slug: /guides/ui
 ---
 
+import Changelog from "@site/src/components/Changelog";
+
 # Publik UI: Midnight
 If you are looking for starting point imports for your UI use the following import codes. This UI is designed mainly for Shadow Priest, although I also support the following:
 - All Priest specs
@@ -9,6 +11,11 @@ If you are looking for starting point imports for your UI use the following impo
 - Havoc Demon Hunter
 
 In the future I might add support for others.
+
+<Changelog
+  docName="ui.md"
+  docPath="docs/guides/ui/ui.md"
+/>
 
 ## Main HUD: Edit Mode
 
