@@ -255,12 +255,12 @@ To import this profile as a whole: `/tmw` -> Right click one of the empty boxes 
 ^1^T^SGroups^T ^N1^T ^SPoint^T ^Sy^N-106 ^Sx^N-148 ^t^SScale^N1.2596 ^SLocked^B ^SGUID^STMW:group:1fR32X42_9Of ^SColumns^N3 ^SIcons^T ^N1^T ^SShowTimer^B ^SOnlyEquipped^B ^SType^Scooldown ^SOnlyInBags^B ^SName^SSpatial~`Rift ^SShowTimerText^B ^SSettingsPerView^T ^Sicon^T ^STexts^T ^N2^S[Stacks:Hide(0)] ^t^t^t^SStates^T ^N2^T ^SColor^Sffffffffd ^SAlpha^N1 ^t^t^SEnabled^B ^t^N2^T ^SShowTimer^B ^SOnlyEquipped^B ^SType^Sitem ^SOnlyInBags^B ^SName^S13 ^SShowTimerText^B ^SSettingsPerView^T ^Sicon^T ^STexts^T ^N2^S[Stacks:Hide(1)] ^t^t^t^SStates^T ^N2^T ^SColor^Sffffffffd ^SAlpha^N1 ^t^t^SEnabled^B ^t^N3^T ^SShowTimer^B ^SOnlyEquipped^B ^SType^Sitem ^SOnlyInBags^B ^SName^S14 ^SShowTimerText^B ^SSettingsPerView^T ^Sicon^T ^STexts^T ^N2^S[Stacks:Hide(1)] ^t^t^t^SStates^T ^N2^T ^SColor^Sffffffffd ^SAlpha^N1 ^t^t^SEnabled^B ^t^t^SName^SRacial~`and~`Trinkets ^SSettingsPerView^T ^Sicon^T ^SBorderInset^B ^SBorderIcon^N1.8 ^t^t^t^N2^T ^SPoint^T ^Sy^N-171 ^Sx^N-134.5 ^t^SScale^N1.2431 ^SLocked^B ^SGUID^STMW:group:1fR3Gxp3DTmQ ^SColumns^N2 ^SIcons^T ^N1^T ^SShowTimer^B ^SType^Sitem ^SShowTimerText^B ^SName^S244839 ^SStates^T ^N2^T ^SColor^Sffffffffd ^SAlpha^N1 ^t^t^SEnabled^B ^SOnlyInBags^B ^t^N2^T ^SShowTimer^B ^SType^Sitem ^SName^S212265 ^SEnabled^B ^SShowTimerText^B ^SStates^T ^N2^T ^SColor^Sffffffffd ^SAlpha^N1 ^t^t^t^t^SName^SPotions ^SSettingsPerView^T ^Sicon^T ^SBorderInset^B ^SBorderIcon^N1.5 ^t^t^t^t^SNumGroups^N2 ^SVersion^N12000102 ^t^N12000102^S~`~| ^Sprofile^SPublik's~`Profile ^^
 ```
 
-## [PlayerCastBars](https://www.curseforge.com/wow/addons/playercastbar)
+<!-- ## [PlayerCastBars](https://www.curseforge.com/wow/addons/playercastbar)
 Currently this addon does not support exporting profiles.
 
 Color I use is `BB331D`.
 
-![player_cast_bar](pcb.png)
+![player_cast_bar](pcb.png) -->
 
 ## [MinimapStats](https://www.curseforge.com/wow/addons/minimapstats)
 This shows the time, FPS, and ms over your minimap.
