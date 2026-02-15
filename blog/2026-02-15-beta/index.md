@@ -19,9 +19,9 @@ The bigger concern is that our weaknesses are very defined: weak single target, 
 
 ---
 
-# The Big Issues
+## The Big Issues
 
-## [Psychic Link](https://www.wowhead.com/spell=199484/psychic-link) Is Doing Too Much Heavy Lifting
+### [Psychic Link](https://www.wowhead.com/spell=199484/psychic-link) Is Doing Too Much Heavy Lifting
 
 Right now, [Psychic Link](https://www.wowhead.com/spell=199484/psychic-link) is compensating for extremely low single-target damage by massively inflating our cleave and multi-target throughput. The modifier is insanely high, and while that keeps us competitive on encounters with adds, it masks deeper problems.
 
@@ -36,7 +36,7 @@ Shadow should not rely on a single cleave scalar to stay relevant.
 
 ---
 
-## Archon Feels Gutted and Boring
+### Archon Feels Gutted and Boring
 
 Archon is currently the biggest disappointment of the Midnight launch.
 
@@ -54,7 +54,7 @@ When obvious rotational upgrades become impossible due to pathing constraints, t
 
 ---
 
-## Tier Set & Apex Talents: A Double-Edged Sword
+### Tier Set & Apex Talents: A Double-Edged Sword
 
 The Midnight tier set and Apex talents heavily buff [Shadowy Apparitions](https://www.wowhead.com/spell=341491/shadowy-apparitions).
 
@@ -72,7 +72,7 @@ If Midnight follows the same trajectory, Shadow risks being balanced around borr
 
 ---
 
-## Drastically Undertuned Talents (SW:D, Looking at You)
+### Drastically Undertuned Talents (SW:D, Looking at You)
 
 Some spells and talents are simply undertuned.
 
@@ -82,7 +82,7 @@ When a core rotational button becomes optional in practice (not by design, but b
 
 ---
 
-## [Tentacle Slam](https://www.wowhead.com/spell=1227280/tentacle-slam) – Cool Idea, Awkward Execution
+### [Tentacle Slam](https://www.wowhead.com/spell=1227280/tentacle-slam) – Cool Idea, Awkward Execution
 
 [Tentacle Slam](https://www.wowhead.com/spell=1227280/tentacle-slam) has potential, but its implementation is messy:
 
@@ -95,7 +95,7 @@ The spell wants to be a utility/interaction engine for Apparitions and Idol game
 
 ---
 
-## Idol Spells Lack Flavor and Impact
+### Idol Spells Lack Flavor and Impact
 
 The Idol spells are weaker and less flavorful than they’ve been in past iterations.
 
@@ -111,7 +111,7 @@ Idols used to define builds. Now they feel supplemental.
 
 ---
 
-## [Voidform](https://www.wowhead.com/spell=194249/voidform) Needs Something..Anything
+### [Voidform](https://www.wowhead.com/spell=194249/voidform) Needs Something..Anything
 
 [Voidform](https://www.wowhead.com/spell=194249/voidform) is supposed to be our defining moment.
 
@@ -129,7 +129,7 @@ Without that, it’s just a stat steroid with a timer.
 
 ---
 
-## Limited PvE Control and Utility Gaps
+### Limited PvE Control and Utility Gaps
 
 While having [Silence](https://www.wowhead.com/spell=15487/silence) baseline is great, our overall PvE CC toolkit is still lacking compared to other ranged DPS. We don’t bring a reliable AoE stop, we don’t bring meaningful group control beyond niche fears, and our utility profile is narrower than many competitors.
 
@@ -139,7 +139,7 @@ These aren’t spec-breaking issues, but they contribute to Shadow feeling sligh
 
 ---
 
-# The Good News
+## The Good News
 
 It’s not all doom and gloom.
 
@@ -147,7 +147,7 @@ There are real positives heading into Midnight.
 
 ---
 
-## [Shadow Word: Pain](https://www.wowhead.com/spell=589/shadow-word-pain) and DoTs Feel Strong Again
+### [Shadow Word: Pain](https://www.wowhead.com/spell=589/shadow-word-pain) and DoTs Feel Strong Again
 
 This is huge.
 
@@ -157,7 +157,7 @@ That’s a massive win for class identity.
 
 ---
 
-## [Silence](https://www.wowhead.com/spell=15487/silence) and [Dispersion](https://www.wowhead.com/spell=47585/dispersion) Baseline
+### [Silence](https://www.wowhead.com/spell=15487/silence) and [Dispersion](https://www.wowhead.com/spell=47585/dispersion) Baseline
 
 Having [Silence](https://www.wowhead.com/spell=15487/silence) and [Dispersion](https://www.wowhead.com/spell=47585/dispersion) baseline is fantastic quality-of-life.
 
@@ -169,7 +169,7 @@ This is one of the cleanest wins for the spec going into Midnight, even if Dispe
 
 ---
 
-## No More Bad Active Pets
+### No More Bad Active Pets
 
 [Shadowfiend](https://www.wowhead.com/spell=34433/shadowfiend)/[Mindbender](https://www.wowhead.com/spell=123040/mindbender) are now fully passive.
 
@@ -181,7 +181,7 @@ This is a quiet but significant improvement.
 
 ---
 
-## Voidweaver Is Actually Fun
+### Voidweaver Is Actually Fun
 
 Voidweaver deserves praise.
 
@@ -193,7 +193,7 @@ While Archon struggles, Voidweaver carries a lot of the “fun” weight for the
 
 ---
 
-## Minimal Pruning
+### Minimal Pruning
 
 We barely lost spells going into Midnight.
 
@@ -201,7 +201,7 @@ That matters. The toolkit still feels like Shadow Priest. We weren’t gutted th
 
 ---
 
-## More Apparition-Centric Talents
+### More Apparition-Centric Talents
 
 Blizzard is clearly leaning into [Shadowy Apparitions](https://www.wowhead.com/spell=341491/shadowy-apparitions) as a core identity pillar.
 
@@ -211,7 +211,7 @@ They just need to avoid over-nerfing the baseline to compensate for temporary sc
 
 ---
 
-# UI Frustrations That Matter
+## UI Frustrations That Matter
 
 There are also practical issues that are hurting high-end gameplay:
 
@@ -222,7 +222,7 @@ When your spec thrives on tracking multiple DoTs across many targets, poor UI su
 
 ---
 
-# Final Verdict – How We Feel Going into Midnight
+## Final Verdict – How We Feel Going into Midnight
 
 Shadow Priest is not bad.
 
