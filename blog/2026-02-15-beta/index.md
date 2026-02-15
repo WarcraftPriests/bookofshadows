@@ -175,9 +175,8 @@ This is one of the cleanest wins for the spec going into Midnight, even if Dispe
 
 No more awkward pet desyncs.  
 No more micromanaging fragile pet AI.  
-No more feeling punished by pathing.
 
-This is a quiet but significant improvement.
+This is a small but significant improvement.
 
 ---
 
