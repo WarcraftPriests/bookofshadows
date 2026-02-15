@@ -71,6 +71,7 @@
 <li class="">It is not guaranteed to apply DoTs to your primary target.</li>
 <li class="">It creates awkward gameplay friction in movement-heavy encounters.</li>
 </ul>
+<p>Notably we lost a good chunk of expression being able to cast this at a particular location, rather than locking it to a specific target. This is a notable downgrade from Shadow Crash that leaves us in a lot of awkward situations going into Midnight.</p>
 <p>The spell wants to be a utility/interaction engine for Apparitions and Idol gameplay, but its tuning and reliability don’t support that identity cleanly.</p>
 <hr>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="idol-spells-lack-flavor-and-impact">Idol Spells Lack Flavor and Impact<a href="https://warcraftpriests.github.io/bookofshadows/blog/2026/02/15/beta#idol-spells-lack-flavor-and-impact" class="hash-link" aria-label="Direct link to Idol Spells Lack Flavor and Impact" title="Direct link to Idol Spells Lack Flavor and Impact" translate="no">​</a></h3>
