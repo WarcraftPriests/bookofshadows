@@ -4,10 +4,183 @@
         <title>Book of Shadows Blog</title>
         <link>https://warcraftpriests.github.io/bookofshadows/blog</link>
         <description>Book of Shadows Blog</description>
-        <lastBuildDate>Wed, 01 Oct 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Feb 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Shadow Priest Going into Midnight Season 1 – A Spec at a Crossroads]]></title>
+            <link>https://warcraftpriests.github.io/bookofshadows/blog/2026/02/15/beta</link>
+            <guid>https://warcraftpriests.github.io/bookofshadows/blog/2026/02/15/beta</guid>
+            <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[As we head into Midnight Season 1, Shadow Priest feels… complicated.]]></description>
+            <content:encoded><![CDATA[<p>As we head into Midnight Season 1, Shadow Priest feels… complicated.</p>
+<p>On paper, we’re competitive. In practice, we’re being propped up by some very unhealthy tuning levers while several core gameplay loops feel hollowed out. The result is a spec that can perform, but doesn’t always feel great doing it.</p>
+<p>Let’s break down where Shadow stands in raid and Mythic+, what’s working, what isn’t, and how we feel heading into the season.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="overall-ranking">Overall Ranking<a href="https://warcraftpriests.github.io/bookofshadows/blog/2026/02/15/beta#overall-ranking" class="hash-link" aria-label="Direct link to Overall Ranking" title="Direct link to Overall Ranking" translate="no">​</a></h2>
+<ul>
+<li class="">Raiding: High C tier, low B tier</li>
+<li class="">Mythic+: Solid B tier</li>
+</ul>
+<p>We are not bottom of the barrel. But we’re also not comfortably strong without caveats. In raid especially, our damage profile is being artificially supported by one overtuned modifier instead of a healthy core kit. Pure single target is going to be an issue, but if there are adds we should be viable enough in the current state.</p>
+<p>The bigger concern is that our weaknesses are very defined: weak single target, limited burst AoE, and limited PvE crowd control options compared to other ranged specs. Those gaps matter in modern encounter design.</p>
+<hr>
+<h1>The Big Issues</h1>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="psychic-link-is-doing-too-much-heavy-lifting"><a href="https://www.wowhead.com/spell=199484/psychic-link" target="_blank" rel="noopener noreferrer" class="">Psychic Link</a> Is Doing Too Much Heavy Lifting<a href="https://warcraftpriests.github.io/bookofshadows/blog/2026/02/15/beta#psychic-link-is-doing-too-much-heavy-lifting" class="hash-link" aria-label="Direct link to psychic-link-is-doing-too-much-heavy-lifting" title="Direct link to psychic-link-is-doing-too-much-heavy-lifting" translate="no">​</a></h2>
+<p>Right now, <a href="https://www.wowhead.com/spell=199484/psychic-link" target="_blank" rel="noopener noreferrer" class="">Psychic Link</a> is compensating for extremely low single-target damage by massively inflating our cleave and multi-target throughput. The modifier is insanely high, and while that keeps us competitive on encounters with adds, it masks deeper problems.</p>
+<p>This is not a healthy place for the spec to be:</p>
+<ul>
+<li class="">Our single-target is weak.</li>
+<li class="">Our AoE is disproportionately dependent on a single modifier.</li>
+<li class="">We lack meaningful burst AoE compared to many other specs, our damage ramps rather than spikes.</li>
+<li class="">If <a href="https://www.wowhead.com/spell=199484/psychic-link" target="_blank" rel="noopener noreferrer" class="">Psychic Link</a> gets nerfed (and historically, it will), we immediately drop off a cliff.</li>
+</ul>
+<p>Shadow should not rely on a single cleave scalar to stay relevant.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="archon-feels-gutted-and-boring">Archon Feels Gutted and Boring<a href="https://warcraftpriests.github.io/bookofshadows/blog/2026/02/15/beta#archon-feels-gutted-and-boring" class="hash-link" aria-label="Direct link to Archon Feels Gutted and Boring" title="Direct link to Archon Feels Gutted and Boring" translate="no">​</a></h2>
+<p>Archon is currently the biggest disappointment of the Midnight launch.</p>
+<p>The spec revolves around <a href="https://www.wowhead.com/spell=194249/voidform" target="_blank" rel="noopener noreferrer" class="">Voidform</a>, but <a href="https://www.wowhead.com/spell=194249/voidform" target="_blank" rel="noopener noreferrer" class="">Voidform</a> itself feels hollow:</p>
+<ul>
+<li class="">It’s barely extendable.</li>
+<li class=""><a href="https://www.wowhead.com/spell=1231346/ancient-madness" target="_blank" rel="noopener noreferrer" class="">Ancient Madness</a> has been nerfed so heavily that it no longer meaningfully supports the old loop.</li>
+<li class="">The interaction between <a href="https://www.wowhead.com/spell=194249/voidform" target="_blank" rel="noopener noreferrer" class="">Voidform</a> → <a href="https://www.wowhead.com/spell=341491/shadowy-apparitions" target="_blank" rel="noopener noreferrer" class="">Shadowy Apparitions</a> → Idol procs → Apex talents has been dismantled.</li>
+</ul>
+<p>Archon ends up feeling one-dimensional: press cooldown, do damage, exit cooldown. The dynamic loop is gone.</p>
+<p>On top of that, our tree pathing makes certain rotational improvements functionally inaccessible. The second charge of Mind Blast should be a natural pickup for a spec that wants more Insanity flow and Apparition generation, but the top of our tree is so crowded that taking it often forces you to drop meaningful mid or bottom section throughput. In practice, most builds simply cannot justify it.</p>
+<p>When obvious rotational upgrades become impossible due to pathing constraints, that’s a structural design issue.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="tier-set--apex-talents-a-double-edged-sword">Tier Set &amp; Apex Talents: A Double-Edged Sword<a href="https://warcraftpriests.github.io/bookofshadows/blog/2026/02/15/beta#tier-set--apex-talents-a-double-edged-sword" class="hash-link" aria-label="Direct link to Tier Set &amp; Apex Talents: A Double-Edged Sword" title="Direct link to Tier Set &amp; Apex Talents: A Double-Edged Sword" translate="no">​</a></h2>
+<p>The Midnight tier set and Apex talents heavily buff <a href="https://www.wowhead.com/spell=341491/shadowy-apparitions" target="_blank" rel="noopener noreferrer" class="">Shadowy Apparitions</a>.</p>
+<p>We love that direction. <a href="https://www.wowhead.com/spell=341491/shadowy-apparitions" target="_blank" rel="noopener noreferrer" class="">Shadowy Apparitions</a> are flavorful, thematic, and feel great when they matter.</p>
+<p>But here’s the problem:</p>
+<p>To compensate for these buffs, Blizzard nerfed the base value of the spells those talents enhance. Without the tier set or Apex amplification, Apparitions feel weak and ignorable.</p>
+<p>We’ve seen this story before.</p>
+<p>In Dragonflight, core spells like <a href="https://www.wowhead.com/spell=32379/shadow-word-death" target="_blank" rel="noopener noreferrer" class="">Shadow Word: Death</a> and <a href="https://www.wowhead.com/spell=373427/inescapable-torment" target="_blank" rel="noopener noreferrer" class="">Inescapable Torment</a> were gutted to balance temporary power spikes and those nerfs were never fully reverted. We are dangerously close to repeating that pattern.</p>
+<p>If Midnight follows the same trajectory, Shadow risks being balanced around borrowed power that disappears in future seasons.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="drastically-undertuned-talents-sw-looking-at-you">Drastically Undertuned Talents (SW<!-- -->:D<!-- -->, Looking at You)<a href="https://warcraftpriests.github.io/bookofshadows/blog/2026/02/15/beta#drastically-undertuned-talents-sw-looking-at-you" class="hash-link" aria-label="Direct link to drastically-undertuned-talents-sw-looking-at-you" title="Direct link to drastically-undertuned-talents-sw-looking-at-you" translate="no">​</a></h2>
+<p>Some spells and talents are simply undertuned.</p>
+<p><a href="https://www.wowhead.com/spell=32379/shadow-word-death" target="_blank" rel="noopener noreferrer" class="">Shadow Word: Death</a> is the biggest offender. You can practically un-talent it and barely notice. That should never be true for a historically iconic execute.</p>
+<p>When a core rotational button becomes optional in practice (not by design, but by tuning neglect), that’s a red flag.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="tentacle-slam--cool-idea-awkward-execution"><a href="https://www.wowhead.com/spell=1227280/tentacle-slam" target="_blank" rel="noopener noreferrer" class="">Tentacle Slam</a> – Cool Idea, Awkward Execution<a href="https://warcraftpriests.github.io/bookofshadows/blog/2026/02/15/beta#tentacle-slam--cool-idea-awkward-execution" class="hash-link" aria-label="Direct link to tentacle-slam--cool-idea-awkward-execution" title="Direct link to tentacle-slam--cool-idea-awkward-execution" translate="no">​</a></h2>
+<p><a href="https://www.wowhead.com/spell=1227280/tentacle-slam" target="_blank" rel="noopener noreferrer" class="">Tentacle Slam</a> has potential, but its implementation is messy:</p>
+<ul>
+<li class="">Several talents buff its damage, but that’s not the point of the spell.</li>
+<li class="">If your target moves after casting, it can miss.</li>
+<li class="">It is not guaranteed to apply DoTs to your primary target.</li>
+<li class="">It creates awkward gameplay friction in movement-heavy encounters.</li>
+</ul>
+<p>The spell wants to be a utility/interaction engine for Apparitions and Idol gameplay, but its tuning and reliability don’t support that identity cleanly.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="idol-spells-lack-flavor-and-impact">Idol Spells Lack Flavor and Impact<a href="https://warcraftpriests.github.io/bookofshadows/blog/2026/02/15/beta#idol-spells-lack-flavor-and-impact" class="hash-link" aria-label="Direct link to Idol Spells Lack Flavor and Impact" title="Direct link to Idol Spells Lack Flavor and Impact" translate="no">​</a></h2>
+<p>The Idol spells are weaker and less flavorful than they’ve been in past iterations.</p>
+<p>When you talent into an Idol, it should meaningfully change your gameplay texture. Right now, they often feel numerically modest and visually muted.</p>
+<p>They need:</p>
+<ul>
+<li class="">More distinct identities</li>
+<li class="">Stronger gameplay hooks</li>
+<li class="">Clearer impact moments</li>
+</ul>
+<p>Idols used to define builds. Now they feel supplemental.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="voidform-needs-somethinganything"><a href="https://www.wowhead.com/spell=194249/voidform" target="_blank" rel="noopener noreferrer" class="">Voidform</a> Needs Something..Anything<a href="https://warcraftpriests.github.io/bookofshadows/blog/2026/02/15/beta#voidform-needs-somethinganything" class="hash-link" aria-label="Direct link to voidform-needs-somethinganything" title="Direct link to voidform-needs-somethinganything" translate="no">​</a></h2>
+<p><a href="https://www.wowhead.com/spell=194249/voidform" target="_blank" rel="noopener noreferrer" class="">Voidform</a> is supposed to be our defining moment.</p>
+<p>Right now, it isn’t.</p>
+<p>One of the best-feeling interactions in the past was <a href="https://www.wowhead.com/spell=1240401/void-volley" target="_blank" rel="noopener noreferrer" class="">Void Volley</a> triggering <a href="https://www.wowhead.com/spell=377349/idol-of-cthun" target="_blank" rel="noopener noreferrer" class="">C’Thun</a>, creating satisfying cross-synergy inside the cooldown window. Even something as simple as restoring that interaction would meaningfully improve the feel of Archon.</p>
+<p><a href="https://www.wowhead.com/spell=194249/voidform" target="_blank" rel="noopener noreferrer" class="">Voidform</a> needs:</p>
+<ul>
+<li class="">A stronger feedback loop</li>
+<li class="">More extension potential</li>
+<li class="">Clear synergy with Apparitions and Idols</li>
+</ul>
+<p>Without that, it’s just a stat steroid with a timer.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="limited-pve-control-and-utility-gaps">Limited PvE Control and Utility Gaps<a href="https://warcraftpriests.github.io/bookofshadows/blog/2026/02/15/beta#limited-pve-control-and-utility-gaps" class="hash-link" aria-label="Direct link to Limited PvE Control and Utility Gaps" title="Direct link to Limited PvE Control and Utility Gaps" translate="no">​</a></h2>
+<p>While having <a href="https://www.wowhead.com/spell=15487/silence" target="_blank" rel="noopener noreferrer" class="">Silence</a> baseline is great, our overall PvE CC toolkit is still lacking compared to other ranged DPS. We don’t bring a reliable AoE stop, we don’t bring meaningful group control beyond niche fears, and our utility profile is narrower than many competitors.</p>
+<p>Additionally, <a href="https://www.wowhead.com/spell=47585/dispersion" target="_blank" rel="noopener noreferrer" class="">Dispersion</a> still being on the global cooldown feels outdated. For a defensive meant to react to lethal mechanics, having it trigger the GCD adds friction that many modern defensives no longer have.</p>
+<p>These aren’t spec-breaking issues, but they contribute to Shadow feeling slightly behind the curve in modern dungeon design.</p>
+<hr>
+<h1>The Good News</h1>
+<p>It’s not all doom and gloom.</p>
+<p>There are real positives heading into Midnight.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="shadow-word-pain-and-dots-feel-strong-again"><a href="https://www.wowhead.com/spell=589/shadow-word-pain" target="_blank" rel="noopener noreferrer" class="">Shadow Word: Pain</a> and DoTs Feel Strong Again<a href="https://warcraftpriests.github.io/bookofshadows/blog/2026/02/15/beta#shadow-word-pain-and-dots-feel-strong-again" class="hash-link" aria-label="Direct link to shadow-word-pain-and-dots-feel-strong-again" title="Direct link to shadow-word-pain-and-dots-feel-strong-again" translate="no">​</a></h2>
+<p>This is huge.</p>
+<p><a href="https://www.wowhead.com/spell=589/shadow-word-pain" target="_blank" rel="noopener noreferrer" class="">Shadow Word: Pain</a> and our DoT gameplay feel relevant again. Multi-DoTing matters. Maintaining debuffs matters. We feel more like an actual damage-over-time spec again.</p>
+<p>That’s a massive win for class identity.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="silence-and-dispersion-baseline"><a href="https://www.wowhead.com/spell=15487/silence" target="_blank" rel="noopener noreferrer" class="">Silence</a> and <a href="https://www.wowhead.com/spell=47585/dispersion" target="_blank" rel="noopener noreferrer" class="">Dispersion</a> Baseline<a href="https://warcraftpriests.github.io/bookofshadows/blog/2026/02/15/beta#silence-and-dispersion-baseline" class="hash-link" aria-label="Direct link to silence-and-dispersion-baseline" title="Direct link to silence-and-dispersion-baseline" translate="no">​</a></h2>
+<p>Having <a href="https://www.wowhead.com/spell=15487/silence" target="_blank" rel="noopener noreferrer" class="">Silence</a> and <a href="https://www.wowhead.com/spell=47585/dispersion" target="_blank" rel="noopener noreferrer" class="">Dispersion</a> baseline is fantastic quality-of-life.</p>
+<ul>
+<li class="">Less talent tax</li>
+<li class="">More flexibility in builds</li>
+<li class="">Better utility baseline</li>
+</ul>
+<p>This is one of the cleanest wins for the spec going into Midnight, even if Dispersion being on the GCD still needs attention.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="no-more-bad-active-pets">No More Bad Active Pets<a href="https://warcraftpriests.github.io/bookofshadows/blog/2026/02/15/beta#no-more-bad-active-pets" class="hash-link" aria-label="Direct link to No More Bad Active Pets" title="Direct link to No More Bad Active Pets" translate="no">​</a></h2>
+<p><a href="https://www.wowhead.com/spell=34433/shadowfiend" target="_blank" rel="noopener noreferrer" class="">Shadowfiend</a>/<a href="https://www.wowhead.com/spell=123040/mindbender" target="_blank" rel="noopener noreferrer" class="">Mindbender</a> are now fully passive.</p>
+<p>No more awkward pet desyncs.<br>
+<!-- -->No more micromanaging fragile pet AI.<br>
+<!-- -->No more feeling punished by pathing.</p>
+<p>This is a quiet but significant improvement.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="voidweaver-is-actually-fun">Voidweaver Is Actually Fun<a href="https://warcraftpriests.github.io/bookofshadows/blog/2026/02/15/beta#voidweaver-is-actually-fun" class="hash-link" aria-label="Direct link to Voidweaver Is Actually Fun" title="Direct link to Voidweaver Is Actually Fun" translate="no">​</a></h2>
+<p>Voidweaver deserves praise.</p>
+<p>It looks great.<br>
+<!-- -->It feels distinct.<br>
+<!-- -->It has engaging gameplay hooks.</p>
+<p>While Archon struggles, Voidweaver carries a lot of the “fun” weight for the spec right now. It also plays similarly enough to The War Within that returning players won’t feel lost.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="minimal-pruning">Minimal Pruning<a href="https://warcraftpriests.github.io/bookofshadows/blog/2026/02/15/beta#minimal-pruning" class="hash-link" aria-label="Direct link to Minimal Pruning" title="Direct link to Minimal Pruning" translate="no">​</a></h2>
+<p>We barely lost spells going into Midnight.</p>
+<p>That matters. The toolkit still feels like Shadow Priest. We weren’t gutted the way some specs were.</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="more-apparition-centric-talents">More Apparition-Centric Talents<a href="https://warcraftpriests.github.io/bookofshadows/blog/2026/02/15/beta#more-apparition-centric-talents" class="hash-link" aria-label="Direct link to More Apparition-Centric Talents" title="Direct link to More Apparition-Centric Talents" translate="no">​</a></h2>
+<p>Blizzard is clearly leaning into <a href="https://www.wowhead.com/spell=341491/shadowy-apparitions" target="_blank" rel="noopener noreferrer" class="">Shadowy Apparitions</a> as a core identity pillar.</p>
+<p>That’s the right direction.</p>
+<p>They just need to avoid over-nerfing the baseline to compensate for temporary scaling spikes.</p>
+<hr>
+<h1>UI Frustrations That Matter</h1>
+<p>There are also practical issues that are hurting high-end gameplay:</p>
+<ul>
+<li class="">You still can’t color-code nameplates.</li>
+<li class="">DoTs on unit frames are not filterable/sortable in a way that supports heavy multi-DoT raid encounters.</li>
+</ul>
+<p>When your spec thrives on tracking multiple DoTs across many targets, poor UI support becomes a real performance limiter.</p>
+<hr>
+<h1>Final Verdict – How We Feel Going into Midnight</h1>
+<p>Shadow Priest is not bad.</p>
+<p>But it is fragile.</p>
+<p>We are:</p>
+<ul>
+<li class="">Propped up by an overtuned <a href="https://www.wowhead.com/spell=199484/psychic-link" target="_blank" rel="noopener noreferrer" class="">Psychic Link</a> modifier.</li>
+<li class="">Struggling with weak single-target.</li>
+<li class="">Lacking meaningful burst AoE.</li>
+<li class="">Limited in PvE crowd control compared to other ranged specs.</li>
+<li class="">Playing an Archon build that feels hollow compared to past iterations.</li>
+<li class="">Constrained by awkward talent pathing decisions.</li>
+<li class="">Balanced around tier and Apex synergies that may not survive future tuning passes.</li>
+</ul>
+<p>At the same time:</p>
+<ul>
+<li class="">DoTs feel good again.</li>
+<li class="">Apparition gameplay is thematically strong.</li>
+<li class="">Voidweaver is fun.</li>
+<li class="">Utility baseline is improved.</li>
+<li class="">The core toolkit remains intact.</li>
+</ul>
+<p>So where does that leave us?</p>
+<p>Cautiously optimistic, but concerned.</p>
+<p>If Blizzard smooths out single-target, restores meaningful <a href="https://www.wowhead.com/spell=194249/voidform" target="_blank" rel="noopener noreferrer" class="">Voidform</a> loops, improves burst AoE options, and avoids knee-jerk <a href="https://www.wowhead.com/spell=199484/psychic-link" target="_blank" rel="noopener noreferrer" class="">Psychic Link</a> nerfs without compensatory buffs elsewhere, Shadow could land comfortably in B tier or higher.</p>
+<p>If not, we risk becoming a spec that only feels good when artificially inflated by temporary modifiers.</p>
+<p>Going into Midnight Season 1, Shadow Priest feels playable, competitive in Mythic+, and serviceable in raid, but it doesn’t feel complete.</p>
+<p>And for a spec built on void-fueled madness and escalating power, “incomplete” is the wrong vibe.</p>
+<p>We don’t need a rework.</p>
+<p>We need our loop back.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[First look at Shadow Priest in the Midnight Alpha]]></title>
             <link>https://warcraftpriests.github.io/bookofshadows/blog/midnight-alpha-first-look</link>
