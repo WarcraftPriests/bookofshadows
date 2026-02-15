@@ -91,6 +91,8 @@ When a core rotational button becomes optional in practice (not by design, but b
 - It is not guaranteed to apply DoTs to your primary target.  
 - It creates awkward gameplay friction in movement-heavy encounters.  
 
+Notably we lost a good chunk of expression being able to cast this at a particular location, rather than locking it to a specific target. This is a notable downgrade from Shadow Crash that leaves us in a lot of awkward situations going into Midnight. 
+
 The spell wants to be a utility/interaction engine for Apparitions and Idol gameplay, but its tuning and reliability don’t support that identity cleanly.
 
 ---
