@@ -2,11 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://warcraftpriests.github.io/bookofshadows/blog</id>
     <title>Book of Shadows Blog</title>
-    <updated>2026-02-15T00:00:00.000Z</updated>
+    <updated>2026-03-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://warcraftpriests.github.io/bookofshadows/blog"/>
     <subtitle>Book of Shadows Blog</subtitle>
     <icon>https://warcraftpriests.github.io/bookofshadows/img/book.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[New]]></title>
+        <id>https://warcraftpriests.github.io/bookofshadows/blog/tc-shadow-thread</id>
+        <link href="https://warcraftpriests.github.io/bookofshadows/blog/tc-shadow-thread"/>
+        <updated>2026-03-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New #tc-shadow Thread - Help Wanted]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="new-tc-shadow-thread---help-wanted">New #tc-shadow Thread - Help Wanted<a href="https://warcraftpriests.github.io/bookofshadows/blog/tc-shadow-thread#new-tc-shadow-thread---help-wanted" class="hash-link" aria-label="Direct link to New #tc-shadow Thread - Help Wanted" title="Direct link to New #tc-shadow Thread - Help Wanted" translate="no">​</a></h2>
+<p>I wanted to share a quick update on the new <strong>#tc-shadow</strong> thread:</p>
+<ul>
+<li class=""><a href="https://discord.com/channels/118456785047781384/1482545398504489072" target="_blank" rel="noopener noreferrer" class="">https://discord.com/channels/118456785047781384/1482545398504489072</a></li>
+</ul>
+<p>Theorycrafting work for Shadow Priest keeps getting harder every patch cycle. There are more game updates, more tuning passes, more interactions, and more edge cases to test than ever before.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-this-thread-exists">Why this thread exists<a href="https://warcraftpriests.github.io/bookofshadows/blog/tc-shadow-thread#why-this-thread-exists" class="hash-link" aria-label="Direct link to Why this thread exists" title="Direct link to Why this thread exists" translate="no">​</a></h2>
+<p>The goal is simple: do more of this work in the open and make it easier for people to jump in.</p>
+<p>A lot of people assume most TC work happens in private channels. The truth is, for sims and APL work it has mostly been a 1-2 person effort for a long time. There has not been some giant private pipeline hiding all the work.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-has-become-hard-to-keep-up-with">What has become hard to keep up with<a href="https://warcraftpriests.github.io/bookofshadows/blog/tc-shadow-thread#what-has-become-hard-to-keep-up-with" class="hash-link" aria-label="Direct link to What has become hard to keep up with" title="Direct link to What has become hard to keep up with" translate="no">​</a></h2>
+<p>The ongoing load is a lot for one person to handle consistently:</p>
+<ul>
+<li class="">Tracking and testing APL changes</li>
+<li class="">Following game changes and updates</li>
+<li class="">Running and validating the actual sims</li>
+<li class="">Re-checking results after new tuning and build changes</li>
+</ul>
+<p>Each of these steps takes time on its own, and they all need to happen together to keep recommendations accurate.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-help-looks-like">What help looks like<a href="https://warcraftpriests.github.io/bookofshadows/blog/tc-shadow-thread#what-help-looks-like" class="hash-link" aria-label="Direct link to What help looks like" title="Direct link to What help looks like" translate="no">​</a></h2>
+<p>If you want to contribute, this new thread is the place to do it.</p>
+<p>Useful help can include:</p>
+<ul>
+<li class="">Reviewing APL diffs and logic changes</li>
+<li class="">Testing candidate APL edits across different scenarios</li>
+<li class="">Validating behavior after SimC/module updates</li>
+<li class="">Sharing reproducible sim setups and results</li>
+<li class="">Flagging suspicious output or regressions early</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-ask">The ask<a href="https://warcraftpriests.github.io/bookofshadows/blog/tc-shadow-thread#the-ask" class="hash-link" aria-label="Direct link to The ask" title="Direct link to The ask" translate="no">​</a></h2>
+<p>If you care about Shadow Priest theorycrafting, please join the thread and help us keep this sustainable.</p>
+<p>The hope is that the new #tc-shadow thread makes it easier to spread the workload, keep everything transparent, and ship better answers faster.</p>]]></content>
+        <author>
+            <name>Publik</name>
+            <uri>https://github.com/seanpeters86</uri>
+        </author>
+        <category label="live" term="live"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shadow Priest Going into Midnight Season 1 – A Spec at a Crossroads]]></title>
         <id>https://warcraftpriests.github.io/bookofshadows/blog/2026/02/15/beta</id>
