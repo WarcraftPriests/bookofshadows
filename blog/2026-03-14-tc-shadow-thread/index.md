@@ -1,6 +1,6 @@
 ---
 slug: tc-shadow-thread
-title: New #tc-shadow Thread - Help Wanted
+title: New tc-shadow Thread - Help Wanted
 authors: [publik]
 tags: [live]
 ---
