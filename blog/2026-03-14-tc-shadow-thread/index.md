@@ -8,6 +8,9 @@ tags: [live]
 I wanted to share a quick update on the new **#tc-shadow** thread:
 - https://discord.com/channels/118456785047781384/1482545398504489072
 
+Open Issues can be found here:
+- https://github.com/WarcraftPriests/mid-shadow-priest/issues
+
 Theorycrafting work for Shadow Priest keeps getting harder every patch cycle. There are more game updates, more tuning passes, more interactions, and more edge cases to test than ever before.
 
 <!-- truncate -->
