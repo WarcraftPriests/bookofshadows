@@ -5,8 +5,6 @@ authors: [publik]
 tags: [live]
 ---
 
-## New #tc-shadow Thread - Help Wanted
-
 I wanted to share a quick update on the new **#tc-shadow** thread:
 - https://discord.com/channels/118456785047781384/1482545398504489072
 
