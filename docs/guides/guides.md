@@ -10,4 +10,5 @@ General Shadow Priest guides can be found below:
 
 ## Other Guides
 - [Dungeon Sims as a Shadow Priest](/guides/dungeonsims)
+- [Testing APL Changes as a Shadow Priest](/guides/apl-testing)
 - [Midnight UI Guide](/guides/ui)
